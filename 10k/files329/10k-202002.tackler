@@ -1,0 +1,116 @@
+2020-02-01 'transaction 7337
+    T29f:2a0:2a1        7337 E @ 7337 F
+    T29f:2a0:2a1:2a2
+
+2020-02-02 'transaction 7338
+    T29f:2a0:2a1:2a2:2a3              7338 F
+    T29f:2a0:2a1:2a2:2a3:2a4         -7338 F
+
+2020-02-03 'transaction 7339
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5        7339 G @ 0.89 H
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6
+
+2020-02-04 'transaction 7340
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7        7340 H @ 7340 I
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7:2a8
+
+2020-02-05 'transaction 7341
+    T2a9              7341 I
+    T2a9:2aa         -7341 I
+
+2020-02-06 'transaction 7342
+    T2a9:2aa:2ab        7342 J @ 0.92 K
+    T2a9:2aa:2ab:2ac
+
+2020-02-07 'transaction 7343
+    T2a9:2aa:2ab:2ac:2ad        7343 K @ 7343 L
+    T2a9:2aa:2ab:2ac:2ad:2ae
+
+2020-02-08 'transaction 7344
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af              7344 L
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0         -7344 L
+
+2020-02-09 'transaction 7345
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1        7345 M @ 0.95 N
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1:2b2
+
+2020-02-10 'transaction 7346
+    T2b3        7346 N @ 7346 O
+    T2b3:2b4
+
+2020-02-11 'transaction 7347
+    T2b3:2b4:2b5              7347 O
+    T2b3:2b4:2b5:2b6         -7347 O
+
+2020-02-12 'transaction 7348
+    T2b3:2b4:2b5:2b6:2b7        7348 P @ 0.98 Q
+    T2b3:2b4:2b5:2b6:2b7:2b8
+
+2020-02-13 'transaction 7349
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9        7349 Q @ 7349 R
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba
+
+2020-02-14 'transaction 7350
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb              7350 R
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb:2bc         -7350 R
+
+2020-02-15 'transaction 7351
+    T2bd        7351 S @ 1.01 T
+    T2bd:2be
+
+2020-02-16 'transaction 7352
+    T2bd:2be:2bf        7352 T @ 7352 U
+    T2bd:2be:2bf:2c0
+
+2020-02-17 'transaction 7353
+    T2bd:2be:2bf:2c0:2c1              7353 U
+    T2bd:2be:2bf:2c0:2c1:2c2         -7353 U
+
+2020-02-18 'transaction 7354
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3        7354 V @ 1.04 W
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4
+
+2020-02-19 'transaction 7355
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5        7355 W @ 7355 X
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6
+
+2020-02-20 'transaction 7356
+    T2c7              7356 X
+    T2c7:2c8         -7356 X
+
+2020-02-21 'transaction 7357
+    T2c7:2c8:2c9        7357 Y @ 1.07 Z
+    T2c7:2c8:2c9:2ca
+
+2020-02-22 'transaction 7358
+    T2c7:2c8:2c9:2ca:2cb        7358 Z @ 7358 A
+    T2c7:2c8:2c9:2ca:2cb:2cc
+
+2020-02-23 'transaction 7359
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd              7359 A
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce         -7359 A
+
+2020-02-24 'transaction 7360
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf        7360 B @ 1.1 C
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0
+
+2020-02-25 'transaction 7361
+    T2d1        7361 C @ 7361 D
+    T2d1:2d2
+
+2020-02-26 'transaction 7362
+    T2d1:2d2:2d3              7362 D
+    T2d1:2d2:2d3:2d4         -7362 D
+
+2020-02-27 'transaction 7363
+    T2d1:2d2:2d3:2d4:2d5        7363 E @ 1.13 F
+    T2d1:2d2:2d3:2d4:2d5:2d6
+
+2020-02-28 'transaction 7364
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7        7364 F @ 7364 G
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8
+
+2020-02-29 'transaction 7365
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9              7365 G
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9:2da         -7365 G
+

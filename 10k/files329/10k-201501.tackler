@@ -1,0 +1,124 @@
+2015-01-01 'transaction 5480
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf        5480 T @ 5480 U
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0
+
+2015-01-02 'transaction 5481
+    T3c1              5481 U
+    T3c1:3c2         -5481 U
+
+2015-01-03 'transaction 5482
+    T3c1:3c2:3c3        5482 V @ 0.92 W
+    T3c1:3c2:3c3:3c4
+
+2015-01-04 'transaction 5483
+    T3c1:3c2:3c3:3c4:3c5        5483 W @ 5483 X
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2015-01-05 'transaction 5484
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7              5484 X
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8         -5484 X
+
+2015-01-06 'transaction 5485
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        5485 Y @ 0.95 Z
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2015-01-07 'transaction 5486
+    T3cb        5486 Z @ 5486 A
+    T3cb:3cc
+
+2015-01-08 'transaction 5487
+    T3cb:3cc:3cd              5487 A
+    T3cb:3cc:3cd:3ce         -5487 A
+
+2015-01-09 'transaction 5488
+    T3cb:3cc:3cd:3ce:3cf        5488 B @ 0.98 C
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2015-01-10 'transaction 5489
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        5489 C @ 5489 D
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2015-01-11 'transaction 5490
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3              5490 D
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4         -5490 D
+
+2015-01-12 'transaction 5491
+    T3d5        5491 E @ 1.01 F
+    T3d5:3d6
+
+2015-01-13 'transaction 5492
+    T3d5:3d6:3d7        5492 F @ 5492 G
+    T3d5:3d6:3d7:3d8
+
+2015-01-14 'transaction 5493
+    T3d5:3d6:3d7:3d8:3d9              5493 G
+    T3d5:3d6:3d7:3d8:3d9:3da         -5493 G
+
+2015-01-15 'transaction 5494
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        5494 H @ 1.04 I
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2015-01-16 'transaction 5495
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        5495 I @ 5495 J
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2015-01-17 'transaction 5496
+    T3df              5496 J
+    T3df:3e0         -5496 J
+
+2015-01-18 'transaction 5497
+    T3df:3e0:3e1        5497 K @ 1.07 L
+    T3df:3e0:3e1:3e2
+
+2015-01-19 'transaction 5498
+    T3df:3e0:3e1:3e2:3e3        5498 L @ 5498 M
+    T3df:3e0:3e1:3e2:3e3:3e4
+
+2015-01-20 'transaction 5499
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5              5499 M
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6         -5499 M
+
+2015-01-21 'transaction 5500
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7        5500 N @ 1.1 O
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8
+
+2015-01-22 'transaction 5501
+    T1      5501 O @ 5501 P
+    T1:2
+
+2015-01-23 'transaction 5502
+    T1:2:3            5502 P
+    T1:2:3:4         -5502 P
+
+2015-01-24 'transaction 5503
+    T1:2:3:4:5      5503 Q @ 1.13 R
+    T1:2:3:4:5:6
+
+2015-01-25 'transaction 5504
+    T1:2:3:4:5:6:7      5504 R @ 5504 S
+    T1:2:3:4:5:6:7:8
+
+2015-01-26 'transaction 5505
+    T1:2:3:4:5:6:7:8:9            5505 S
+    T1:2:3:4:5:6:7:8:9:a         -5505 S
+
+2015-01-27 'transaction 5506
+    b      5506 T @ 1.16 U
+    b:c
+
+2015-01-28 'transaction 5507
+    b:c:d      5507 U @ 5507 V
+    b:c:d:e
+
+2015-01-29 'transaction 5508
+    b:c:d:e:f             5508 V
+    b:c:d:e:f:10         -5508 V
+
+2015-01-30 'transaction 5509
+    b:c:d:e:f:10:11       5509 W @ 1.19 X
+    b:c:d:e:f:10:11:12
+
+2015-01-31 'transaction 5510
+    b:c:d:e:f:10:11:12:13       5510 X @ 5510 Y
+    b:c:d:e:f:10:11:12:13:14
+

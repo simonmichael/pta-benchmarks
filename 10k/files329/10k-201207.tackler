@@ -1,0 +1,124 @@
+2012-07-01 'transaction 4566
+    T83             4566 P
+    T83:84         -4566 P
+
+2012-07-02 'transaction 4567
+    T83:84:85       4567 Q @ 0.77 R
+    T83:84:85:86
+
+2012-07-03 'transaction 4568
+    T83:84:85:86:87       4568 R @ 4568 S
+    T83:84:85:86:87:88
+
+2012-07-04 'transaction 4569
+    T83:84:85:86:87:88:89             4569 S
+    T83:84:85:86:87:88:89:8a         -4569 S
+
+2012-07-05 'transaction 4570
+    T83:84:85:86:87:88:89:8a:8b       4570 T @ 0.8 U
+    T83:84:85:86:87:88:89:8a:8b:8c
+
+2012-07-06 'transaction 4571
+    T8d       4571 U @ 4571 V
+    T8d:8e
+
+2012-07-07 'transaction 4572
+    T8d:8e:8f             4572 V
+    T8d:8e:8f:90         -4572 V
+
+2012-07-08 'transaction 4573
+    T8d:8e:8f:90:91       4573 W @ 0.83 X
+    T8d:8e:8f:90:91:92
+
+2012-07-09 'transaction 4574
+    T8d:8e:8f:90:91:92:93       4574 X @ 4574 Y
+    T8d:8e:8f:90:91:92:93:94
+
+2012-07-10 'transaction 4575
+    T8d:8e:8f:90:91:92:93:94:95             4575 Y
+    T8d:8e:8f:90:91:92:93:94:95:96         -4575 Y
+
+2012-07-11 'transaction 4576
+    T97       4576 Z @ 0.86 A
+    T97:98
+
+2012-07-12 'transaction 4577
+    T97:98:99       4577 A @ 4577 B
+    T97:98:99:9a
+
+2012-07-13 'transaction 4578
+    T97:98:99:9a:9b             4578 B
+    T97:98:99:9a:9b:9c         -4578 B
+
+2012-07-14 'transaction 4579
+    T97:98:99:9a:9b:9c:9d       4579 C @ 0.89 D
+    T97:98:99:9a:9b:9c:9d:9e
+
+2012-07-15 'transaction 4580
+    T97:98:99:9a:9b:9c:9d:9e:9f       4580 D @ 4580 E
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0
+
+2012-07-16 'transaction 4581
+    a1             4581 E
+    a1:a2         -4581 E
+
+2012-07-17 'transaction 4582
+    a1:a2:a3       4582 F @ 0.92 G
+    a1:a2:a3:a4
+
+2012-07-18 'transaction 4583
+    a1:a2:a3:a4:a5       4583 G @ 4583 H
+    a1:a2:a3:a4:a5:a6
+
+2012-07-19 'transaction 4584
+    a1:a2:a3:a4:a5:a6:a7             4584 H
+    a1:a2:a3:a4:a5:a6:a7:a8         -4584 H
+
+2012-07-20 'transaction 4585
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       4585 I @ 0.95 J
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2012-07-21 'transaction 4586
+    ab       4586 J @ 4586 K
+    ab:ac
+
+2012-07-22 'transaction 4587
+    ab:ac:ad             4587 K
+    ab:ac:ad:ae         -4587 K
+
+2012-07-23 'transaction 4588
+    ab:ac:ad:ae:af       4588 L @ 0.98 M
+    ab:ac:ad:ae:af:b0
+
+2012-07-24 'transaction 4589
+    ab:ac:ad:ae:af:b0:b1       4589 M @ 4589 N
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2012-07-25 'transaction 4590
+    ab:ac:ad:ae:af:b0:b1:b2:b3             4590 N
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4         -4590 N
+
+2012-07-26 'transaction 4591
+    b5       4591 O @ 1.01 P
+    b5:b6
+
+2012-07-27 'transaction 4592
+    b5:b6:b7       4592 P @ 4592 Q
+    b5:b6:b7:b8
+
+2012-07-28 'transaction 4593
+    b5:b6:b7:b8:b9             4593 Q
+    b5:b6:b7:b8:b9:ba         -4593 Q
+
+2012-07-29 'transaction 4594
+    b5:b6:b7:b8:b9:ba:bb       4594 R @ 1.04 S
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2012-07-30 'transaction 4595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       4595 S @ 4595 T
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2012-07-31 'transaction 4596
+    bf             4596 T
+    bf:c0         -4596 T
+

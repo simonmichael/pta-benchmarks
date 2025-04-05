@@ -1,0 +1,120 @@
+2023-11-01 'transaction 8706
+    T19b              8706 V
+    T19b:19c         -8706 V
+
+2023-11-02 'transaction 8707
+    T19b:19c:19d        8707 W @ 0.77 X
+    T19b:19c:19d:19e
+
+2023-11-03 'transaction 8708
+    T19b:19c:19d:19e:19f        8708 X @ 8708 Y
+    T19b:19c:19d:19e:19f:1a0
+
+2023-11-04 'transaction 8709
+    T19b:19c:19d:19e:19f:1a0:1a1              8709 Y
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2         -8709 Y
+
+2023-11-05 'transaction 8710
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3        8710 Z @ 0.8 A
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3:1a4
+
+2023-11-06 'transaction 8711
+    T1a5        8711 A @ 8711 B
+    T1a5:1a6
+
+2023-11-07 'transaction 8712
+    T1a5:1a6:1a7              8712 B
+    T1a5:1a6:1a7:1a8         -8712 B
+
+2023-11-08 'transaction 8713
+    T1a5:1a6:1a7:1a8:1a9        8713 C @ 0.83 D
+    T1a5:1a6:1a7:1a8:1a9:1aa
+
+2023-11-09 'transaction 8714
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab        8714 D @ 8714 E
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac
+
+2023-11-10 'transaction 8715
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad              8715 E
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad:1ae         -8715 E
+
+2023-11-11 'transaction 8716
+    T1af        8716 F @ 0.86 G
+    T1af:1b0
+
+2023-11-12 'transaction 8717
+    T1af:1b0:1b1        8717 G @ 8717 H
+    T1af:1b0:1b1:1b2
+
+2023-11-13 'transaction 8718
+    T1af:1b0:1b1:1b2:1b3              8718 H
+    T1af:1b0:1b1:1b2:1b3:1b4         -8718 H
+
+2023-11-14 'transaction 8719
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5        8719 I @ 0.89 J
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6
+
+2023-11-15 'transaction 8720
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7        8720 J @ 8720 K
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7:1b8
+
+2023-11-16 'transaction 8721
+    T1b9              8721 K
+    T1b9:1ba         -8721 K
+
+2023-11-17 'transaction 8722
+    T1b9:1ba:1bb        8722 L @ 0.92 M
+    T1b9:1ba:1bb:1bc
+
+2023-11-18 'transaction 8723
+    T1b9:1ba:1bb:1bc:1bd        8723 M @ 8723 N
+    T1b9:1ba:1bb:1bc:1bd:1be
+
+2023-11-19 'transaction 8724
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf              8724 N
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0         -8724 N
+
+2023-11-20 'transaction 8725
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1        8725 O @ 0.95 P
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1:1c2
+
+2023-11-21 'transaction 8726
+    T1c3        8726 P @ 8726 Q
+    T1c3:1c4
+
+2023-11-22 'transaction 8727
+    T1c3:1c4:1c5              8727 Q
+    T1c3:1c4:1c5:1c6         -8727 Q
+
+2023-11-23 'transaction 8728
+    T1c3:1c4:1c5:1c6:1c7        8728 R @ 0.98 S
+    T1c3:1c4:1c5:1c6:1c7:1c8
+
+2023-11-24 'transaction 8729
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9        8729 S @ 8729 T
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca
+
+2023-11-25 'transaction 8730
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb              8730 T
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc         -8730 T
+
+2023-11-26 'transaction 8731
+    T1cd        8731 U @ 1.01 V
+    T1cd:1ce
+
+2023-11-27 'transaction 8732
+    T1cd:1ce:1cf        8732 V @ 8732 W
+    T1cd:1ce:1cf:1d0
+
+2023-11-28 'transaction 8733
+    T1cd:1ce:1cf:1d0:1d1              8733 W
+    T1cd:1ce:1cf:1d0:1d1:1d2         -8733 W
+
+2023-11-29 'transaction 8734
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3        8734 X @ 1.04 Y
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4
+
+2023-11-30 'transaction 8735
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5        8735 Y @ 8735 Z
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5:1d6
+

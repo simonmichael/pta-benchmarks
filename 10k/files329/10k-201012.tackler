@@ -1,0 +1,124 @@
+2010-12-01 'transaction 3988
+    T3cb:3cc:3cd:3ce:3cf        3988 J @ 0.98 K
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2010-12-02 'transaction 3989
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        3989 K @ 3989 L
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2010-12-03 'transaction 3990
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3              3990 L
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4         -3990 L
+
+2010-12-04 'transaction 3991
+    T3d5        3991 M @ 1.01 N
+    T3d5:3d6
+
+2010-12-05 'transaction 3992
+    T3d5:3d6:3d7        3992 N @ 3992 O
+    T3d5:3d6:3d7:3d8
+
+2010-12-06 'transaction 3993
+    T3d5:3d6:3d7:3d8:3d9              3993 O
+    T3d5:3d6:3d7:3d8:3d9:3da         -3993 O
+
+2010-12-07 'transaction 3994
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        3994 P @ 1.04 Q
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2010-12-08 'transaction 3995
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        3995 Q @ 3995 R
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2010-12-09 'transaction 3996
+    T3df              3996 R
+    T3df:3e0         -3996 R
+
+2010-12-10 'transaction 3997
+    T3df:3e0:3e1        3997 S @ 1.07 T
+    T3df:3e0:3e1:3e2
+
+2010-12-11 'transaction 3998
+    T3df:3e0:3e1:3e2:3e3        3998 T @ 3998 U
+    T3df:3e0:3e1:3e2:3e3:3e4
+
+2010-12-12 'transaction 3999
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5              3999 U
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6         -3999 U
+
+2010-12-13 'transaction 4000
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7        4000 V @ 1.1 W
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8
+
+2010-12-14 'transaction 4001
+    T1      4001 W @ 4001 X
+    T1:2
+
+2010-12-15 'transaction 4002
+    T1:2:3            4002 X
+    T1:2:3:4         -4002 X
+
+2010-12-16 'transaction 4003
+    T1:2:3:4:5      4003 Y @ 1.13 Z
+    T1:2:3:4:5:6
+
+2010-12-17 'transaction 4004
+    T1:2:3:4:5:6:7      4004 Z @ 4004 A
+    T1:2:3:4:5:6:7:8
+
+2010-12-18 'transaction 4005
+    T1:2:3:4:5:6:7:8:9            4005 A
+    T1:2:3:4:5:6:7:8:9:a         -4005 A
+
+2010-12-19 'transaction 4006
+    b      4006 B @ 1.16 C
+    b:c
+
+2010-12-20 'transaction 4007
+    b:c:d      4007 C @ 4007 D
+    b:c:d:e
+
+2010-12-21 'transaction 4008
+    b:c:d:e:f             4008 D
+    b:c:d:e:f:10         -4008 D
+
+2010-12-22 'transaction 4009
+    b:c:d:e:f:10:11       4009 E @ 1.19 F
+    b:c:d:e:f:10:11:12
+
+2010-12-23 'transaction 4010
+    b:c:d:e:f:10:11:12:13       4010 F @ 4010 G
+    b:c:d:e:f:10:11:12:13:14
+
+2010-12-24 'transaction 4011
+    T15             4011 G
+    T15:16         -4011 G
+
+2010-12-25 'transaction 4012
+    T15:16:17       4012 H @ 1.22 I
+    T15:16:17:18
+
+2010-12-26 'transaction 4013
+    T15:16:17:18:19       4013 I @ 4013 J
+    T15:16:17:18:19:1a
+
+2010-12-27 'transaction 4014
+    T15:16:17:18:19:1a:1b             4014 J
+    T15:16:17:18:19:1a:1b:1c         -4014 J
+
+2010-12-28 'transaction 4015
+    T15:16:17:18:19:1a:1b:1c:1d       4015 K @ 1.25 L
+    T15:16:17:18:19:1a:1b:1c:1d:1e
+
+2010-12-29 'transaction 4016
+    T1f       4016 L @ 4016 M
+    T1f:20
+
+2010-12-30 'transaction 4017
+    T1f:20:21             4017 M
+    T1f:20:21:22         -4017 M
+
+2010-12-31 'transaction 4018
+    T1f:20:21:22:23       4018 N @ 1.28 O
+    T1f:20:21:22:23:24
+

@@ -1,0 +1,124 @@
+2026-08-01 'transaction 9710
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3        9710 L @ 9710 M
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3:1a4
+
+2026-08-02 'transaction 9711
+    T1a5              9711 M
+    T1a5:1a6         -9711 M
+
+2026-08-03 'transaction 9712
+    T1a5:1a6:1a7        9712 N @ 1.22 O
+    T1a5:1a6:1a7:1a8
+
+2026-08-04 'transaction 9713
+    T1a5:1a6:1a7:1a8:1a9        9713 O @ 9713 P
+    T1a5:1a6:1a7:1a8:1a9:1aa
+
+2026-08-05 'transaction 9714
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab              9714 P
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac         -9714 P
+
+2026-08-06 'transaction 9715
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad        9715 Q @ 1.25 R
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad:1ae
+
+2026-08-07 'transaction 9716
+    T1af        9716 R @ 9716 S
+    T1af:1b0
+
+2026-08-08 'transaction 9717
+    T1af:1b0:1b1              9717 S
+    T1af:1b0:1b1:1b2         -9717 S
+
+2026-08-09 'transaction 9718
+    T1af:1b0:1b1:1b2:1b3        9718 T @ 1.28 U
+    T1af:1b0:1b1:1b2:1b3:1b4
+
+2026-08-10 'transaction 9719
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5        9719 U @ 9719 V
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6
+
+2026-08-11 'transaction 9720
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7              9720 V
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7:1b8         -9720 V
+
+2026-08-12 'transaction 9721
+    T1b9        9721 W @ 0.71 X
+    T1b9:1ba
+
+2026-08-13 'transaction 9722
+    T1b9:1ba:1bb        9722 X @ 9722 Y
+    T1b9:1ba:1bb:1bc
+
+2026-08-14 'transaction 9723
+    T1b9:1ba:1bb:1bc:1bd              9723 Y
+    T1b9:1ba:1bb:1bc:1bd:1be         -9723 Y
+
+2026-08-15 'transaction 9724
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf        9724 Z @ 0.74 A
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0
+
+2026-08-16 'transaction 9725
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1        9725 A @ 9725 B
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1:1c2
+
+2026-08-17 'transaction 9726
+    T1c3              9726 B
+    T1c3:1c4         -9726 B
+
+2026-08-18 'transaction 9727
+    T1c3:1c4:1c5        9727 C @ 0.77 D
+    T1c3:1c4:1c5:1c6
+
+2026-08-19 'transaction 9728
+    T1c3:1c4:1c5:1c6:1c7        9728 D @ 9728 E
+    T1c3:1c4:1c5:1c6:1c7:1c8
+
+2026-08-20 'transaction 9729
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9              9729 E
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca         -9729 E
+
+2026-08-21 'transaction 9730
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb        9730 F @ 0.8 G
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc
+
+2026-08-22 'transaction 9731
+    T1cd        9731 G @ 9731 H
+    T1cd:1ce
+
+2026-08-23 'transaction 9732
+    T1cd:1ce:1cf              9732 H
+    T1cd:1ce:1cf:1d0         -9732 H
+
+2026-08-24 'transaction 9733
+    T1cd:1ce:1cf:1d0:1d1        9733 I @ 0.83 J
+    T1cd:1ce:1cf:1d0:1d1:1d2
+
+2026-08-25 'transaction 9734
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3        9734 J @ 9734 K
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4
+
+2026-08-26 'transaction 9735
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5              9735 K
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5:1d6         -9735 K
+
+2026-08-27 'transaction 9736
+    T1d7        9736 L @ 0.86 M
+    T1d7:1d8
+
+2026-08-28 'transaction 9737
+    T1d7:1d8:1d9        9737 M @ 9737 N
+    T1d7:1d8:1d9:1da
+
+2026-08-29 'transaction 9738
+    T1d7:1d8:1d9:1da:1db              9738 N
+    T1d7:1d8:1d9:1da:1db:1dc         -9738 N
+
+2026-08-30 'transaction 9739
+    T1d7:1d8:1d9:1da:1db:1dc:1dd        9739 O @ 0.89 P
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de
+
+2026-08-31 'transaction 9740
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df        9740 P @ 9740 Q
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0
+

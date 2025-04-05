@@ -1,0 +1,124 @@
+2017-10-01 'transaction 6484
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7        6484 J @ 0.74 K
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8
+
+2017-10-02 'transaction 6485
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        6485 K @ 6485 L
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2017-10-03 'transaction 6486
+    T3cb              6486 L
+    T3cb:3cc         -6486 L
+
+2017-10-04 'transaction 6487
+    T3cb:3cc:3cd        6487 M @ 0.77 N
+    T3cb:3cc:3cd:3ce
+
+2017-10-05 'transaction 6488
+    T3cb:3cc:3cd:3ce:3cf        6488 N @ 6488 O
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2017-10-06 'transaction 6489
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1              6489 O
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2         -6489 O
+
+2017-10-07 'transaction 6490
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3        6490 P @ 0.8 Q
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4
+
+2017-10-08 'transaction 6491
+    T3d5        6491 Q @ 6491 R
+    T3d5:3d6
+
+2017-10-09 'transaction 6492
+    T3d5:3d6:3d7              6492 R
+    T3d5:3d6:3d7:3d8         -6492 R
+
+2017-10-10 'transaction 6493
+    T3d5:3d6:3d7:3d8:3d9        6493 S @ 0.83 T
+    T3d5:3d6:3d7:3d8:3d9:3da
+
+2017-10-11 'transaction 6494
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        6494 T @ 6494 U
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2017-10-12 'transaction 6495
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd              6495 U
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de         -6495 U
+
+2017-10-13 'transaction 6496
+    T3df        6496 V @ 0.86 W
+    T3df:3e0
+
+2017-10-14 'transaction 6497
+    T3df:3e0:3e1        6497 W @ 6497 X
+    T3df:3e0:3e1:3e2
+
+2017-10-15 'transaction 6498
+    T3df:3e0:3e1:3e2:3e3              6498 X
+    T3df:3e0:3e1:3e2:3e3:3e4         -6498 X
+
+2017-10-16 'transaction 6499
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5        6499 Y @ 0.89 Z
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6
+
+2017-10-17 'transaction 6500
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7        6500 Z @ 6500 A
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8
+
+2017-10-18 'transaction 6501
+    T1            6501 A
+    T1:2         -6501 A
+
+2017-10-19 'transaction 6502
+    T1:2:3      6502 B @ 0.92 C
+    T1:2:3:4
+
+2017-10-20 'transaction 6503
+    T1:2:3:4:5      6503 C @ 6503 D
+    T1:2:3:4:5:6
+
+2017-10-21 'transaction 6504
+    T1:2:3:4:5:6:7            6504 D
+    T1:2:3:4:5:6:7:8         -6504 D
+
+2017-10-22 'transaction 6505
+    T1:2:3:4:5:6:7:8:9      6505 E @ 0.95 F
+    T1:2:3:4:5:6:7:8:9:a
+
+2017-10-23 'transaction 6506
+    b      6506 F @ 6506 G
+    b:c
+
+2017-10-24 'transaction 6507
+    b:c:d            6507 G
+    b:c:d:e         -6507 G
+
+2017-10-25 'transaction 6508
+    b:c:d:e:f       6508 H @ 0.98 I
+    b:c:d:e:f:10
+
+2017-10-26 'transaction 6509
+    b:c:d:e:f:10:11       6509 I @ 6509 J
+    b:c:d:e:f:10:11:12
+
+2017-10-27 'transaction 6510
+    b:c:d:e:f:10:11:12:13             6510 J
+    b:c:d:e:f:10:11:12:13:14         -6510 J
+
+2017-10-28 'transaction 6511
+    T15       6511 K @ 1.01 L
+    T15:16
+
+2017-10-29 'transaction 6512
+    T15:16:17       6512 L @ 6512 M
+    T15:16:17:18
+
+2017-10-30 'transaction 6513
+    T15:16:17:18:19             6513 M
+    T15:16:17:18:19:1a         -6513 M
+
+2017-10-31 'transaction 6514
+    T15:16:17:18:19:1a:1b       6514 N @ 1.04 O
+    T15:16:17:18:19:1a:1b:1c
+

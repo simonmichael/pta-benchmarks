@@ -1,0 +1,120 @@
+2021-11-01 'transaction 7976
+    T3b7        7976 T @ 7976 U
+    T3b7:3b8
+
+2021-11-02 'transaction 7977
+    T3b7:3b8:3b9              7977 U
+    T3b7:3b8:3b9:3ba         -7977 U
+
+2021-11-03 'transaction 7978
+    T3b7:3b8:3b9:3ba:3bb        7978 V @ 1.28 W
+    T3b7:3b8:3b9:3ba:3bb:3bc
+
+2021-11-04 'transaction 7979
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        7979 W @ 7979 X
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2021-11-05 'transaction 7980
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf              7980 X
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0         -7980 X
+
+2021-11-06 'transaction 7981
+    T3c1        7981 Y @ 0.71 Z
+    T3c1:3c2
+
+2021-11-07 'transaction 7982
+    T3c1:3c2:3c3        7982 Z @ 7982 A
+    T3c1:3c2:3c3:3c4
+
+2021-11-08 'transaction 7983
+    T3c1:3c2:3c3:3c4:3c5              7983 A
+    T3c1:3c2:3c3:3c4:3c5:3c6         -7983 A
+
+2021-11-09 'transaction 7984
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7        7984 B @ 0.74 C
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8
+
+2021-11-10 'transaction 7985
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        7985 C @ 7985 D
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2021-11-11 'transaction 7986
+    T3cb              7986 D
+    T3cb:3cc         -7986 D
+
+2021-11-12 'transaction 7987
+    T3cb:3cc:3cd        7987 E @ 0.77 F
+    T3cb:3cc:3cd:3ce
+
+2021-11-13 'transaction 7988
+    T3cb:3cc:3cd:3ce:3cf        7988 F @ 7988 G
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2021-11-14 'transaction 7989
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1              7989 G
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2         -7989 G
+
+2021-11-15 'transaction 7990
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3        7990 H @ 0.8 I
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4
+
+2021-11-16 'transaction 7991
+    T3d5        7991 I @ 7991 J
+    T3d5:3d6
+
+2021-11-17 'transaction 7992
+    T3d5:3d6:3d7              7992 J
+    T3d5:3d6:3d7:3d8         -7992 J
+
+2021-11-18 'transaction 7993
+    T3d5:3d6:3d7:3d8:3d9        7993 K @ 0.83 L
+    T3d5:3d6:3d7:3d8:3d9:3da
+
+2021-11-19 'transaction 7994
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        7994 L @ 7994 M
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2021-11-20 'transaction 7995
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd              7995 M
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de         -7995 M
+
+2021-11-21 'transaction 7996
+    T3df        7996 N @ 0.86 O
+    T3df:3e0
+
+2021-11-22 'transaction 7997
+    T3df:3e0:3e1        7997 O @ 7997 P
+    T3df:3e0:3e1:3e2
+
+2021-11-23 'transaction 7998
+    T3df:3e0:3e1:3e2:3e3              7998 P
+    T3df:3e0:3e1:3e2:3e3:3e4         -7998 P
+
+2021-11-24 'transaction 7999
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5        7999 Q @ 0.89 R
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6
+
+2021-11-25 'transaction 8000
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7        8000 R @ 8000 S
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8
+
+2021-11-26 'transaction 8001
+    T1            8001 S
+    T1:2         -8001 S
+
+2021-11-27 'transaction 8002
+    T1:2:3      8002 T @ 0.92 U
+    T1:2:3:4
+
+2021-11-28 'transaction 8003
+    T1:2:3:4:5      8003 U @ 8003 V
+    T1:2:3:4:5:6
+
+2021-11-29 'transaction 8004
+    T1:2:3:4:5:6:7            8004 V
+    T1:2:3:4:5:6:7:8         -8004 V
+
+2021-11-30 'transaction 8005
+    T1:2:3:4:5:6:7:8:9      8005 W @ 0.95 X
+    T1:2:3:4:5:6:7:8:9:a
+

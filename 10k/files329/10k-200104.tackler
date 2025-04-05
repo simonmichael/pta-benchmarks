@@ -1,0 +1,120 @@
+2001-04-01 'transaction 457
+    T38f:390:391        457 O @ 1.07 P
+    T38f:390:391:392
+
+2001-04-02 'transaction 458
+    T38f:390:391:392:393        458 P @ 458 Q
+    T38f:390:391:392:393:394
+
+2001-04-03 'transaction 459
+    T38f:390:391:392:393:394:395               459 Q
+    T38f:390:391:392:393:394:395:396          -459 Q
+
+2001-04-04 'transaction 460
+    T38f:390:391:392:393:394:395:396:397        460 R @ 1.1 S
+    T38f:390:391:392:393:394:395:396:397:398
+
+2001-04-05 'transaction 461
+    T399        461 S @ 461 T
+    T399:39a
+
+2001-04-06 'transaction 462
+    T399:39a:39b               462 T
+    T399:39a:39b:39c          -462 T
+
+2001-04-07 'transaction 463
+    T399:39a:39b:39c:39d        463 U @ 1.13 V
+    T399:39a:39b:39c:39d:39e
+
+2001-04-08 'transaction 464
+    T399:39a:39b:39c:39d:39e:39f        464 V @ 464 W
+    T399:39a:39b:39c:39d:39e:39f:3a0
+
+2001-04-09 'transaction 465
+    T399:39a:39b:39c:39d:39e:39f:3a0:3a1               465 W
+    T399:39a:39b:39c:39d:39e:39f:3a0:3a1:3a2          -465 W
+
+2001-04-10 'transaction 466
+    T3a3        466 X @ 1.16 Y
+    T3a3:3a4
+
+2001-04-11 'transaction 467
+    T3a3:3a4:3a5        467 Y @ 467 Z
+    T3a3:3a4:3a5:3a6
+
+2001-04-12 'transaction 468
+    T3a3:3a4:3a5:3a6:3a7               468 Z
+    T3a3:3a4:3a5:3a6:3a7:3a8          -468 Z
+
+2001-04-13 'transaction 469
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9        469 A @ 1.19 B
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa
+
+2001-04-14 'transaction 470
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab        470 B @ 470 C
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab:3ac
+
+2001-04-15 'transaction 471
+    T3ad               471 C
+    T3ad:3ae          -471 C
+
+2001-04-16 'transaction 472
+    T3ad:3ae:3af        472 D @ 1.22 E
+    T3ad:3ae:3af:3b0
+
+2001-04-17 'transaction 473
+    T3ad:3ae:3af:3b0:3b1        473 E @ 473 F
+    T3ad:3ae:3af:3b0:3b1:3b2
+
+2001-04-18 'transaction 474
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3               474 F
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4          -474 F
+
+2001-04-19 'transaction 475
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5        475 G @ 1.25 H
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6
+
+2001-04-20 'transaction 476
+    T3b7        476 H @ 476 I
+    T3b7:3b8
+
+2001-04-21 'transaction 477
+    T3b7:3b8:3b9               477 I
+    T3b7:3b8:3b9:3ba          -477 I
+
+2001-04-22 'transaction 478
+    T3b7:3b8:3b9:3ba:3bb        478 J @ 1.28 K
+    T3b7:3b8:3b9:3ba:3bb:3bc
+
+2001-04-23 'transaction 479
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        479 K @ 479 L
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2001-04-24 'transaction 480
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf               480 L
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0          -480 L
+
+2001-04-25 'transaction 481
+    T3c1        481 M @ 0.71 N
+    T3c1:3c2
+
+2001-04-26 'transaction 482
+    T3c1:3c2:3c3        482 N @ 482 O
+    T3c1:3c2:3c3:3c4
+
+2001-04-27 'transaction 483
+    T3c1:3c2:3c3:3c4:3c5               483 O
+    T3c1:3c2:3c3:3c4:3c5:3c6          -483 O
+
+2001-04-28 'transaction 484
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7        484 P @ 0.74 Q
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8
+
+2001-04-29 'transaction 485
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        485 Q @ 485 R
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2001-04-30 'transaction 486
+    T3cb               486 R
+    T3cb:3cc          -486 R
+

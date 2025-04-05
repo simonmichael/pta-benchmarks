@@ -1,0 +1,120 @@
+2001-09-01 'transaction 610
+    d3:d4:d5:d6:d7:d8:d9:da:db       610 L @ 0.8 M
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2001-09-02 'transaction 611
+    dd       611 M @ 611 N
+    dd:de
+
+2001-09-03 'transaction 612
+    dd:de:df              612 N
+    dd:de:df:e0          -612 N
+
+2001-09-04 'transaction 613
+    dd:de:df:e0:e1       613 O @ 0.83 P
+    dd:de:df:e0:e1:e2
+
+2001-09-05 'transaction 614
+    dd:de:df:e0:e1:e2:e3       614 P @ 614 Q
+    dd:de:df:e0:e1:e2:e3:e4
+
+2001-09-06 'transaction 615
+    dd:de:df:e0:e1:e2:e3:e4:e5              615 Q
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6          -615 Q
+
+2001-09-07 'transaction 616
+    e7       616 R @ 0.86 S
+    e7:e8
+
+2001-09-08 'transaction 617
+    e7:e8:e9       617 S @ 617 T
+    e7:e8:e9:ea
+
+2001-09-09 'transaction 618
+    e7:e8:e9:ea:eb              618 T
+    e7:e8:e9:ea:eb:ec          -618 T
+
+2001-09-10 'transaction 619
+    e7:e8:e9:ea:eb:ec:ed       619 U @ 0.89 V
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2001-09-11 'transaction 620
+    e7:e8:e9:ea:eb:ec:ed:ee:ef       620 V @ 620 W
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0
+
+2001-09-12 'transaction 621
+    f1              621 W
+    f1:f2          -621 W
+
+2001-09-13 'transaction 622
+    f1:f2:f3       622 X @ 0.92 Y
+    f1:f2:f3:f4
+
+2001-09-14 'transaction 623
+    f1:f2:f3:f4:f5       623 Y @ 623 Z
+    f1:f2:f3:f4:f5:f6
+
+2001-09-15 'transaction 624
+    f1:f2:f3:f4:f5:f6:f7              624 Z
+    f1:f2:f3:f4:f5:f6:f7:f8          -624 Z
+
+2001-09-16 'transaction 625
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       625 A @ 0.95 B
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2001-09-17 'transaction 626
+    fb       626 B @ 626 C
+    fb:fc
+
+2001-09-18 'transaction 627
+    fb:fc:fd              627 C
+    fb:fc:fd:fe          -627 C
+
+2001-09-19 'transaction 628
+    fb:fc:fd:fe:ff        628 D @ 0.98 E
+    fb:fc:fd:fe:ff:100
+
+2001-09-20 'transaction 629
+    fb:fc:fd:fe:ff:100:101        629 E @ 629 F
+    fb:fc:fd:fe:ff:100:101:102
+
+2001-09-21 'transaction 630
+    fb:fc:fd:fe:ff:100:101:102:103               630 F
+    fb:fc:fd:fe:ff:100:101:102:103:104          -630 F
+
+2001-09-22 'transaction 631
+    T105        631 G @ 1.01 H
+    T105:106
+
+2001-09-23 'transaction 632
+    T105:106:107        632 H @ 632 I
+    T105:106:107:108
+
+2001-09-24 'transaction 633
+    T105:106:107:108:109               633 I
+    T105:106:107:108:109:10a          -633 I
+
+2001-09-25 'transaction 634
+    T105:106:107:108:109:10a:10b        634 J @ 1.04 K
+    T105:106:107:108:109:10a:10b:10c
+
+2001-09-26 'transaction 635
+    T105:106:107:108:109:10a:10b:10c:10d        635 K @ 635 L
+    T105:106:107:108:109:10a:10b:10c:10d:10e
+
+2001-09-27 'transaction 636
+    T10f               636 L
+    T10f:110          -636 L
+
+2001-09-28 'transaction 637
+    T10f:110:111        637 M @ 1.07 N
+    T10f:110:111:112
+
+2001-09-29 'transaction 638
+    T10f:110:111:112:113        638 N @ 638 O
+    T10f:110:111:112:113:114
+
+2001-09-30 'transaction 639
+    T10f:110:111:112:113:114:115               639 O
+    T10f:110:111:112:113:114:115:116          -639 O
+

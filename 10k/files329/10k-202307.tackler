@@ -1,0 +1,124 @@
+2023-07-01 'transaction 8583
+    a1:a2:a3:a4:a5             8583 C
+    a1:a2:a3:a4:a5:a6         -8583 C
+
+2023-07-02 'transaction 8584
+    a1:a2:a3:a4:a5:a6:a7       8584 D @ 0.74 E
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2023-07-03 'transaction 8585
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       8585 E @ 8585 F
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2023-07-04 'transaction 8586
+    ab             8586 F
+    ab:ac         -8586 F
+
+2023-07-05 'transaction 8587
+    ab:ac:ad       8587 G @ 0.77 H
+    ab:ac:ad:ae
+
+2023-07-06 'transaction 8588
+    ab:ac:ad:ae:af       8588 H @ 8588 I
+    ab:ac:ad:ae:af:b0
+
+2023-07-07 'transaction 8589
+    ab:ac:ad:ae:af:b0:b1             8589 I
+    ab:ac:ad:ae:af:b0:b1:b2         -8589 I
+
+2023-07-08 'transaction 8590
+    ab:ac:ad:ae:af:b0:b1:b2:b3       8590 J @ 0.8 K
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2023-07-09 'transaction 8591
+    b5       8591 K @ 8591 L
+    b5:b6
+
+2023-07-10 'transaction 8592
+    b5:b6:b7             8592 L
+    b5:b6:b7:b8         -8592 L
+
+2023-07-11 'transaction 8593
+    b5:b6:b7:b8:b9       8593 M @ 0.83 N
+    b5:b6:b7:b8:b9:ba
+
+2023-07-12 'transaction 8594
+    b5:b6:b7:b8:b9:ba:bb       8594 N @ 8594 O
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2023-07-13 'transaction 8595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd             8595 O
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be         -8595 O
+
+2023-07-14 'transaction 8596
+    bf       8596 P @ 0.86 Q
+    bf:c0
+
+2023-07-15 'transaction 8597
+    bf:c0:c1       8597 Q @ 8597 R
+    bf:c0:c1:c2
+
+2023-07-16 'transaction 8598
+    bf:c0:c1:c2:c3             8598 R
+    bf:c0:c1:c2:c3:c4         -8598 R
+
+2023-07-17 'transaction 8599
+    bf:c0:c1:c2:c3:c4:c5       8599 S @ 0.89 T
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2023-07-18 'transaction 8600
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       8600 T @ 8600 U
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2023-07-19 'transaction 8601
+    c9             8601 U
+    c9:ca         -8601 U
+
+2023-07-20 'transaction 8602
+    c9:ca:cb       8602 V @ 0.92 W
+    c9:ca:cb:cc
+
+2023-07-21 'transaction 8603
+    c9:ca:cb:cc:cd       8603 W @ 8603 X
+    c9:ca:cb:cc:cd:ce
+
+2023-07-22 'transaction 8604
+    c9:ca:cb:cc:cd:ce:cf             8604 X
+    c9:ca:cb:cc:cd:ce:cf:d0         -8604 X
+
+2023-07-23 'transaction 8605
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       8605 Y @ 0.95 Z
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2023-07-24 'transaction 8606
+    d3       8606 Z @ 8606 A
+    d3:d4
+
+2023-07-25 'transaction 8607
+    d3:d4:d5             8607 A
+    d3:d4:d5:d6         -8607 A
+
+2023-07-26 'transaction 8608
+    d3:d4:d5:d6:d7       8608 B @ 0.98 C
+    d3:d4:d5:d6:d7:d8
+
+2023-07-27 'transaction 8609
+    d3:d4:d5:d6:d7:d8:d9       8609 C @ 8609 D
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2023-07-28 'transaction 8610
+    d3:d4:d5:d6:d7:d8:d9:da:db             8610 D
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc         -8610 D
+
+2023-07-29 'transaction 8611
+    dd       8611 E @ 1.01 F
+    dd:de
+
+2023-07-30 'transaction 8612
+    dd:de:df       8612 F @ 8612 G
+    dd:de:df:e0
+
+2023-07-31 'transaction 8613
+    dd:de:df:e0:e1             8613 G
+    dd:de:df:e0:e1:e2         -8613 G
+

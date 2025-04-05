@@ -1,0 +1,120 @@
+2016-09-01 'transaction 6089
+    ab:ac:ad:ae:af:b0:b1       6089 E @ 6089 F
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2016-09-02 'transaction 6090
+    ab:ac:ad:ae:af:b0:b1:b2:b3             6090 F
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4         -6090 F
+
+2016-09-03 'transaction 6091
+    b5       6091 G @ 1.01 H
+    b5:b6
+
+2016-09-04 'transaction 6092
+    b5:b6:b7       6092 H @ 6092 I
+    b5:b6:b7:b8
+
+2016-09-05 'transaction 6093
+    b5:b6:b7:b8:b9             6093 I
+    b5:b6:b7:b8:b9:ba         -6093 I
+
+2016-09-06 'transaction 6094
+    b5:b6:b7:b8:b9:ba:bb       6094 J @ 1.04 K
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2016-09-07 'transaction 6095
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       6095 K @ 6095 L
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2016-09-08 'transaction 6096
+    bf             6096 L
+    bf:c0         -6096 L
+
+2016-09-09 'transaction 6097
+    bf:c0:c1       6097 M @ 1.07 N
+    bf:c0:c1:c2
+
+2016-09-10 'transaction 6098
+    bf:c0:c1:c2:c3       6098 N @ 6098 O
+    bf:c0:c1:c2:c3:c4
+
+2016-09-11 'transaction 6099
+    bf:c0:c1:c2:c3:c4:c5             6099 O
+    bf:c0:c1:c2:c3:c4:c5:c6         -6099 O
+
+2016-09-12 'transaction 6100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       6100 P @ 1.1 Q
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2016-09-13 'transaction 6101
+    c9       6101 Q @ 6101 R
+    c9:ca
+
+2016-09-14 'transaction 6102
+    c9:ca:cb             6102 R
+    c9:ca:cb:cc         -6102 R
+
+2016-09-15 'transaction 6103
+    c9:ca:cb:cc:cd       6103 S @ 1.13 T
+    c9:ca:cb:cc:cd:ce
+
+2016-09-16 'transaction 6104
+    c9:ca:cb:cc:cd:ce:cf       6104 T @ 6104 U
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2016-09-17 'transaction 6105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1             6105 U
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2         -6105 U
+
+2016-09-18 'transaction 6106
+    d3       6106 V @ 1.16 W
+    d3:d4
+
+2016-09-19 'transaction 6107
+    d3:d4:d5       6107 W @ 6107 X
+    d3:d4:d5:d6
+
+2016-09-20 'transaction 6108
+    d3:d4:d5:d6:d7             6108 X
+    d3:d4:d5:d6:d7:d8         -6108 X
+
+2016-09-21 'transaction 6109
+    d3:d4:d5:d6:d7:d8:d9       6109 Y @ 1.19 Z
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2016-09-22 'transaction 6110
+    d3:d4:d5:d6:d7:d8:d9:da:db       6110 Z @ 6110 A
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2016-09-23 'transaction 6111
+    dd             6111 A
+    dd:de         -6111 A
+
+2016-09-24 'transaction 6112
+    dd:de:df       6112 B @ 1.22 C
+    dd:de:df:e0
+
+2016-09-25 'transaction 6113
+    dd:de:df:e0:e1       6113 C @ 6113 D
+    dd:de:df:e0:e1:e2
+
+2016-09-26 'transaction 6114
+    dd:de:df:e0:e1:e2:e3             6114 D
+    dd:de:df:e0:e1:e2:e3:e4         -6114 D
+
+2016-09-27 'transaction 6115
+    dd:de:df:e0:e1:e2:e3:e4:e5       6115 E @ 1.25 F
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2016-09-28 'transaction 6116
+    e7       6116 F @ 6116 G
+    e7:e8
+
+2016-09-29 'transaction 6117
+    e7:e8:e9             6117 G
+    e7:e8:e9:ea         -6117 G
+
+2016-09-30 'transaction 6118
+    e7:e8:e9:ea:eb       6118 H @ 1.28 I
+    e7:e8:e9:ea:eb:ec
+

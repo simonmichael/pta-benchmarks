@@ -1,0 +1,124 @@
+2005-01-01 'transaction 1828
+    T28b:28c:28d:28e:28f        1828 H @ 0.98 I
+    T28b:28c:28d:28e:28f:290
+
+2005-01-02 'transaction 1829
+    T28b:28c:28d:28e:28f:290:291        1829 I @ 1829 J
+    T28b:28c:28d:28e:28f:290:291:292
+
+2005-01-03 'transaction 1830
+    T28b:28c:28d:28e:28f:290:291:292:293              1830 J
+    T28b:28c:28d:28e:28f:290:291:292:293:294         -1830 J
+
+2005-01-04 'transaction 1831
+    T295        1831 K @ 1.01 L
+    T295:296
+
+2005-01-05 'transaction 1832
+    T295:296:297        1832 L @ 1832 M
+    T295:296:297:298
+
+2005-01-06 'transaction 1833
+    T295:296:297:298:299              1833 M
+    T295:296:297:298:299:29a         -1833 M
+
+2005-01-07 'transaction 1834
+    T295:296:297:298:299:29a:29b        1834 N @ 1.04 O
+    T295:296:297:298:299:29a:29b:29c
+
+2005-01-08 'transaction 1835
+    T295:296:297:298:299:29a:29b:29c:29d        1835 O @ 1835 P
+    T295:296:297:298:299:29a:29b:29c:29d:29e
+
+2005-01-09 'transaction 1836
+    T29f              1836 P
+    T29f:2a0         -1836 P
+
+2005-01-10 'transaction 1837
+    T29f:2a0:2a1        1837 Q @ 1.07 R
+    T29f:2a0:2a1:2a2
+
+2005-01-11 'transaction 1838
+    T29f:2a0:2a1:2a2:2a3        1838 R @ 1838 S
+    T29f:2a0:2a1:2a2:2a3:2a4
+
+2005-01-12 'transaction 1839
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5              1839 S
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6         -1839 S
+
+2005-01-13 'transaction 1840
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7        1840 T @ 1.1 U
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7:2a8
+
+2005-01-14 'transaction 1841
+    T2a9        1841 U @ 1841 V
+    T2a9:2aa
+
+2005-01-15 'transaction 1842
+    T2a9:2aa:2ab              1842 V
+    T2a9:2aa:2ab:2ac         -1842 V
+
+2005-01-16 'transaction 1843
+    T2a9:2aa:2ab:2ac:2ad        1843 W @ 1.13 X
+    T2a9:2aa:2ab:2ac:2ad:2ae
+
+2005-01-17 'transaction 1844
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af        1844 X @ 1844 Y
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0
+
+2005-01-18 'transaction 1845
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1              1845 Y
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1:2b2         -1845 Y
+
+2005-01-19 'transaction 1846
+    T2b3        1846 Z @ 1.16 A
+    T2b3:2b4
+
+2005-01-20 'transaction 1847
+    T2b3:2b4:2b5        1847 A @ 1847 B
+    T2b3:2b4:2b5:2b6
+
+2005-01-21 'transaction 1848
+    T2b3:2b4:2b5:2b6:2b7              1848 B
+    T2b3:2b4:2b5:2b6:2b7:2b8         -1848 B
+
+2005-01-22 'transaction 1849
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9        1849 C @ 1.19 D
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba
+
+2005-01-23 'transaction 1850
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb        1850 D @ 1850 E
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb:2bc
+
+2005-01-24 'transaction 1851
+    T2bd              1851 E
+    T2bd:2be         -1851 E
+
+2005-01-25 'transaction 1852
+    T2bd:2be:2bf        1852 F @ 1.22 G
+    T2bd:2be:2bf:2c0
+
+2005-01-26 'transaction 1853
+    T2bd:2be:2bf:2c0:2c1        1853 G @ 1853 H
+    T2bd:2be:2bf:2c0:2c1:2c2
+
+2005-01-27 'transaction 1854
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3              1854 H
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4         -1854 H
+
+2005-01-28 'transaction 1855
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5        1855 I @ 1.25 J
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6
+
+2005-01-29 'transaction 1856
+    T2c7        1856 J @ 1856 K
+    T2c7:2c8
+
+2005-01-30 'transaction 1857
+    T2c7:2c8:2c9              1857 K
+    T2c7:2c8:2c9:2ca         -1857 K
+
+2005-01-31 'transaction 1858
+    T2c7:2c8:2c9:2ca:2cb        1858 L @ 1.28 M
+    T2c7:2c8:2c9:2ca:2cb:2cc
+

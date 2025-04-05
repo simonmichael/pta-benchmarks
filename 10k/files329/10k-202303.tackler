@@ -1,0 +1,124 @@
+2023-03-01 'transaction 8461
+    T399        8461 K @ 0.71 L
+    T399:39a
+
+2023-03-02 'transaction 8462
+    T399:39a:39b        8462 L @ 8462 M
+    T399:39a:39b:39c
+
+2023-03-03 'transaction 8463
+    T399:39a:39b:39c:39d              8463 M
+    T399:39a:39b:39c:39d:39e         -8463 M
+
+2023-03-04 'transaction 8464
+    T399:39a:39b:39c:39d:39e:39f        8464 N @ 0.74 O
+    T399:39a:39b:39c:39d:39e:39f:3a0
+
+2023-03-05 'transaction 8465
+    T399:39a:39b:39c:39d:39e:39f:3a0:3a1        8465 O @ 8465 P
+    T399:39a:39b:39c:39d:39e:39f:3a0:3a1:3a2
+
+2023-03-06 'transaction 8466
+    T3a3              8466 P
+    T3a3:3a4         -8466 P
+
+2023-03-07 'transaction 8467
+    T3a3:3a4:3a5        8467 Q @ 0.77 R
+    T3a3:3a4:3a5:3a6
+
+2023-03-08 'transaction 8468
+    T3a3:3a4:3a5:3a6:3a7        8468 R @ 8468 S
+    T3a3:3a4:3a5:3a6:3a7:3a8
+
+2023-03-09 'transaction 8469
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9              8469 S
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa         -8469 S
+
+2023-03-10 'transaction 8470
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab        8470 T @ 0.8 U
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab:3ac
+
+2023-03-11 'transaction 8471
+    T3ad        8471 U @ 8471 V
+    T3ad:3ae
+
+2023-03-12 'transaction 8472
+    T3ad:3ae:3af              8472 V
+    T3ad:3ae:3af:3b0         -8472 V
+
+2023-03-13 'transaction 8473
+    T3ad:3ae:3af:3b0:3b1        8473 W @ 0.83 X
+    T3ad:3ae:3af:3b0:3b1:3b2
+
+2023-03-14 'transaction 8474
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3        8474 X @ 8474 Y
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4
+
+2023-03-15 'transaction 8475
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5              8475 Y
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6         -8475 Y
+
+2023-03-16 'transaction 8476
+    T3b7        8476 Z @ 0.86 A
+    T3b7:3b8
+
+2023-03-17 'transaction 8477
+    T3b7:3b8:3b9        8477 A @ 8477 B
+    T3b7:3b8:3b9:3ba
+
+2023-03-18 'transaction 8478
+    T3b7:3b8:3b9:3ba:3bb              8478 B
+    T3b7:3b8:3b9:3ba:3bb:3bc         -8478 B
+
+2023-03-19 'transaction 8479
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        8479 C @ 0.89 D
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2023-03-20 'transaction 8480
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf        8480 D @ 8480 E
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0
+
+2023-03-21 'transaction 8481
+    T3c1              8481 E
+    T3c1:3c2         -8481 E
+
+2023-03-22 'transaction 8482
+    T3c1:3c2:3c3        8482 F @ 0.92 G
+    T3c1:3c2:3c3:3c4
+
+2023-03-23 'transaction 8483
+    T3c1:3c2:3c3:3c4:3c5        8483 G @ 8483 H
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2023-03-24 'transaction 8484
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7              8484 H
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8         -8484 H
+
+2023-03-25 'transaction 8485
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        8485 I @ 0.95 J
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2023-03-26 'transaction 8486
+    T3cb        8486 J @ 8486 K
+    T3cb:3cc
+
+2023-03-27 'transaction 8487
+    T3cb:3cc:3cd              8487 K
+    T3cb:3cc:3cd:3ce         -8487 K
+
+2023-03-28 'transaction 8488
+    T3cb:3cc:3cd:3ce:3cf        8488 L @ 0.98 M
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2023-03-29 'transaction 8489
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        8489 M @ 8489 N
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2023-03-30 'transaction 8490
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3              8490 N
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4         -8490 N
+
+2023-03-31 'transaction 8491
+    T3d5        8491 O @ 1.01 P
+    T3d5:3d6
+

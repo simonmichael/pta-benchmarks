@@ -1,0 +1,124 @@
+2003-01-01 'transaction 1097
+    bf:c0:c1       1097 E @ 1097 F
+    bf:c0:c1:c2
+
+2003-01-02 'transaction 1098
+    bf:c0:c1:c2:c3             1098 F
+    bf:c0:c1:c2:c3:c4         -1098 F
+
+2003-01-03 'transaction 1099
+    bf:c0:c1:c2:c3:c4:c5       1099 G @ 0.89 H
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2003-01-04 'transaction 1100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       1100 H @ 1100 I
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2003-01-05 'transaction 1101
+    c9             1101 I
+    c9:ca         -1101 I
+
+2003-01-06 'transaction 1102
+    c9:ca:cb       1102 J @ 0.92 K
+    c9:ca:cb:cc
+
+2003-01-07 'transaction 1103
+    c9:ca:cb:cc:cd       1103 K @ 1103 L
+    c9:ca:cb:cc:cd:ce
+
+2003-01-08 'transaction 1104
+    c9:ca:cb:cc:cd:ce:cf             1104 L
+    c9:ca:cb:cc:cd:ce:cf:d0         -1104 L
+
+2003-01-09 'transaction 1105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       1105 M @ 0.95 N
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2003-01-10 'transaction 1106
+    d3       1106 N @ 1106 O
+    d3:d4
+
+2003-01-11 'transaction 1107
+    d3:d4:d5             1107 O
+    d3:d4:d5:d6         -1107 O
+
+2003-01-12 'transaction 1108
+    d3:d4:d5:d6:d7       1108 P @ 0.98 Q
+    d3:d4:d5:d6:d7:d8
+
+2003-01-13 'transaction 1109
+    d3:d4:d5:d6:d7:d8:d9       1109 Q @ 1109 R
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2003-01-14 'transaction 1110
+    d3:d4:d5:d6:d7:d8:d9:da:db             1110 R
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc         -1110 R
+
+2003-01-15 'transaction 1111
+    dd       1111 S @ 1.01 T
+    dd:de
+
+2003-01-16 'transaction 1112
+    dd:de:df       1112 T @ 1112 U
+    dd:de:df:e0
+
+2003-01-17 'transaction 1113
+    dd:de:df:e0:e1             1113 U
+    dd:de:df:e0:e1:e2         -1113 U
+
+2003-01-18 'transaction 1114
+    dd:de:df:e0:e1:e2:e3       1114 V @ 1.04 W
+    dd:de:df:e0:e1:e2:e3:e4
+
+2003-01-19 'transaction 1115
+    dd:de:df:e0:e1:e2:e3:e4:e5       1115 W @ 1115 X
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2003-01-20 'transaction 1116
+    e7             1116 X
+    e7:e8         -1116 X
+
+2003-01-21 'transaction 1117
+    e7:e8:e9       1117 Y @ 1.07 Z
+    e7:e8:e9:ea
+
+2003-01-22 'transaction 1118
+    e7:e8:e9:ea:eb       1118 Z @ 1118 A
+    e7:e8:e9:ea:eb:ec
+
+2003-01-23 'transaction 1119
+    e7:e8:e9:ea:eb:ec:ed             1119 A
+    e7:e8:e9:ea:eb:ec:ed:ee         -1119 A
+
+2003-01-24 'transaction 1120
+    e7:e8:e9:ea:eb:ec:ed:ee:ef       1120 B @ 1.1 C
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0
+
+2003-01-25 'transaction 1121
+    f1       1121 C @ 1121 D
+    f1:f2
+
+2003-01-26 'transaction 1122
+    f1:f2:f3             1122 D
+    f1:f2:f3:f4         -1122 D
+
+2003-01-27 'transaction 1123
+    f1:f2:f3:f4:f5       1123 E @ 1.13 F
+    f1:f2:f3:f4:f5:f6
+
+2003-01-28 'transaction 1124
+    f1:f2:f3:f4:f5:f6:f7       1124 F @ 1124 G
+    f1:f2:f3:f4:f5:f6:f7:f8
+
+2003-01-29 'transaction 1125
+    f1:f2:f3:f4:f5:f6:f7:f8:f9             1125 G
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa         -1125 G
+
+2003-01-30 'transaction 1126
+    fb       1126 H @ 1.16 I
+    fb:fc
+
+2003-01-31 'transaction 1127
+    fb:fc:fd       1127 I @ 1127 J
+    fb:fc:fd:fe
+

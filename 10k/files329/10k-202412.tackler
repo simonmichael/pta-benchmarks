@@ -1,0 +1,124 @@
+2024-12-01 'transaction 9102
+    c9:ca:cb             9102 B
+    c9:ca:cb:cc         -9102 B
+
+2024-12-02 'transaction 9103
+    c9:ca:cb:cc:cd       9103 C @ 1.13 D
+    c9:ca:cb:cc:cd:ce
+
+2024-12-03 'transaction 9104
+    c9:ca:cb:cc:cd:ce:cf       9104 D @ 9104 E
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2024-12-04 'transaction 9105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1             9105 E
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2         -9105 E
+
+2024-12-05 'transaction 9106
+    d3       9106 F @ 1.16 G
+    d3:d4
+
+2024-12-06 'transaction 9107
+    d3:d4:d5       9107 G @ 9107 H
+    d3:d4:d5:d6
+
+2024-12-07 'transaction 9108
+    d3:d4:d5:d6:d7             9108 H
+    d3:d4:d5:d6:d7:d8         -9108 H
+
+2024-12-08 'transaction 9109
+    d3:d4:d5:d6:d7:d8:d9       9109 I @ 1.19 J
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2024-12-09 'transaction 9110
+    d3:d4:d5:d6:d7:d8:d9:da:db       9110 J @ 9110 K
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2024-12-10 'transaction 9111
+    dd             9111 K
+    dd:de         -9111 K
+
+2024-12-11 'transaction 9112
+    dd:de:df       9112 L @ 1.22 M
+    dd:de:df:e0
+
+2024-12-12 'transaction 9113
+    dd:de:df:e0:e1       9113 M @ 9113 N
+    dd:de:df:e0:e1:e2
+
+2024-12-13 'transaction 9114
+    dd:de:df:e0:e1:e2:e3             9114 N
+    dd:de:df:e0:e1:e2:e3:e4         -9114 N
+
+2024-12-14 'transaction 9115
+    dd:de:df:e0:e1:e2:e3:e4:e5       9115 O @ 1.25 P
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2024-12-15 'transaction 9116
+    e7       9116 P @ 9116 Q
+    e7:e8
+
+2024-12-16 'transaction 9117
+    e7:e8:e9             9117 Q
+    e7:e8:e9:ea         -9117 Q
+
+2024-12-17 'transaction 9118
+    e7:e8:e9:ea:eb       9118 R @ 1.28 S
+    e7:e8:e9:ea:eb:ec
+
+2024-12-18 'transaction 9119
+    e7:e8:e9:ea:eb:ec:ed       9119 S @ 9119 T
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2024-12-19 'transaction 9120
+    e7:e8:e9:ea:eb:ec:ed:ee:ef             9120 T
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0         -9120 T
+
+2024-12-20 'transaction 9121
+    f1       9121 U @ 0.71 V
+    f1:f2
+
+2024-12-21 'transaction 9122
+    f1:f2:f3       9122 V @ 9122 W
+    f1:f2:f3:f4
+
+2024-12-22 'transaction 9123
+    f1:f2:f3:f4:f5             9123 W
+    f1:f2:f3:f4:f5:f6         -9123 W
+
+2024-12-23 'transaction 9124
+    f1:f2:f3:f4:f5:f6:f7       9124 X @ 0.74 Y
+    f1:f2:f3:f4:f5:f6:f7:f8
+
+2024-12-24 'transaction 9125
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       9125 Y @ 9125 Z
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2024-12-25 'transaction 9126
+    fb             9126 Z
+    fb:fc         -9126 Z
+
+2024-12-26 'transaction 9127
+    fb:fc:fd       9127 A @ 0.77 B
+    fb:fc:fd:fe
+
+2024-12-27 'transaction 9128
+    fb:fc:fd:fe:ff        9128 B @ 9128 C
+    fb:fc:fd:fe:ff:100
+
+2024-12-28 'transaction 9129
+    fb:fc:fd:fe:ff:100:101              9129 C
+    fb:fc:fd:fe:ff:100:101:102         -9129 C
+
+2024-12-29 'transaction 9130
+    fb:fc:fd:fe:ff:100:101:102:103        9130 D @ 0.8 E
+    fb:fc:fd:fe:ff:100:101:102:103:104
+
+2024-12-30 'transaction 9131
+    T105        9131 E @ 9131 F
+    T105:106
+
+2024-12-31 'transaction 9132
+    T105:106:107              9132 F
+    T105:106:107:108         -9132 F
+

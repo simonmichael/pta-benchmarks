@@ -1,0 +1,112 @@
+2006-02-01 'transaction 2224
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf        2224 N @ 0.74 O
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0
+
+2006-02-02 'transaction 2225
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1        2225 O @ 2225 P
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1:1c2
+
+2006-02-03 'transaction 2226
+    T1c3              2226 P
+    T1c3:1c4         -2226 P
+
+2006-02-04 'transaction 2227
+    T1c3:1c4:1c5        2227 Q @ 0.77 R
+    T1c3:1c4:1c5:1c6
+
+2006-02-05 'transaction 2228
+    T1c3:1c4:1c5:1c6:1c7        2228 R @ 2228 S
+    T1c3:1c4:1c5:1c6:1c7:1c8
+
+2006-02-06 'transaction 2229
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9              2229 S
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca         -2229 S
+
+2006-02-07 'transaction 2230
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb        2230 T @ 0.8 U
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc
+
+2006-02-08 'transaction 2231
+    T1cd        2231 U @ 2231 V
+    T1cd:1ce
+
+2006-02-09 'transaction 2232
+    T1cd:1ce:1cf              2232 V
+    T1cd:1ce:1cf:1d0         -2232 V
+
+2006-02-10 'transaction 2233
+    T1cd:1ce:1cf:1d0:1d1        2233 W @ 0.83 X
+    T1cd:1ce:1cf:1d0:1d1:1d2
+
+2006-02-11 'transaction 2234
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3        2234 X @ 2234 Y
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4
+
+2006-02-12 'transaction 2235
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5              2235 Y
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5:1d6         -2235 Y
+
+2006-02-13 'transaction 2236
+    T1d7        2236 Z @ 0.86 A
+    T1d7:1d8
+
+2006-02-14 'transaction 2237
+    T1d7:1d8:1d9        2237 A @ 2237 B
+    T1d7:1d8:1d9:1da
+
+2006-02-15 'transaction 2238
+    T1d7:1d8:1d9:1da:1db              2238 B
+    T1d7:1d8:1d9:1da:1db:1dc         -2238 B
+
+2006-02-16 'transaction 2239
+    T1d7:1d8:1d9:1da:1db:1dc:1dd        2239 C @ 0.89 D
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de
+
+2006-02-17 'transaction 2240
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df        2240 D @ 2240 E
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0
+
+2006-02-18 'transaction 2241
+    T1e1              2241 E
+    T1e1:1e2         -2241 E
+
+2006-02-19 'transaction 2242
+    T1e1:1e2:1e3        2242 F @ 0.92 G
+    T1e1:1e2:1e3:1e4
+
+2006-02-20 'transaction 2243
+    T1e1:1e2:1e3:1e4:1e5        2243 G @ 2243 H
+    T1e1:1e2:1e3:1e4:1e5:1e6
+
+2006-02-21 'transaction 2244
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7              2244 H
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8         -2244 H
+
+2006-02-22 'transaction 2245
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9        2245 I @ 0.95 J
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9:1ea
+
+2006-02-23 'transaction 2246
+    T1eb        2246 J @ 2246 K
+    T1eb:1ec
+
+2006-02-24 'transaction 2247
+    T1eb:1ec:1ed              2247 K
+    T1eb:1ec:1ed:1ee         -2247 K
+
+2006-02-25 'transaction 2248
+    T1eb:1ec:1ed:1ee:1ef        2248 L @ 0.98 M
+    T1eb:1ec:1ed:1ee:1ef:1f0
+
+2006-02-26 'transaction 2249
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1        2249 M @ 2249 N
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2
+
+2006-02-27 'transaction 2250
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3              2250 N
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3:1f4         -2250 N
+
+2006-02-28 'transaction 2251
+    T1f5        2251 O @ 1.01 P
+    T1f5:1f6
+

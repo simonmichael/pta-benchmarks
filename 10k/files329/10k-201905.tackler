@@ -1,0 +1,124 @@
+2019-05-01 'transaction 7061
+    T79       7061 O @ 7061 P
+    T79:7a
+
+2019-05-02 'transaction 7062
+    T79:7a:7b             7062 P
+    T79:7a:7b:7c         -7062 P
+
+2019-05-03 'transaction 7063
+    T79:7a:7b:7c:7d       7063 Q @ 1.13 R
+    T79:7a:7b:7c:7d:7e
+
+2019-05-04 'transaction 7064
+    T79:7a:7b:7c:7d:7e:7f       7064 R @ 7064 S
+    T79:7a:7b:7c:7d:7e:7f:80
+
+2019-05-05 'transaction 7065
+    T79:7a:7b:7c:7d:7e:7f:80:81             7065 S
+    T79:7a:7b:7c:7d:7e:7f:80:81:82         -7065 S
+
+2019-05-06 'transaction 7066
+    T83       7066 T @ 1.16 U
+    T83:84
+
+2019-05-07 'transaction 7067
+    T83:84:85       7067 U @ 7067 V
+    T83:84:85:86
+
+2019-05-08 'transaction 7068
+    T83:84:85:86:87             7068 V
+    T83:84:85:86:87:88         -7068 V
+
+2019-05-09 'transaction 7069
+    T83:84:85:86:87:88:89       7069 W @ 1.19 X
+    T83:84:85:86:87:88:89:8a
+
+2019-05-10 'transaction 7070
+    T83:84:85:86:87:88:89:8a:8b       7070 X @ 7070 Y
+    T83:84:85:86:87:88:89:8a:8b:8c
+
+2019-05-11 'transaction 7071
+    T8d             7071 Y
+    T8d:8e         -7071 Y
+
+2019-05-12 'transaction 7072
+    T8d:8e:8f       7072 Z @ 1.22 A
+    T8d:8e:8f:90
+
+2019-05-13 'transaction 7073
+    T8d:8e:8f:90:91       7073 A @ 7073 B
+    T8d:8e:8f:90:91:92
+
+2019-05-14 'transaction 7074
+    T8d:8e:8f:90:91:92:93             7074 B
+    T8d:8e:8f:90:91:92:93:94         -7074 B
+
+2019-05-15 'transaction 7075
+    T8d:8e:8f:90:91:92:93:94:95       7075 C @ 1.25 D
+    T8d:8e:8f:90:91:92:93:94:95:96
+
+2019-05-16 'transaction 7076
+    T97       7076 D @ 7076 E
+    T97:98
+
+2019-05-17 'transaction 7077
+    T97:98:99             7077 E
+    T97:98:99:9a         -7077 E
+
+2019-05-18 'transaction 7078
+    T97:98:99:9a:9b       7078 F @ 1.28 G
+    T97:98:99:9a:9b:9c
+
+2019-05-19 'transaction 7079
+    T97:98:99:9a:9b:9c:9d       7079 G @ 7079 H
+    T97:98:99:9a:9b:9c:9d:9e
+
+2019-05-20 'transaction 7080
+    T97:98:99:9a:9b:9c:9d:9e:9f             7080 H
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0         -7080 H
+
+2019-05-21 'transaction 7081
+    a1       7081 I @ 0.71 J
+    a1:a2
+
+2019-05-22 'transaction 7082
+    a1:a2:a3       7082 J @ 7082 K
+    a1:a2:a3:a4
+
+2019-05-23 'transaction 7083
+    a1:a2:a3:a4:a5             7083 K
+    a1:a2:a3:a4:a5:a6         -7083 K
+
+2019-05-24 'transaction 7084
+    a1:a2:a3:a4:a5:a6:a7       7084 L @ 0.74 M
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2019-05-25 'transaction 7085
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       7085 M @ 7085 N
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2019-05-26 'transaction 7086
+    ab             7086 N
+    ab:ac         -7086 N
+
+2019-05-27 'transaction 7087
+    ab:ac:ad       7087 O @ 0.77 P
+    ab:ac:ad:ae
+
+2019-05-28 'transaction 7088
+    ab:ac:ad:ae:af       7088 P @ 7088 Q
+    ab:ac:ad:ae:af:b0
+
+2019-05-29 'transaction 7089
+    ab:ac:ad:ae:af:b0:b1             7089 Q
+    ab:ac:ad:ae:af:b0:b1:b2         -7089 Q
+
+2019-05-30 'transaction 7090
+    ab:ac:ad:ae:af:b0:b1:b2:b3       7090 R @ 0.8 S
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2019-05-31 'transaction 7091
+    b5       7091 S @ 7091 T
+    b5:b6
+

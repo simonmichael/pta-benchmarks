@@ -1,0 +1,124 @@
+2008-07-01 'transaction 3105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1             3105 K
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2         -3105 K
+
+2008-07-02 'transaction 3106
+    d3       3106 L @ 1.16 M
+    d3:d4
+
+2008-07-03 'transaction 3107
+    d3:d4:d5       3107 M @ 3107 N
+    d3:d4:d5:d6
+
+2008-07-04 'transaction 3108
+    d3:d4:d5:d6:d7             3108 N
+    d3:d4:d5:d6:d7:d8         -3108 N
+
+2008-07-05 'transaction 3109
+    d3:d4:d5:d6:d7:d8:d9       3109 O @ 1.19 P
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2008-07-06 'transaction 3110
+    d3:d4:d5:d6:d7:d8:d9:da:db       3110 P @ 3110 Q
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2008-07-07 'transaction 3111
+    dd             3111 Q
+    dd:de         -3111 Q
+
+2008-07-08 'transaction 3112
+    dd:de:df       3112 R @ 1.22 S
+    dd:de:df:e0
+
+2008-07-09 'transaction 3113
+    dd:de:df:e0:e1       3113 S @ 3113 T
+    dd:de:df:e0:e1:e2
+
+2008-07-10 'transaction 3114
+    dd:de:df:e0:e1:e2:e3             3114 T
+    dd:de:df:e0:e1:e2:e3:e4         -3114 T
+
+2008-07-11 'transaction 3115
+    dd:de:df:e0:e1:e2:e3:e4:e5       3115 U @ 1.25 V
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2008-07-12 'transaction 3116
+    e7       3116 V @ 3116 W
+    e7:e8
+
+2008-07-13 'transaction 3117
+    e7:e8:e9             3117 W
+    e7:e8:e9:ea         -3117 W
+
+2008-07-14 'transaction 3118
+    e7:e8:e9:ea:eb       3118 X @ 1.28 Y
+    e7:e8:e9:ea:eb:ec
+
+2008-07-15 'transaction 3119
+    e7:e8:e9:ea:eb:ec:ed       3119 Y @ 3119 Z
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2008-07-16 'transaction 3120
+    e7:e8:e9:ea:eb:ec:ed:ee:ef             3120 Z
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0         -3120 Z
+
+2008-07-17 'transaction 3121
+    f1       3121 A @ 0.71 B
+    f1:f2
+
+2008-07-18 'transaction 3122
+    f1:f2:f3       3122 B @ 3122 C
+    f1:f2:f3:f4
+
+2008-07-19 'transaction 3123
+    f1:f2:f3:f4:f5             3123 C
+    f1:f2:f3:f4:f5:f6         -3123 C
+
+2008-07-20 'transaction 3124
+    f1:f2:f3:f4:f5:f6:f7       3124 D @ 0.74 E
+    f1:f2:f3:f4:f5:f6:f7:f8
+
+2008-07-21 'transaction 3125
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       3125 E @ 3125 F
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2008-07-22 'transaction 3126
+    fb             3126 F
+    fb:fc         -3126 F
+
+2008-07-23 'transaction 3127
+    fb:fc:fd       3127 G @ 0.77 H
+    fb:fc:fd:fe
+
+2008-07-24 'transaction 3128
+    fb:fc:fd:fe:ff        3128 H @ 3128 I
+    fb:fc:fd:fe:ff:100
+
+2008-07-25 'transaction 3129
+    fb:fc:fd:fe:ff:100:101              3129 I
+    fb:fc:fd:fe:ff:100:101:102         -3129 I
+
+2008-07-26 'transaction 3130
+    fb:fc:fd:fe:ff:100:101:102:103        3130 J @ 0.8 K
+    fb:fc:fd:fe:ff:100:101:102:103:104
+
+2008-07-27 'transaction 3131
+    T105        3131 K @ 3131 L
+    T105:106
+
+2008-07-28 'transaction 3132
+    T105:106:107              3132 L
+    T105:106:107:108         -3132 L
+
+2008-07-29 'transaction 3133
+    T105:106:107:108:109        3133 M @ 0.83 N
+    T105:106:107:108:109:10a
+
+2008-07-30 'transaction 3134
+    T105:106:107:108:109:10a:10b        3134 N @ 3134 O
+    T105:106:107:108:109:10a:10b:10c
+
+2008-07-31 'transaction 3135
+    T105:106:107:108:109:10a:10b:10c:10d              3135 O
+    T105:106:107:108:109:10a:10b:10c:10d:10e         -3135 O
+

@@ -1,0 +1,120 @@
+2009-11-01 'transaction 3593
+    b5:b6:b7:b8:b9       3593 E @ 3593 F
+    b5:b6:b7:b8:b9:ba
+
+2009-11-02 'transaction 3594
+    b5:b6:b7:b8:b9:ba:bb             3594 F
+    b5:b6:b7:b8:b9:ba:bb:bc         -3594 F
+
+2009-11-03 'transaction 3595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       3595 G @ 1.25 H
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2009-11-04 'transaction 3596
+    bf       3596 H @ 3596 I
+    bf:c0
+
+2009-11-05 'transaction 3597
+    bf:c0:c1             3597 I
+    bf:c0:c1:c2         -3597 I
+
+2009-11-06 'transaction 3598
+    bf:c0:c1:c2:c3       3598 J @ 1.28 K
+    bf:c0:c1:c2:c3:c4
+
+2009-11-07 'transaction 3599
+    bf:c0:c1:c2:c3:c4:c5       3599 K @ 3599 L
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2009-11-08 'transaction 3600
+    bf:c0:c1:c2:c3:c4:c5:c6:c7             3600 L
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8         -3600 L
+
+2009-11-09 'transaction 3601
+    c9       3601 M @ 0.71 N
+    c9:ca
+
+2009-11-10 'transaction 3602
+    c9:ca:cb       3602 N @ 3602 O
+    c9:ca:cb:cc
+
+2009-11-11 'transaction 3603
+    c9:ca:cb:cc:cd             3603 O
+    c9:ca:cb:cc:cd:ce         -3603 O
+
+2009-11-12 'transaction 3604
+    c9:ca:cb:cc:cd:ce:cf       3604 P @ 0.74 Q
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2009-11-13 'transaction 3605
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       3605 Q @ 3605 R
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2009-11-14 'transaction 3606
+    d3             3606 R
+    d3:d4         -3606 R
+
+2009-11-15 'transaction 3607
+    d3:d4:d5       3607 S @ 0.77 T
+    d3:d4:d5:d6
+
+2009-11-16 'transaction 3608
+    d3:d4:d5:d6:d7       3608 T @ 3608 U
+    d3:d4:d5:d6:d7:d8
+
+2009-11-17 'transaction 3609
+    d3:d4:d5:d6:d7:d8:d9             3609 U
+    d3:d4:d5:d6:d7:d8:d9:da         -3609 U
+
+2009-11-18 'transaction 3610
+    d3:d4:d5:d6:d7:d8:d9:da:db       3610 V @ 0.8 W
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2009-11-19 'transaction 3611
+    dd       3611 W @ 3611 X
+    dd:de
+
+2009-11-20 'transaction 3612
+    dd:de:df             3612 X
+    dd:de:df:e0         -3612 X
+
+2009-11-21 'transaction 3613
+    dd:de:df:e0:e1       3613 Y @ 0.83 Z
+    dd:de:df:e0:e1:e2
+
+2009-11-22 'transaction 3614
+    dd:de:df:e0:e1:e2:e3       3614 Z @ 3614 A
+    dd:de:df:e0:e1:e2:e3:e4
+
+2009-11-23 'transaction 3615
+    dd:de:df:e0:e1:e2:e3:e4:e5             3615 A
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6         -3615 A
+
+2009-11-24 'transaction 3616
+    e7       3616 B @ 0.86 C
+    e7:e8
+
+2009-11-25 'transaction 3617
+    e7:e8:e9       3617 C @ 3617 D
+    e7:e8:e9:ea
+
+2009-11-26 'transaction 3618
+    e7:e8:e9:ea:eb             3618 D
+    e7:e8:e9:ea:eb:ec         -3618 D
+
+2009-11-27 'transaction 3619
+    e7:e8:e9:ea:eb:ec:ed       3619 E @ 0.89 F
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2009-11-28 'transaction 3620
+    e7:e8:e9:ea:eb:ec:ed:ee:ef       3620 F @ 3620 G
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0
+
+2009-11-29 'transaction 3621
+    f1             3621 G
+    f1:f2         -3621 G
+
+2009-11-30 'transaction 3622
+    f1:f2:f3       3622 H @ 0.92 I
+    f1:f2:f3:f4
+

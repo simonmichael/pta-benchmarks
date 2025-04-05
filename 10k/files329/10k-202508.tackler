@@ -1,0 +1,124 @@
+2025-08-01 'transaction 9345
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1              9345 K
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1:2b2         -9345 K
+
+2025-08-02 'transaction 9346
+    T2b3        9346 L @ 1.16 M
+    T2b3:2b4
+
+2025-08-03 'transaction 9347
+    T2b3:2b4:2b5        9347 M @ 9347 N
+    T2b3:2b4:2b5:2b6
+
+2025-08-04 'transaction 9348
+    T2b3:2b4:2b5:2b6:2b7              9348 N
+    T2b3:2b4:2b5:2b6:2b7:2b8         -9348 N
+
+2025-08-05 'transaction 9349
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9        9349 O @ 1.19 P
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba
+
+2025-08-06 'transaction 9350
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb        9350 P @ 9350 Q
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb:2bc
+
+2025-08-07 'transaction 9351
+    T2bd              9351 Q
+    T2bd:2be         -9351 Q
+
+2025-08-08 'transaction 9352
+    T2bd:2be:2bf        9352 R @ 1.22 S
+    T2bd:2be:2bf:2c0
+
+2025-08-09 'transaction 9353
+    T2bd:2be:2bf:2c0:2c1        9353 S @ 9353 T
+    T2bd:2be:2bf:2c0:2c1:2c2
+
+2025-08-10 'transaction 9354
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3              9354 T
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4         -9354 T
+
+2025-08-11 'transaction 9355
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5        9355 U @ 1.25 V
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6
+
+2025-08-12 'transaction 9356
+    T2c7        9356 V @ 9356 W
+    T2c7:2c8
+
+2025-08-13 'transaction 9357
+    T2c7:2c8:2c9              9357 W
+    T2c7:2c8:2c9:2ca         -9357 W
+
+2025-08-14 'transaction 9358
+    T2c7:2c8:2c9:2ca:2cb        9358 X @ 1.28 Y
+    T2c7:2c8:2c9:2ca:2cb:2cc
+
+2025-08-15 'transaction 9359
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd        9359 Y @ 9359 Z
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce
+
+2025-08-16 'transaction 9360
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf              9360 Z
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0         -9360 Z
+
+2025-08-17 'transaction 9361
+    T2d1        9361 A @ 0.71 B
+    T2d1:2d2
+
+2025-08-18 'transaction 9362
+    T2d1:2d2:2d3        9362 B @ 9362 C
+    T2d1:2d2:2d3:2d4
+
+2025-08-19 'transaction 9363
+    T2d1:2d2:2d3:2d4:2d5              9363 C
+    T2d1:2d2:2d3:2d4:2d5:2d6         -9363 C
+
+2025-08-20 'transaction 9364
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7        9364 D @ 0.74 E
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8
+
+2025-08-21 'transaction 9365
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9        9365 E @ 9365 F
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9:2da
+
+2025-08-22 'transaction 9366
+    T2db              9366 F
+    T2db:2dc         -9366 F
+
+2025-08-23 'transaction 9367
+    T2db:2dc:2dd        9367 G @ 0.77 H
+    T2db:2dc:2dd:2de
+
+2025-08-24 'transaction 9368
+    T2db:2dc:2dd:2de:2df        9368 H @ 9368 I
+    T2db:2dc:2dd:2de:2df:2e0
+
+2025-08-25 'transaction 9369
+    T2db:2dc:2dd:2de:2df:2e0:2e1              9369 I
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2         -9369 I
+
+2025-08-26 'transaction 9370
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3        9370 J @ 0.8 K
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3:2e4
+
+2025-08-27 'transaction 9371
+    T2e5        9371 K @ 9371 L
+    T2e5:2e6
+
+2025-08-28 'transaction 9372
+    T2e5:2e6:2e7              9372 L
+    T2e5:2e6:2e7:2e8         -9372 L
+
+2025-08-29 'transaction 9373
+    T2e5:2e6:2e7:2e8:2e9        9373 M @ 0.83 N
+    T2e5:2e6:2e7:2e8:2e9:2ea
+
+2025-08-30 'transaction 9374
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb        9374 N @ 9374 O
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec
+
+2025-08-31 'transaction 9375
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed              9375 O
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed:2ee         -9375 O
+

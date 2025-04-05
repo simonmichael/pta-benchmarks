@@ -1,0 +1,124 @@
+2006-10-01 'transaction 2466
+    T3a3              2466 V
+    T3a3:3a4         -2466 V
+
+2006-10-02 'transaction 2467
+    T3a3:3a4:3a5        2467 W @ 0.77 X
+    T3a3:3a4:3a5:3a6
+
+2006-10-03 'transaction 2468
+    T3a3:3a4:3a5:3a6:3a7        2468 X @ 2468 Y
+    T3a3:3a4:3a5:3a6:3a7:3a8
+
+2006-10-04 'transaction 2469
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9              2469 Y
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa         -2469 Y
+
+2006-10-05 'transaction 2470
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab        2470 Z @ 0.8 A
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab:3ac
+
+2006-10-06 'transaction 2471
+    T3ad        2471 A @ 2471 B
+    T3ad:3ae
+
+2006-10-07 'transaction 2472
+    T3ad:3ae:3af              2472 B
+    T3ad:3ae:3af:3b0         -2472 B
+
+2006-10-08 'transaction 2473
+    T3ad:3ae:3af:3b0:3b1        2473 C @ 0.83 D
+    T3ad:3ae:3af:3b0:3b1:3b2
+
+2006-10-09 'transaction 2474
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3        2474 D @ 2474 E
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4
+
+2006-10-10 'transaction 2475
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5              2475 E
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6         -2475 E
+
+2006-10-11 'transaction 2476
+    T3b7        2476 F @ 0.86 G
+    T3b7:3b8
+
+2006-10-12 'transaction 2477
+    T3b7:3b8:3b9        2477 G @ 2477 H
+    T3b7:3b8:3b9:3ba
+
+2006-10-13 'transaction 2478
+    T3b7:3b8:3b9:3ba:3bb              2478 H
+    T3b7:3b8:3b9:3ba:3bb:3bc         -2478 H
+
+2006-10-14 'transaction 2479
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        2479 I @ 0.89 J
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2006-10-15 'transaction 2480
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf        2480 J @ 2480 K
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0
+
+2006-10-16 'transaction 2481
+    T3c1              2481 K
+    T3c1:3c2         -2481 K
+
+2006-10-17 'transaction 2482
+    T3c1:3c2:3c3        2482 L @ 0.92 M
+    T3c1:3c2:3c3:3c4
+
+2006-10-18 'transaction 2483
+    T3c1:3c2:3c3:3c4:3c5        2483 M @ 2483 N
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2006-10-19 'transaction 2484
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7              2484 N
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8         -2484 N
+
+2006-10-20 'transaction 2485
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        2485 O @ 0.95 P
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2006-10-21 'transaction 2486
+    T3cb        2486 P @ 2486 Q
+    T3cb:3cc
+
+2006-10-22 'transaction 2487
+    T3cb:3cc:3cd              2487 Q
+    T3cb:3cc:3cd:3ce         -2487 Q
+
+2006-10-23 'transaction 2488
+    T3cb:3cc:3cd:3ce:3cf        2488 R @ 0.98 S
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2006-10-24 'transaction 2489
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        2489 S @ 2489 T
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2006-10-25 'transaction 2490
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3              2490 T
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4         -2490 T
+
+2006-10-26 'transaction 2491
+    T3d5        2491 U @ 1.01 V
+    T3d5:3d6
+
+2006-10-27 'transaction 2492
+    T3d5:3d6:3d7        2492 V @ 2492 W
+    T3d5:3d6:3d7:3d8
+
+2006-10-28 'transaction 2493
+    T3d5:3d6:3d7:3d8:3d9              2493 W
+    T3d5:3d6:3d7:3d8:3d9:3da         -2493 W
+
+2006-10-29 'transaction 2494
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        2494 X @ 1.04 Y
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2006-10-30 'transaction 2495
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        2495 Y @ 2495 Z
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2006-10-31 'transaction 2496
+    T3df              2496 Z
+    T3df:3e0         -2496 Z
+

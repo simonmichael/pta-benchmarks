@@ -1,0 +1,120 @@
+2002-09-01 'transaction 975
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5               975 M
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6          -975 M
+
+2002-09-02 'transaction 976
+    T3b7        976 N @ 0.86 O
+    T3b7:3b8
+
+2002-09-03 'transaction 977
+    T3b7:3b8:3b9        977 O @ 977 P
+    T3b7:3b8:3b9:3ba
+
+2002-09-04 'transaction 978
+    T3b7:3b8:3b9:3ba:3bb               978 P
+    T3b7:3b8:3b9:3ba:3bb:3bc          -978 P
+
+2002-09-05 'transaction 979
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        979 Q @ 0.89 R
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2002-09-06 'transaction 980
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf        980 R @ 980 S
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0
+
+2002-09-07 'transaction 981
+    T3c1               981 S
+    T3c1:3c2          -981 S
+
+2002-09-08 'transaction 982
+    T3c1:3c2:3c3        982 T @ 0.92 U
+    T3c1:3c2:3c3:3c4
+
+2002-09-09 'transaction 983
+    T3c1:3c2:3c3:3c4:3c5        983 U @ 983 V
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2002-09-10 'transaction 984
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7               984 V
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8          -984 V
+
+2002-09-11 'transaction 985
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        985 W @ 0.95 X
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2002-09-12 'transaction 986
+    T3cb        986 X @ 986 Y
+    T3cb:3cc
+
+2002-09-13 'transaction 987
+    T3cb:3cc:3cd               987 Y
+    T3cb:3cc:3cd:3ce          -987 Y
+
+2002-09-14 'transaction 988
+    T3cb:3cc:3cd:3ce:3cf        988 Z @ 0.98 A
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2002-09-15 'transaction 989
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        989 A @ 989 B
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2002-09-16 'transaction 990
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3               990 B
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4          -990 B
+
+2002-09-17 'transaction 991
+    T3d5        991 C @ 1.01 D
+    T3d5:3d6
+
+2002-09-18 'transaction 992
+    T3d5:3d6:3d7        992 D @ 992 E
+    T3d5:3d6:3d7:3d8
+
+2002-09-19 'transaction 993
+    T3d5:3d6:3d7:3d8:3d9               993 E
+    T3d5:3d6:3d7:3d8:3d9:3da          -993 E
+
+2002-09-20 'transaction 994
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        994 F @ 1.04 G
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2002-09-21 'transaction 995
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        995 G @ 995 H
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2002-09-22 'transaction 996
+    T3df               996 H
+    T3df:3e0          -996 H
+
+2002-09-23 'transaction 997
+    T3df:3e0:3e1        997 I @ 1.07 J
+    T3df:3e0:3e1:3e2
+
+2002-09-24 'transaction 998
+    T3df:3e0:3e1:3e2:3e3        998 J @ 998 K
+    T3df:3e0:3e1:3e2:3e3:3e4
+
+2002-09-25 'transaction 999
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5               999 K
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6          -999 K
+
+2002-09-26 'transaction 1000
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7        1000 L @ 1.1 M
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8
+
+2002-09-27 'transaction 1001
+    T1      1001 M @ 1001 N
+    T1:2
+
+2002-09-28 'transaction 1002
+    T1:2:3            1002 N
+    T1:2:3:4         -1002 N
+
+2002-09-29 'transaction 1003
+    T1:2:3:4:5      1003 O @ 1.13 P
+    T1:2:3:4:5:6
+
+2002-09-30 'transaction 1004
+    T1:2:3:4:5:6:7      1004 P @ 1004 Q
+    T1:2:3:4:5:6:7:8
+

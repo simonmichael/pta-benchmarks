@@ -1,0 +1,124 @@
+2004-05-01 'transaction 1583
+    a1:a2:a3:a4:a5       1583 W @ 1583 X
+    a1:a2:a3:a4:a5:a6
+
+2004-05-02 'transaction 1584
+    a1:a2:a3:a4:a5:a6:a7             1584 X
+    a1:a2:a3:a4:a5:a6:a7:a8         -1584 X
+
+2004-05-03 'transaction 1585
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       1585 Y @ 0.95 Z
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2004-05-04 'transaction 1586
+    ab       1586 Z @ 1586 A
+    ab:ac
+
+2004-05-05 'transaction 1587
+    ab:ac:ad             1587 A
+    ab:ac:ad:ae         -1587 A
+
+2004-05-06 'transaction 1588
+    ab:ac:ad:ae:af       1588 B @ 0.98 C
+    ab:ac:ad:ae:af:b0
+
+2004-05-07 'transaction 1589
+    ab:ac:ad:ae:af:b0:b1       1589 C @ 1589 D
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2004-05-08 'transaction 1590
+    ab:ac:ad:ae:af:b0:b1:b2:b3             1590 D
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4         -1590 D
+
+2004-05-09 'transaction 1591
+    b5       1591 E @ 1.01 F
+    b5:b6
+
+2004-05-10 'transaction 1592
+    b5:b6:b7       1592 F @ 1592 G
+    b5:b6:b7:b8
+
+2004-05-11 'transaction 1593
+    b5:b6:b7:b8:b9             1593 G
+    b5:b6:b7:b8:b9:ba         -1593 G
+
+2004-05-12 'transaction 1594
+    b5:b6:b7:b8:b9:ba:bb       1594 H @ 1.04 I
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2004-05-13 'transaction 1595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       1595 I @ 1595 J
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2004-05-14 'transaction 1596
+    bf             1596 J
+    bf:c0         -1596 J
+
+2004-05-15 'transaction 1597
+    bf:c0:c1       1597 K @ 1.07 L
+    bf:c0:c1:c2
+
+2004-05-16 'transaction 1598
+    bf:c0:c1:c2:c3       1598 L @ 1598 M
+    bf:c0:c1:c2:c3:c4
+
+2004-05-17 'transaction 1599
+    bf:c0:c1:c2:c3:c4:c5             1599 M
+    bf:c0:c1:c2:c3:c4:c5:c6         -1599 M
+
+2004-05-18 'transaction 1600
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       1600 N @ 1.1 O
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2004-05-19 'transaction 1601
+    c9       1601 O @ 1601 P
+    c9:ca
+
+2004-05-20 'transaction 1602
+    c9:ca:cb             1602 P
+    c9:ca:cb:cc         -1602 P
+
+2004-05-21 'transaction 1603
+    c9:ca:cb:cc:cd       1603 Q @ 1.13 R
+    c9:ca:cb:cc:cd:ce
+
+2004-05-22 'transaction 1604
+    c9:ca:cb:cc:cd:ce:cf       1604 R @ 1604 S
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2004-05-23 'transaction 1605
+    c9:ca:cb:cc:cd:ce:cf:d0:d1             1605 S
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2         -1605 S
+
+2004-05-24 'transaction 1606
+    d3       1606 T @ 1.16 U
+    d3:d4
+
+2004-05-25 'transaction 1607
+    d3:d4:d5       1607 U @ 1607 V
+    d3:d4:d5:d6
+
+2004-05-26 'transaction 1608
+    d3:d4:d5:d6:d7             1608 V
+    d3:d4:d5:d6:d7:d8         -1608 V
+
+2004-05-27 'transaction 1609
+    d3:d4:d5:d6:d7:d8:d9       1609 W @ 1.19 X
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2004-05-28 'transaction 1610
+    d3:d4:d5:d6:d7:d8:d9:da:db       1610 X @ 1610 Y
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2004-05-29 'transaction 1611
+    dd             1611 Y
+    dd:de         -1611 Y
+
+2004-05-30 'transaction 1612
+    dd:de:df       1612 Z @ 1.22 A
+    dd:de:df:e0
+
+2004-05-31 'transaction 1613
+    dd:de:df:e0:e1       1613 A @ 1613 B
+    dd:de:df:e0:e1:e2
+

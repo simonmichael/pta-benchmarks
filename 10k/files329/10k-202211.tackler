@@ -1,0 +1,120 @@
+2022-11-01 'transaction 8341
+    T2a9        8341 U @ 0.71 V
+    T2a9:2aa
+
+2022-11-02 'transaction 8342
+    T2a9:2aa:2ab        8342 V @ 8342 W
+    T2a9:2aa:2ab:2ac
+
+2022-11-03 'transaction 8343
+    T2a9:2aa:2ab:2ac:2ad              8343 W
+    T2a9:2aa:2ab:2ac:2ad:2ae         -8343 W
+
+2022-11-04 'transaction 8344
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af        8344 X @ 0.74 Y
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0
+
+2022-11-05 'transaction 8345
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1        8345 Y @ 8345 Z
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1:2b2
+
+2022-11-06 'transaction 8346
+    T2b3              8346 Z
+    T2b3:2b4         -8346 Z
+
+2022-11-07 'transaction 8347
+    T2b3:2b4:2b5        8347 A @ 0.77 B
+    T2b3:2b4:2b5:2b6
+
+2022-11-08 'transaction 8348
+    T2b3:2b4:2b5:2b6:2b7        8348 B @ 8348 C
+    T2b3:2b4:2b5:2b6:2b7:2b8
+
+2022-11-09 'transaction 8349
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9              8349 C
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba         -8349 C
+
+2022-11-10 'transaction 8350
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb        8350 D @ 0.8 E
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb:2bc
+
+2022-11-11 'transaction 8351
+    T2bd        8351 E @ 8351 F
+    T2bd:2be
+
+2022-11-12 'transaction 8352
+    T2bd:2be:2bf              8352 F
+    T2bd:2be:2bf:2c0         -8352 F
+
+2022-11-13 'transaction 8353
+    T2bd:2be:2bf:2c0:2c1        8353 G @ 0.83 H
+    T2bd:2be:2bf:2c0:2c1:2c2
+
+2022-11-14 'transaction 8354
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3        8354 H @ 8354 I
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4
+
+2022-11-15 'transaction 8355
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5              8355 I
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6         -8355 I
+
+2022-11-16 'transaction 8356
+    T2c7        8356 J @ 0.86 K
+    T2c7:2c8
+
+2022-11-17 'transaction 8357
+    T2c7:2c8:2c9        8357 K @ 8357 L
+    T2c7:2c8:2c9:2ca
+
+2022-11-18 'transaction 8358
+    T2c7:2c8:2c9:2ca:2cb              8358 L
+    T2c7:2c8:2c9:2ca:2cb:2cc         -8358 L
+
+2022-11-19 'transaction 8359
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd        8359 M @ 0.89 N
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce
+
+2022-11-20 'transaction 8360
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf        8360 N @ 8360 O
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0
+
+2022-11-21 'transaction 8361
+    T2d1              8361 O
+    T2d1:2d2         -8361 O
+
+2022-11-22 'transaction 8362
+    T2d1:2d2:2d3        8362 P @ 0.92 Q
+    T2d1:2d2:2d3:2d4
+
+2022-11-23 'transaction 8363
+    T2d1:2d2:2d3:2d4:2d5        8363 Q @ 8363 R
+    T2d1:2d2:2d3:2d4:2d5:2d6
+
+2022-11-24 'transaction 8364
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7              8364 R
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8         -8364 R
+
+2022-11-25 'transaction 8365
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9        8365 S @ 0.95 T
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9:2da
+
+2022-11-26 'transaction 8366
+    T2db        8366 T @ 8366 U
+    T2db:2dc
+
+2022-11-27 'transaction 8367
+    T2db:2dc:2dd              8367 U
+    T2db:2dc:2dd:2de         -8367 U
+
+2022-11-28 'transaction 8368
+    T2db:2dc:2dd:2de:2df        8368 V @ 0.98 W
+    T2db:2dc:2dd:2de:2df:2e0
+
+2022-11-29 'transaction 8369
+    T2db:2dc:2dd:2de:2df:2e0:2e1        8369 W @ 8369 X
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2
+
+2022-11-30 'transaction 8370
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3              8370 X
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3:2e4         -8370 X
+

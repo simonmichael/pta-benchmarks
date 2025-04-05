@@ -1,0 +1,72 @@
+2027-05-01 'transaction 9983
+    T3c1:3c2:3c3:3c4:3c5        9983 Y @ 9983 Z
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2027-05-02 'transaction 9984
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7              9984 Z
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8         -9984 Z
+
+2027-05-03 'transaction 9985
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        9985 A @ 0.95 B
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2027-05-04 'transaction 9986
+    T3cb        9986 B @ 9986 C
+    T3cb:3cc
+
+2027-05-05 'transaction 9987
+    T3cb:3cc:3cd              9987 C
+    T3cb:3cc:3cd:3ce         -9987 C
+
+2027-05-06 'transaction 9988
+    T3cb:3cc:3cd:3ce:3cf        9988 D @ 0.98 E
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2027-05-07 'transaction 9989
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        9989 E @ 9989 F
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2027-05-08 'transaction 9990
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3              9990 F
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4         -9990 F
+
+2027-05-09 'transaction 9991
+    T3d5        9991 G @ 1.01 H
+    T3d5:3d6
+
+2027-05-10 'transaction 9992
+    T3d5:3d6:3d7        9992 H @ 9992 I
+    T3d5:3d6:3d7:3d8
+
+2027-05-11 'transaction 9993
+    T3d5:3d6:3d7:3d8:3d9              9993 I
+    T3d5:3d6:3d7:3d8:3d9:3da         -9993 I
+
+2027-05-12 'transaction 9994
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        9994 J @ 1.04 K
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2027-05-13 'transaction 9995
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        9995 K @ 9995 L
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2027-05-14 'transaction 9996
+    T3df              9996 L
+    T3df:3e0         -9996 L
+
+2027-05-15 'transaction 9997
+    T3df:3e0:3e1        9997 M @ 1.07 N
+    T3df:3e0:3e1:3e2
+
+2027-05-16 'transaction 9998
+    T3df:3e0:3e1:3e2:3e3        9998 N @ 9998 O
+    T3df:3e0:3e1:3e2:3e3:3e4
+
+2027-05-17 'transaction 9999
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5              9999 O
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6         -9999 O
+
+2027-05-18 'transaction 10000
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7        10000 P @ 1.1 Q
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8
+

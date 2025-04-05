@@ -1,0 +1,124 @@
+2024-03-01 'transaction 8827
+    T28b:28c:28d        8827 M @ 0.77 N
+    T28b:28c:28d:28e
+
+2024-03-02 'transaction 8828
+    T28b:28c:28d:28e:28f        8828 N @ 8828 O
+    T28b:28c:28d:28e:28f:290
+
+2024-03-03 'transaction 8829
+    T28b:28c:28d:28e:28f:290:291              8829 O
+    T28b:28c:28d:28e:28f:290:291:292         -8829 O
+
+2024-03-04 'transaction 8830
+    T28b:28c:28d:28e:28f:290:291:292:293        8830 P @ 0.8 Q
+    T28b:28c:28d:28e:28f:290:291:292:293:294
+
+2024-03-05 'transaction 8831
+    T295        8831 Q @ 8831 R
+    T295:296
+
+2024-03-06 'transaction 8832
+    T295:296:297              8832 R
+    T295:296:297:298         -8832 R
+
+2024-03-07 'transaction 8833
+    T295:296:297:298:299        8833 S @ 0.83 T
+    T295:296:297:298:299:29a
+
+2024-03-08 'transaction 8834
+    T295:296:297:298:299:29a:29b        8834 T @ 8834 U
+    T295:296:297:298:299:29a:29b:29c
+
+2024-03-09 'transaction 8835
+    T295:296:297:298:299:29a:29b:29c:29d              8835 U
+    T295:296:297:298:299:29a:29b:29c:29d:29e         -8835 U
+
+2024-03-10 'transaction 8836
+    T29f        8836 V @ 0.86 W
+    T29f:2a0
+
+2024-03-11 'transaction 8837
+    T29f:2a0:2a1        8837 W @ 8837 X
+    T29f:2a0:2a1:2a2
+
+2024-03-12 'transaction 8838
+    T29f:2a0:2a1:2a2:2a3              8838 X
+    T29f:2a0:2a1:2a2:2a3:2a4         -8838 X
+
+2024-03-13 'transaction 8839
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5        8839 Y @ 0.89 Z
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6
+
+2024-03-14 'transaction 8840
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7        8840 Z @ 8840 A
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7:2a8
+
+2024-03-15 'transaction 8841
+    T2a9              8841 A
+    T2a9:2aa         -8841 A
+
+2024-03-16 'transaction 8842
+    T2a9:2aa:2ab        8842 B @ 0.92 C
+    T2a9:2aa:2ab:2ac
+
+2024-03-17 'transaction 8843
+    T2a9:2aa:2ab:2ac:2ad        8843 C @ 8843 D
+    T2a9:2aa:2ab:2ac:2ad:2ae
+
+2024-03-18 'transaction 8844
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af              8844 D
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0         -8844 D
+
+2024-03-19 'transaction 8845
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1        8845 E @ 0.95 F
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1:2b2
+
+2024-03-20 'transaction 8846
+    T2b3        8846 F @ 8846 G
+    T2b3:2b4
+
+2024-03-21 'transaction 8847
+    T2b3:2b4:2b5              8847 G
+    T2b3:2b4:2b5:2b6         -8847 G
+
+2024-03-22 'transaction 8848
+    T2b3:2b4:2b5:2b6:2b7        8848 H @ 0.98 I
+    T2b3:2b4:2b5:2b6:2b7:2b8
+
+2024-03-23 'transaction 8849
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9        8849 I @ 8849 J
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba
+
+2024-03-24 'transaction 8850
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb              8850 J
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb:2bc         -8850 J
+
+2024-03-25 'transaction 8851
+    T2bd        8851 K @ 1.01 L
+    T2bd:2be
+
+2024-03-26 'transaction 8852
+    T2bd:2be:2bf        8852 L @ 8852 M
+    T2bd:2be:2bf:2c0
+
+2024-03-27 'transaction 8853
+    T2bd:2be:2bf:2c0:2c1              8853 M
+    T2bd:2be:2bf:2c0:2c1:2c2         -8853 M
+
+2024-03-28 'transaction 8854
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3        8854 N @ 1.04 O
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4
+
+2024-03-29 'transaction 8855
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5        8855 O @ 8855 P
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6
+
+2024-03-30 'transaction 8856
+    T2c7              8856 P
+    T2c7:2c8         -8856 P
+
+2024-03-31 'transaction 8857
+    T2c7:2c8:2c9        8857 Q @ 1.07 R
+    T2c7:2c8:2c9:2ca
+

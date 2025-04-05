@@ -1,0 +1,124 @@
+2020-07-01 'transaction 7488
+    T3cb:3cc:3cd:3ce:3cf              7488 Z
+    T3cb:3cc:3cd:3ce:3cf:3d0         -7488 Z
+
+2020-07-02 'transaction 7489
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        7489 A @ 1.19 B
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2020-07-03 'transaction 7490
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3        7490 B @ 7490 C
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4
+
+2020-07-04 'transaction 7491
+    T3d5              7491 C
+    T3d5:3d6         -7491 C
+
+2020-07-05 'transaction 7492
+    T3d5:3d6:3d7        7492 D @ 1.22 E
+    T3d5:3d6:3d7:3d8
+
+2020-07-06 'transaction 7493
+    T3d5:3d6:3d7:3d8:3d9        7493 E @ 7493 F
+    T3d5:3d6:3d7:3d8:3d9:3da
+
+2020-07-07 'transaction 7494
+    T3d5:3d6:3d7:3d8:3d9:3da:3db              7494 F
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc         -7494 F
+
+2020-07-08 'transaction 7495
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        7495 G @ 1.25 H
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2020-07-09 'transaction 7496
+    T3df        7496 H @ 7496 I
+    T3df:3e0
+
+2020-07-10 'transaction 7497
+    T3df:3e0:3e1              7497 I
+    T3df:3e0:3e1:3e2         -7497 I
+
+2020-07-11 'transaction 7498
+    T3df:3e0:3e1:3e2:3e3        7498 J @ 1.28 K
+    T3df:3e0:3e1:3e2:3e3:3e4
+
+2020-07-12 'transaction 7499
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5        7499 K @ 7499 L
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6
+
+2020-07-13 'transaction 7500
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7              7500 L
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8         -7500 L
+
+2020-07-14 'transaction 7501
+    T1      7501 M @ 0.71 N
+    T1:2
+
+2020-07-15 'transaction 7502
+    T1:2:3      7502 N @ 7502 O
+    T1:2:3:4
+
+2020-07-16 'transaction 7503
+    T1:2:3:4:5            7503 O
+    T1:2:3:4:5:6         -7503 O
+
+2020-07-17 'transaction 7504
+    T1:2:3:4:5:6:7      7504 P @ 0.74 Q
+    T1:2:3:4:5:6:7:8
+
+2020-07-18 'transaction 7505
+    T1:2:3:4:5:6:7:8:9      7505 Q @ 7505 R
+    T1:2:3:4:5:6:7:8:9:a
+
+2020-07-19 'transaction 7506
+    b            7506 R
+    b:c         -7506 R
+
+2020-07-20 'transaction 7507
+    b:c:d      7507 S @ 0.77 T
+    b:c:d:e
+
+2020-07-21 'transaction 7508
+    b:c:d:e:f       7508 T @ 7508 U
+    b:c:d:e:f:10
+
+2020-07-22 'transaction 7509
+    b:c:d:e:f:10:11             7509 U
+    b:c:d:e:f:10:11:12         -7509 U
+
+2020-07-23 'transaction 7510
+    b:c:d:e:f:10:11:12:13       7510 V @ 0.8 W
+    b:c:d:e:f:10:11:12:13:14
+
+2020-07-24 'transaction 7511
+    T15       7511 W @ 7511 X
+    T15:16
+
+2020-07-25 'transaction 7512
+    T15:16:17             7512 X
+    T15:16:17:18         -7512 X
+
+2020-07-26 'transaction 7513
+    T15:16:17:18:19       7513 Y @ 0.83 Z
+    T15:16:17:18:19:1a
+
+2020-07-27 'transaction 7514
+    T15:16:17:18:19:1a:1b       7514 Z @ 7514 A
+    T15:16:17:18:19:1a:1b:1c
+
+2020-07-28 'transaction 7515
+    T15:16:17:18:19:1a:1b:1c:1d             7515 A
+    T15:16:17:18:19:1a:1b:1c:1d:1e         -7515 A
+
+2020-07-29 'transaction 7516
+    T1f       7516 B @ 0.86 C
+    T1f:20
+
+2020-07-30 'transaction 7517
+    T1f:20:21       7517 C @ 7517 D
+    T1f:20:21:22
+
+2020-07-31 'transaction 7518
+    T1f:20:21:22:23             7518 D
+    T1f:20:21:22:23:24         -7518 D
+

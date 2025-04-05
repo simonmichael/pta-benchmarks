@@ -1,0 +1,124 @@
+2002-05-01 'transaction 852
+    T2bd:2be:2bf               852 T
+    T2bd:2be:2bf:2c0          -852 T
+
+2002-05-02 'transaction 853
+    T2bd:2be:2bf:2c0:2c1        853 U @ 0.83 V
+    T2bd:2be:2bf:2c0:2c1:2c2
+
+2002-05-03 'transaction 854
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3        854 V @ 854 W
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4
+
+2002-05-04 'transaction 855
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5               855 W
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6          -855 W
+
+2002-05-05 'transaction 856
+    T2c7        856 X @ 0.86 Y
+    T2c7:2c8
+
+2002-05-06 'transaction 857
+    T2c7:2c8:2c9        857 Y @ 857 Z
+    T2c7:2c8:2c9:2ca
+
+2002-05-07 'transaction 858
+    T2c7:2c8:2c9:2ca:2cb               858 Z
+    T2c7:2c8:2c9:2ca:2cb:2cc          -858 Z
+
+2002-05-08 'transaction 859
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd        859 A @ 0.89 B
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce
+
+2002-05-09 'transaction 860
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf        860 B @ 860 C
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0
+
+2002-05-10 'transaction 861
+    T2d1               861 C
+    T2d1:2d2          -861 C
+
+2002-05-11 'transaction 862
+    T2d1:2d2:2d3        862 D @ 0.92 E
+    T2d1:2d2:2d3:2d4
+
+2002-05-12 'transaction 863
+    T2d1:2d2:2d3:2d4:2d5        863 E @ 863 F
+    T2d1:2d2:2d3:2d4:2d5:2d6
+
+2002-05-13 'transaction 864
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7               864 F
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8          -864 F
+
+2002-05-14 'transaction 865
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9        865 G @ 0.95 H
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9:2da
+
+2002-05-15 'transaction 866
+    T2db        866 H @ 866 I
+    T2db:2dc
+
+2002-05-16 'transaction 867
+    T2db:2dc:2dd               867 I
+    T2db:2dc:2dd:2de          -867 I
+
+2002-05-17 'transaction 868
+    T2db:2dc:2dd:2de:2df        868 J @ 0.98 K
+    T2db:2dc:2dd:2de:2df:2e0
+
+2002-05-18 'transaction 869
+    T2db:2dc:2dd:2de:2df:2e0:2e1        869 K @ 869 L
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2
+
+2002-05-19 'transaction 870
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3               870 L
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3:2e4          -870 L
+
+2002-05-20 'transaction 871
+    T2e5        871 M @ 1.01 N
+    T2e5:2e6
+
+2002-05-21 'transaction 872
+    T2e5:2e6:2e7        872 N @ 872 O
+    T2e5:2e6:2e7:2e8
+
+2002-05-22 'transaction 873
+    T2e5:2e6:2e7:2e8:2e9               873 O
+    T2e5:2e6:2e7:2e8:2e9:2ea          -873 O
+
+2002-05-23 'transaction 874
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb        874 P @ 1.04 Q
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec
+
+2002-05-24 'transaction 875
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed        875 Q @ 875 R
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed:2ee
+
+2002-05-25 'transaction 876
+    T2ef               876 R
+    T2ef:2f0          -876 R
+
+2002-05-26 'transaction 877
+    T2ef:2f0:2f1        877 S @ 1.07 T
+    T2ef:2f0:2f1:2f2
+
+2002-05-27 'transaction 878
+    T2ef:2f0:2f1:2f2:2f3        878 T @ 878 U
+    T2ef:2f0:2f1:2f2:2f3:2f4
+
+2002-05-28 'transaction 879
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5               879 U
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6          -879 U
+
+2002-05-29 'transaction 880
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6:2f7        880 V @ 1.1 W
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6:2f7:2f8
+
+2002-05-30 'transaction 881
+    T2f9        881 W @ 881 X
+    T2f9:2fa
+
+2002-05-31 'transaction 882
+    T2f9:2fa:2fb               882 X
+    T2f9:2fa:2fb:2fc          -882 X
+

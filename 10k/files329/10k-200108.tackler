@@ -1,0 +1,124 @@
+2001-08-01 'transaction 579
+    T97:98:99:9a:9b:9c:9d              579 G
+    T97:98:99:9a:9b:9c:9d:9e          -579 G
+
+2001-08-02 'transaction 580
+    T97:98:99:9a:9b:9c:9d:9e:9f       580 H @ 1.1 I
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0
+
+2001-08-03 'transaction 581
+    a1       581 I @ 581 J
+    a1:a2
+
+2001-08-04 'transaction 582
+    a1:a2:a3              582 J
+    a1:a2:a3:a4          -582 J
+
+2001-08-05 'transaction 583
+    a1:a2:a3:a4:a5       583 K @ 1.13 L
+    a1:a2:a3:a4:a5:a6
+
+2001-08-06 'transaction 584
+    a1:a2:a3:a4:a5:a6:a7       584 L @ 584 M
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2001-08-07 'transaction 585
+    a1:a2:a3:a4:a5:a6:a7:a8:a9              585 M
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa          -585 M
+
+2001-08-08 'transaction 586
+    ab       586 N @ 1.16 O
+    ab:ac
+
+2001-08-09 'transaction 587
+    ab:ac:ad       587 O @ 587 P
+    ab:ac:ad:ae
+
+2001-08-10 'transaction 588
+    ab:ac:ad:ae:af              588 P
+    ab:ac:ad:ae:af:b0          -588 P
+
+2001-08-11 'transaction 589
+    ab:ac:ad:ae:af:b0:b1       589 Q @ 1.19 R
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2001-08-12 'transaction 590
+    ab:ac:ad:ae:af:b0:b1:b2:b3       590 R @ 590 S
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2001-08-13 'transaction 591
+    b5              591 S
+    b5:b6          -591 S
+
+2001-08-14 'transaction 592
+    b5:b6:b7       592 T @ 1.22 U
+    b5:b6:b7:b8
+
+2001-08-15 'transaction 593
+    b5:b6:b7:b8:b9       593 U @ 593 V
+    b5:b6:b7:b8:b9:ba
+
+2001-08-16 'transaction 594
+    b5:b6:b7:b8:b9:ba:bb              594 V
+    b5:b6:b7:b8:b9:ba:bb:bc          -594 V
+
+2001-08-17 'transaction 595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       595 W @ 1.25 X
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2001-08-18 'transaction 596
+    bf       596 X @ 596 Y
+    bf:c0
+
+2001-08-19 'transaction 597
+    bf:c0:c1              597 Y
+    bf:c0:c1:c2          -597 Y
+
+2001-08-20 'transaction 598
+    bf:c0:c1:c2:c3       598 Z @ 1.28 A
+    bf:c0:c1:c2:c3:c4
+
+2001-08-21 'transaction 599
+    bf:c0:c1:c2:c3:c4:c5       599 A @ 599 B
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2001-08-22 'transaction 600
+    bf:c0:c1:c2:c3:c4:c5:c6:c7              600 B
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8          -600 B
+
+2001-08-23 'transaction 601
+    c9       601 C @ 0.71 D
+    c9:ca
+
+2001-08-24 'transaction 602
+    c9:ca:cb       602 D @ 602 E
+    c9:ca:cb:cc
+
+2001-08-25 'transaction 603
+    c9:ca:cb:cc:cd              603 E
+    c9:ca:cb:cc:cd:ce          -603 E
+
+2001-08-26 'transaction 604
+    c9:ca:cb:cc:cd:ce:cf       604 F @ 0.74 G
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2001-08-27 'transaction 605
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       605 G @ 605 H
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2001-08-28 'transaction 606
+    d3              606 H
+    d3:d4          -606 H
+
+2001-08-29 'transaction 607
+    d3:d4:d5       607 I @ 0.77 J
+    d3:d4:d5:d6
+
+2001-08-30 'transaction 608
+    d3:d4:d5:d6:d7       608 J @ 608 K
+    d3:d4:d5:d6:d7:d8
+
+2001-08-31 'transaction 609
+    d3:d4:d5:d6:d7:d8:d9              609 K
+    d3:d4:d5:d6:d7:d8:d9:da          -609 K
+

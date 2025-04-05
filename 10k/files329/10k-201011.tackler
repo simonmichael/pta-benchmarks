@@ -1,0 +1,120 @@
+2010-11-01 'transaction 3958
+    T38f:390:391:392:393        3958 F @ 1.28 G
+    T38f:390:391:392:393:394
+
+2010-11-02 'transaction 3959
+    T38f:390:391:392:393:394:395        3959 G @ 3959 H
+    T38f:390:391:392:393:394:395:396
+
+2010-11-03 'transaction 3960
+    T38f:390:391:392:393:394:395:396:397              3960 H
+    T38f:390:391:392:393:394:395:396:397:398         -3960 H
+
+2010-11-04 'transaction 3961
+    T399        3961 I @ 0.71 J
+    T399:39a
+
+2010-11-05 'transaction 3962
+    T399:39a:39b        3962 J @ 3962 K
+    T399:39a:39b:39c
+
+2010-11-06 'transaction 3963
+    T399:39a:39b:39c:39d              3963 K
+    T399:39a:39b:39c:39d:39e         -3963 K
+
+2010-11-07 'transaction 3964
+    T399:39a:39b:39c:39d:39e:39f        3964 L @ 0.74 M
+    T399:39a:39b:39c:39d:39e:39f:3a0
+
+2010-11-08 'transaction 3965
+    T399:39a:39b:39c:39d:39e:39f:3a0:3a1        3965 M @ 3965 N
+    T399:39a:39b:39c:39d:39e:39f:3a0:3a1:3a2
+
+2010-11-09 'transaction 3966
+    T3a3              3966 N
+    T3a3:3a4         -3966 N
+
+2010-11-10 'transaction 3967
+    T3a3:3a4:3a5        3967 O @ 0.77 P
+    T3a3:3a4:3a5:3a6
+
+2010-11-11 'transaction 3968
+    T3a3:3a4:3a5:3a6:3a7        3968 P @ 3968 Q
+    T3a3:3a4:3a5:3a6:3a7:3a8
+
+2010-11-12 'transaction 3969
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9              3969 Q
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa         -3969 Q
+
+2010-11-13 'transaction 3970
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab        3970 R @ 0.8 S
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab:3ac
+
+2010-11-14 'transaction 3971
+    T3ad        3971 S @ 3971 T
+    T3ad:3ae
+
+2010-11-15 'transaction 3972
+    T3ad:3ae:3af              3972 T
+    T3ad:3ae:3af:3b0         -3972 T
+
+2010-11-16 'transaction 3973
+    T3ad:3ae:3af:3b0:3b1        3973 U @ 0.83 V
+    T3ad:3ae:3af:3b0:3b1:3b2
+
+2010-11-17 'transaction 3974
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3        3974 V @ 3974 W
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4
+
+2010-11-18 'transaction 3975
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5              3975 W
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6         -3975 W
+
+2010-11-19 'transaction 3976
+    T3b7        3976 X @ 0.86 Y
+    T3b7:3b8
+
+2010-11-20 'transaction 3977
+    T3b7:3b8:3b9        3977 Y @ 3977 Z
+    T3b7:3b8:3b9:3ba
+
+2010-11-21 'transaction 3978
+    T3b7:3b8:3b9:3ba:3bb              3978 Z
+    T3b7:3b8:3b9:3ba:3bb:3bc         -3978 Z
+
+2010-11-22 'transaction 3979
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        3979 A @ 0.89 B
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2010-11-23 'transaction 3980
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf        3980 B @ 3980 C
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0
+
+2010-11-24 'transaction 3981
+    T3c1              3981 C
+    T3c1:3c2         -3981 C
+
+2010-11-25 'transaction 3982
+    T3c1:3c2:3c3        3982 D @ 0.92 E
+    T3c1:3c2:3c3:3c4
+
+2010-11-26 'transaction 3983
+    T3c1:3c2:3c3:3c4:3c5        3983 E @ 3983 F
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2010-11-27 'transaction 3984
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7              3984 F
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8         -3984 F
+
+2010-11-28 'transaction 3985
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        3985 G @ 0.95 H
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2010-11-29 'transaction 3986
+    T3cb        3986 H @ 3986 I
+    T3cb:3cc
+
+2010-11-30 'transaction 3987
+    T3cb:3cc:3cd              3987 I
+    T3cb:3cc:3cd:3ce         -3987 I
+

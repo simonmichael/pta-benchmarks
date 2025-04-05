@@ -1,0 +1,124 @@
+2011-03-01 'transaction 4078
+    T97:98:99:9a:9b       4078 V @ 1.28 W
+    T97:98:99:9a:9b:9c
+
+2011-03-02 'transaction 4079
+    T97:98:99:9a:9b:9c:9d       4079 W @ 4079 X
+    T97:98:99:9a:9b:9c:9d:9e
+
+2011-03-03 'transaction 4080
+    T97:98:99:9a:9b:9c:9d:9e:9f             4080 X
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0         -4080 X
+
+2011-03-04 'transaction 4081
+    a1       4081 Y @ 0.71 Z
+    a1:a2
+
+2011-03-05 'transaction 4082
+    a1:a2:a3       4082 Z @ 4082 A
+    a1:a2:a3:a4
+
+2011-03-06 'transaction 4083
+    a1:a2:a3:a4:a5             4083 A
+    a1:a2:a3:a4:a5:a6         -4083 A
+
+2011-03-07 'transaction 4084
+    a1:a2:a3:a4:a5:a6:a7       4084 B @ 0.74 C
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2011-03-08 'transaction 4085
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       4085 C @ 4085 D
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2011-03-09 'transaction 4086
+    ab             4086 D
+    ab:ac         -4086 D
+
+2011-03-10 'transaction 4087
+    ab:ac:ad       4087 E @ 0.77 F
+    ab:ac:ad:ae
+
+2011-03-11 'transaction 4088
+    ab:ac:ad:ae:af       4088 F @ 4088 G
+    ab:ac:ad:ae:af:b0
+
+2011-03-12 'transaction 4089
+    ab:ac:ad:ae:af:b0:b1             4089 G
+    ab:ac:ad:ae:af:b0:b1:b2         -4089 G
+
+2011-03-13 'transaction 4090
+    ab:ac:ad:ae:af:b0:b1:b2:b3       4090 H @ 0.8 I
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2011-03-14 'transaction 4091
+    b5       4091 I @ 4091 J
+    b5:b6
+
+2011-03-15 'transaction 4092
+    b5:b6:b7             4092 J
+    b5:b6:b7:b8         -4092 J
+
+2011-03-16 'transaction 4093
+    b5:b6:b7:b8:b9       4093 K @ 0.83 L
+    b5:b6:b7:b8:b9:ba
+
+2011-03-17 'transaction 4094
+    b5:b6:b7:b8:b9:ba:bb       4094 L @ 4094 M
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2011-03-18 'transaction 4095
+    b5:b6:b7:b8:b9:ba:bb:bc:bd             4095 M
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be         -4095 M
+
+2011-03-19 'transaction 4096
+    bf       4096 N @ 0.86 O
+    bf:c0
+
+2011-03-20 'transaction 4097
+    bf:c0:c1       4097 O @ 4097 P
+    bf:c0:c1:c2
+
+2011-03-21 'transaction 4098
+    bf:c0:c1:c2:c3             4098 P
+    bf:c0:c1:c2:c3:c4         -4098 P
+
+2011-03-22 'transaction 4099
+    bf:c0:c1:c2:c3:c4:c5       4099 Q @ 0.89 R
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2011-03-23 'transaction 4100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       4100 R @ 4100 S
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2011-03-24 'transaction 4101
+    c9             4101 S
+    c9:ca         -4101 S
+
+2011-03-25 'transaction 4102
+    c9:ca:cb       4102 T @ 0.92 U
+    c9:ca:cb:cc
+
+2011-03-26 'transaction 4103
+    c9:ca:cb:cc:cd       4103 U @ 4103 V
+    c9:ca:cb:cc:cd:ce
+
+2011-03-27 'transaction 4104
+    c9:ca:cb:cc:cd:ce:cf             4104 V
+    c9:ca:cb:cc:cd:ce:cf:d0         -4104 V
+
+2011-03-28 'transaction 4105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       4105 W @ 0.95 X
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2011-03-29 'transaction 4106
+    d3       4106 X @ 4106 Y
+    d3:d4
+
+2011-03-30 'transaction 4107
+    d3:d4:d5             4107 Y
+    d3:d4:d5:d6         -4107 Y
+
+2011-03-31 'transaction 4108
+    d3:d4:d5:d6:d7       4108 Z @ 0.98 A
+    d3:d4:d5:d6:d7:d8
+

@@ -1,0 +1,124 @@
+2011-08-01 'transaction 4231
+    T1cd        4231 S @ 1.01 T
+    T1cd:1ce
+
+2011-08-02 'transaction 4232
+    T1cd:1ce:1cf        4232 T @ 4232 U
+    T1cd:1ce:1cf:1d0
+
+2011-08-03 'transaction 4233
+    T1cd:1ce:1cf:1d0:1d1              4233 U
+    T1cd:1ce:1cf:1d0:1d1:1d2         -4233 U
+
+2011-08-04 'transaction 4234
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3        4234 V @ 1.04 W
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4
+
+2011-08-05 'transaction 4235
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5        4235 W @ 4235 X
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5:1d6
+
+2011-08-06 'transaction 4236
+    T1d7              4236 X
+    T1d7:1d8         -4236 X
+
+2011-08-07 'transaction 4237
+    T1d7:1d8:1d9        4237 Y @ 1.07 Z
+    T1d7:1d8:1d9:1da
+
+2011-08-08 'transaction 4238
+    T1d7:1d8:1d9:1da:1db        4238 Z @ 4238 A
+    T1d7:1d8:1d9:1da:1db:1dc
+
+2011-08-09 'transaction 4239
+    T1d7:1d8:1d9:1da:1db:1dc:1dd              4239 A
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de         -4239 A
+
+2011-08-10 'transaction 4240
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df        4240 B @ 1.1 C
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0
+
+2011-08-11 'transaction 4241
+    T1e1        4241 C @ 4241 D
+    T1e1:1e2
+
+2011-08-12 'transaction 4242
+    T1e1:1e2:1e3              4242 D
+    T1e1:1e2:1e3:1e4         -4242 D
+
+2011-08-13 'transaction 4243
+    T1e1:1e2:1e3:1e4:1e5        4243 E @ 1.13 F
+    T1e1:1e2:1e3:1e4:1e5:1e6
+
+2011-08-14 'transaction 4244
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7        4244 F @ 4244 G
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8
+
+2011-08-15 'transaction 4245
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9              4245 G
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9:1ea         -4245 G
+
+2011-08-16 'transaction 4246
+    T1eb        4246 H @ 1.16 I
+    T1eb:1ec
+
+2011-08-17 'transaction 4247
+    T1eb:1ec:1ed        4247 I @ 4247 J
+    T1eb:1ec:1ed:1ee
+
+2011-08-18 'transaction 4248
+    T1eb:1ec:1ed:1ee:1ef              4248 J
+    T1eb:1ec:1ed:1ee:1ef:1f0         -4248 J
+
+2011-08-19 'transaction 4249
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1        4249 K @ 1.19 L
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2
+
+2011-08-20 'transaction 4250
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3        4250 L @ 4250 M
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3:1f4
+
+2011-08-21 'transaction 4251
+    T1f5              4251 M
+    T1f5:1f6         -4251 M
+
+2011-08-22 'transaction 4252
+    T1f5:1f6:1f7        4252 N @ 1.22 O
+    T1f5:1f6:1f7:1f8
+
+2011-08-23 'transaction 4253
+    T1f5:1f6:1f7:1f8:1f9        4253 O @ 4253 P
+    T1f5:1f6:1f7:1f8:1f9:1fa
+
+2011-08-24 'transaction 4254
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb              4254 P
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc         -4254 P
+
+2011-08-25 'transaction 4255
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd        4255 Q @ 1.25 R
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd:1fe
+
+2011-08-26 'transaction 4256
+    T1ff        4256 R @ 4256 S
+    T1ff:200
+
+2011-08-27 'transaction 4257
+    T1ff:200:201              4257 S
+    T1ff:200:201:202         -4257 S
+
+2011-08-28 'transaction 4258
+    T1ff:200:201:202:203        4258 T @ 1.28 U
+    T1ff:200:201:202:203:204
+
+2011-08-29 'transaction 4259
+    T1ff:200:201:202:203:204:205        4259 U @ 4259 V
+    T1ff:200:201:202:203:204:205:206
+
+2011-08-30 'transaction 4260
+    T1ff:200:201:202:203:204:205:206:207              4260 V
+    T1ff:200:201:202:203:204:205:206:207:208         -4260 V
+
+2011-08-31 'transaction 4261
+    T209        4261 W @ 0.71 X
+    T209:20a
+

@@ -1,0 +1,112 @@
+2019-02-01 'transaction 6972
+    T3ad:3ae:3af              6972 D
+    T3ad:3ae:3af:3b0         -6972 D
+
+2019-02-02 'transaction 6973
+    T3ad:3ae:3af:3b0:3b1        6973 E @ 0.83 F
+    T3ad:3ae:3af:3b0:3b1:3b2
+
+2019-02-03 'transaction 6974
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3        6974 F @ 6974 G
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4
+
+2019-02-04 'transaction 6975
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5              6975 G
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6         -6975 G
+
+2019-02-05 'transaction 6976
+    T3b7        6976 H @ 0.86 I
+    T3b7:3b8
+
+2019-02-06 'transaction 6977
+    T3b7:3b8:3b9        6977 I @ 6977 J
+    T3b7:3b8:3b9:3ba
+
+2019-02-07 'transaction 6978
+    T3b7:3b8:3b9:3ba:3bb              6978 J
+    T3b7:3b8:3b9:3ba:3bb:3bc         -6978 J
+
+2019-02-08 'transaction 6979
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        6979 K @ 0.89 L
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2019-02-09 'transaction 6980
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf        6980 L @ 6980 M
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0
+
+2019-02-10 'transaction 6981
+    T3c1              6981 M
+    T3c1:3c2         -6981 M
+
+2019-02-11 'transaction 6982
+    T3c1:3c2:3c3        6982 N @ 0.92 O
+    T3c1:3c2:3c3:3c4
+
+2019-02-12 'transaction 6983
+    T3c1:3c2:3c3:3c4:3c5        6983 O @ 6983 P
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2019-02-13 'transaction 6984
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7              6984 P
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8         -6984 P
+
+2019-02-14 'transaction 6985
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        6985 Q @ 0.95 R
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2019-02-15 'transaction 6986
+    T3cb        6986 R @ 6986 S
+    T3cb:3cc
+
+2019-02-16 'transaction 6987
+    T3cb:3cc:3cd              6987 S
+    T3cb:3cc:3cd:3ce         -6987 S
+
+2019-02-17 'transaction 6988
+    T3cb:3cc:3cd:3ce:3cf        6988 T @ 0.98 U
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2019-02-18 'transaction 6989
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        6989 U @ 6989 V
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2019-02-19 'transaction 6990
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3              6990 V
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4         -6990 V
+
+2019-02-20 'transaction 6991
+    T3d5        6991 W @ 1.01 X
+    T3d5:3d6
+
+2019-02-21 'transaction 6992
+    T3d5:3d6:3d7        6992 X @ 6992 Y
+    T3d5:3d6:3d7:3d8
+
+2019-02-22 'transaction 6993
+    T3d5:3d6:3d7:3d8:3d9              6993 Y
+    T3d5:3d6:3d7:3d8:3d9:3da         -6993 Y
+
+2019-02-23 'transaction 6994
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        6994 Z @ 1.04 A
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2019-02-24 'transaction 6995
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        6995 A @ 6995 B
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2019-02-25 'transaction 6996
+    T3df              6996 B
+    T3df:3e0         -6996 B
+
+2019-02-26 'transaction 6997
+    T3df:3e0:3e1        6997 C @ 1.07 D
+    T3df:3e0:3e1:3e2
+
+2019-02-27 'transaction 6998
+    T3df:3e0:3e1:3e2:3e3        6998 D @ 6998 E
+    T3df:3e0:3e1:3e2:3e3:3e4
+
+2019-02-28 'transaction 6999
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5              6999 E
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6         -6999 E
+

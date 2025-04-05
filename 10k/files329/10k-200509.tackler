@@ -1,0 +1,120 @@
+2005-09-01 'transaction 2071
+    T8d       2071 Q @ 1.01 R
+    T8d:8e
+
+2005-09-02 'transaction 2072
+    T8d:8e:8f       2072 R @ 2072 S
+    T8d:8e:8f:90
+
+2005-09-03 'transaction 2073
+    T8d:8e:8f:90:91             2073 S
+    T8d:8e:8f:90:91:92         -2073 S
+
+2005-09-04 'transaction 2074
+    T8d:8e:8f:90:91:92:93       2074 T @ 1.04 U
+    T8d:8e:8f:90:91:92:93:94
+
+2005-09-05 'transaction 2075
+    T8d:8e:8f:90:91:92:93:94:95       2075 U @ 2075 V
+    T8d:8e:8f:90:91:92:93:94:95:96
+
+2005-09-06 'transaction 2076
+    T97             2076 V
+    T97:98         -2076 V
+
+2005-09-07 'transaction 2077
+    T97:98:99       2077 W @ 1.07 X
+    T97:98:99:9a
+
+2005-09-08 'transaction 2078
+    T97:98:99:9a:9b       2078 X @ 2078 Y
+    T97:98:99:9a:9b:9c
+
+2005-09-09 'transaction 2079
+    T97:98:99:9a:9b:9c:9d             2079 Y
+    T97:98:99:9a:9b:9c:9d:9e         -2079 Y
+
+2005-09-10 'transaction 2080
+    T97:98:99:9a:9b:9c:9d:9e:9f       2080 Z @ 1.1 A
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0
+
+2005-09-11 'transaction 2081
+    a1       2081 A @ 2081 B
+    a1:a2
+
+2005-09-12 'transaction 2082
+    a1:a2:a3             2082 B
+    a1:a2:a3:a4         -2082 B
+
+2005-09-13 'transaction 2083
+    a1:a2:a3:a4:a5       2083 C @ 1.13 D
+    a1:a2:a3:a4:a5:a6
+
+2005-09-14 'transaction 2084
+    a1:a2:a3:a4:a5:a6:a7       2084 D @ 2084 E
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2005-09-15 'transaction 2085
+    a1:a2:a3:a4:a5:a6:a7:a8:a9             2085 E
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa         -2085 E
+
+2005-09-16 'transaction 2086
+    ab       2086 F @ 1.16 G
+    ab:ac
+
+2005-09-17 'transaction 2087
+    ab:ac:ad       2087 G @ 2087 H
+    ab:ac:ad:ae
+
+2005-09-18 'transaction 2088
+    ab:ac:ad:ae:af             2088 H
+    ab:ac:ad:ae:af:b0         -2088 H
+
+2005-09-19 'transaction 2089
+    ab:ac:ad:ae:af:b0:b1       2089 I @ 1.19 J
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2005-09-20 'transaction 2090
+    ab:ac:ad:ae:af:b0:b1:b2:b3       2090 J @ 2090 K
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2005-09-21 'transaction 2091
+    b5             2091 K
+    b5:b6         -2091 K
+
+2005-09-22 'transaction 2092
+    b5:b6:b7       2092 L @ 1.22 M
+    b5:b6:b7:b8
+
+2005-09-23 'transaction 2093
+    b5:b6:b7:b8:b9       2093 M @ 2093 N
+    b5:b6:b7:b8:b9:ba
+
+2005-09-24 'transaction 2094
+    b5:b6:b7:b8:b9:ba:bb             2094 N
+    b5:b6:b7:b8:b9:ba:bb:bc         -2094 N
+
+2005-09-25 'transaction 2095
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       2095 O @ 1.25 P
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2005-09-26 'transaction 2096
+    bf       2096 P @ 2096 Q
+    bf:c0
+
+2005-09-27 'transaction 2097
+    bf:c0:c1             2097 Q
+    bf:c0:c1:c2         -2097 Q
+
+2005-09-28 'transaction 2098
+    bf:c0:c1:c2:c3       2098 R @ 1.28 S
+    bf:c0:c1:c2:c3:c4
+
+2005-09-29 'transaction 2099
+    bf:c0:c1:c2:c3:c4:c5       2099 S @ 2099 T
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2005-09-30 'transaction 2100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7             2100 T
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8         -2100 T
+

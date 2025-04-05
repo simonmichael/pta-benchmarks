@@ -1,0 +1,112 @@
+2005-02-01 'transaction 1859
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd        1859 M @ 1859 N
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce
+
+2005-02-02 'transaction 1860
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf              1860 N
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0         -1860 N
+
+2005-02-03 'transaction 1861
+    T2d1        1861 O @ 0.71 P
+    T2d1:2d2
+
+2005-02-04 'transaction 1862
+    T2d1:2d2:2d3        1862 P @ 1862 Q
+    T2d1:2d2:2d3:2d4
+
+2005-02-05 'transaction 1863
+    T2d1:2d2:2d3:2d4:2d5              1863 Q
+    T2d1:2d2:2d3:2d4:2d5:2d6         -1863 Q
+
+2005-02-06 'transaction 1864
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7        1864 R @ 0.74 S
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8
+
+2005-02-07 'transaction 1865
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9        1865 S @ 1865 T
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9:2da
+
+2005-02-08 'transaction 1866
+    T2db              1866 T
+    T2db:2dc         -1866 T
+
+2005-02-09 'transaction 1867
+    T2db:2dc:2dd        1867 U @ 0.77 V
+    T2db:2dc:2dd:2de
+
+2005-02-10 'transaction 1868
+    T2db:2dc:2dd:2de:2df        1868 V @ 1868 W
+    T2db:2dc:2dd:2de:2df:2e0
+
+2005-02-11 'transaction 1869
+    T2db:2dc:2dd:2de:2df:2e0:2e1              1869 W
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2         -1869 W
+
+2005-02-12 'transaction 1870
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3        1870 X @ 0.8 Y
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3:2e4
+
+2005-02-13 'transaction 1871
+    T2e5        1871 Y @ 1871 Z
+    T2e5:2e6
+
+2005-02-14 'transaction 1872
+    T2e5:2e6:2e7              1872 Z
+    T2e5:2e6:2e7:2e8         -1872 Z
+
+2005-02-15 'transaction 1873
+    T2e5:2e6:2e7:2e8:2e9        1873 A @ 0.83 B
+    T2e5:2e6:2e7:2e8:2e9:2ea
+
+2005-02-16 'transaction 1874
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb        1874 B @ 1874 C
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec
+
+2005-02-17 'transaction 1875
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed              1875 C
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed:2ee         -1875 C
+
+2005-02-18 'transaction 1876
+    T2ef        1876 D @ 0.86 E
+    T2ef:2f0
+
+2005-02-19 'transaction 1877
+    T2ef:2f0:2f1        1877 E @ 1877 F
+    T2ef:2f0:2f1:2f2
+
+2005-02-20 'transaction 1878
+    T2ef:2f0:2f1:2f2:2f3              1878 F
+    T2ef:2f0:2f1:2f2:2f3:2f4         -1878 F
+
+2005-02-21 'transaction 1879
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5        1879 G @ 0.89 H
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6
+
+2005-02-22 'transaction 1880
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6:2f7        1880 H @ 1880 I
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6:2f7:2f8
+
+2005-02-23 'transaction 1881
+    T2f9              1881 I
+    T2f9:2fa         -1881 I
+
+2005-02-24 'transaction 1882
+    T2f9:2fa:2fb        1882 J @ 0.92 K
+    T2f9:2fa:2fb:2fc
+
+2005-02-25 'transaction 1883
+    T2f9:2fa:2fb:2fc:2fd        1883 K @ 1883 L
+    T2f9:2fa:2fb:2fc:2fd:2fe
+
+2005-02-26 'transaction 1884
+    T2f9:2fa:2fb:2fc:2fd:2fe:2ff              1884 L
+    T2f9:2fa:2fb:2fc:2fd:2fe:2ff:300         -1884 L
+
+2005-02-27 'transaction 1885
+    T2f9:2fa:2fb:2fc:2fd:2fe:2ff:300:301        1885 M @ 0.95 N
+    T2f9:2fa:2fb:2fc:2fd:2fe:2ff:300:301:302
+
+2005-02-28 'transaction 1886
+    T303        1886 N @ 1886 O
+    T303:304
+

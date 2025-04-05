@@ -1,0 +1,112 @@
+2022-02-01 'transaction 8068
+    T83:84:85:86:87       8068 H @ 0.98 I
+    T83:84:85:86:87:88
+
+2022-02-02 'transaction 8069
+    T83:84:85:86:87:88:89       8069 I @ 8069 J
+    T83:84:85:86:87:88:89:8a
+
+2022-02-03 'transaction 8070
+    T83:84:85:86:87:88:89:8a:8b             8070 J
+    T83:84:85:86:87:88:89:8a:8b:8c         -8070 J
+
+2022-02-04 'transaction 8071
+    T8d       8071 K @ 1.01 L
+    T8d:8e
+
+2022-02-05 'transaction 8072
+    T8d:8e:8f       8072 L @ 8072 M
+    T8d:8e:8f:90
+
+2022-02-06 'transaction 8073
+    T8d:8e:8f:90:91             8073 M
+    T8d:8e:8f:90:91:92         -8073 M
+
+2022-02-07 'transaction 8074
+    T8d:8e:8f:90:91:92:93       8074 N @ 1.04 O
+    T8d:8e:8f:90:91:92:93:94
+
+2022-02-08 'transaction 8075
+    T8d:8e:8f:90:91:92:93:94:95       8075 O @ 8075 P
+    T8d:8e:8f:90:91:92:93:94:95:96
+
+2022-02-09 'transaction 8076
+    T97             8076 P
+    T97:98         -8076 P
+
+2022-02-10 'transaction 8077
+    T97:98:99       8077 Q @ 1.07 R
+    T97:98:99:9a
+
+2022-02-11 'transaction 8078
+    T97:98:99:9a:9b       8078 R @ 8078 S
+    T97:98:99:9a:9b:9c
+
+2022-02-12 'transaction 8079
+    T97:98:99:9a:9b:9c:9d             8079 S
+    T97:98:99:9a:9b:9c:9d:9e         -8079 S
+
+2022-02-13 'transaction 8080
+    T97:98:99:9a:9b:9c:9d:9e:9f       8080 T @ 1.1 U
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0
+
+2022-02-14 'transaction 8081
+    a1       8081 U @ 8081 V
+    a1:a2
+
+2022-02-15 'transaction 8082
+    a1:a2:a3             8082 V
+    a1:a2:a3:a4         -8082 V
+
+2022-02-16 'transaction 8083
+    a1:a2:a3:a4:a5       8083 W @ 1.13 X
+    a1:a2:a3:a4:a5:a6
+
+2022-02-17 'transaction 8084
+    a1:a2:a3:a4:a5:a6:a7       8084 X @ 8084 Y
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2022-02-18 'transaction 8085
+    a1:a2:a3:a4:a5:a6:a7:a8:a9             8085 Y
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa         -8085 Y
+
+2022-02-19 'transaction 8086
+    ab       8086 Z @ 1.16 A
+    ab:ac
+
+2022-02-20 'transaction 8087
+    ab:ac:ad       8087 A @ 8087 B
+    ab:ac:ad:ae
+
+2022-02-21 'transaction 8088
+    ab:ac:ad:ae:af             8088 B
+    ab:ac:ad:ae:af:b0         -8088 B
+
+2022-02-22 'transaction 8089
+    ab:ac:ad:ae:af:b0:b1       8089 C @ 1.19 D
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2022-02-23 'transaction 8090
+    ab:ac:ad:ae:af:b0:b1:b2:b3       8090 D @ 8090 E
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2022-02-24 'transaction 8091
+    b5             8091 E
+    b5:b6         -8091 E
+
+2022-02-25 'transaction 8092
+    b5:b6:b7       8092 F @ 1.22 G
+    b5:b6:b7:b8
+
+2022-02-26 'transaction 8093
+    b5:b6:b7:b8:b9       8093 G @ 8093 H
+    b5:b6:b7:b8:b9:ba
+
+2022-02-27 'transaction 8094
+    b5:b6:b7:b8:b9:ba:bb             8094 H
+    b5:b6:b7:b8:b9:ba:bb:bc         -8094 H
+
+2022-02-28 'transaction 8095
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       8095 I @ 1.25 J
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+

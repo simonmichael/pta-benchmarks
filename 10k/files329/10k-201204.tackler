@@ -1,0 +1,120 @@
+2012-04-01 'transaction 4475
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5        4475 C @ 4475 D
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6
+
+2012-04-02 'transaction 4476
+    T3b7              4476 D
+    T3b7:3b8         -4476 D
+
+2012-04-03 'transaction 4477
+    T3b7:3b8:3b9        4477 E @ 1.07 F
+    T3b7:3b8:3b9:3ba
+
+2012-04-04 'transaction 4478
+    T3b7:3b8:3b9:3ba:3bb        4478 F @ 4478 G
+    T3b7:3b8:3b9:3ba:3bb:3bc
+
+2012-04-05 'transaction 4479
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd              4479 G
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be         -4479 G
+
+2012-04-06 'transaction 4480
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf        4480 H @ 1.1 I
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0
+
+2012-04-07 'transaction 4481
+    T3c1        4481 I @ 4481 J
+    T3c1:3c2
+
+2012-04-08 'transaction 4482
+    T3c1:3c2:3c3              4482 J
+    T3c1:3c2:3c3:3c4         -4482 J
+
+2012-04-09 'transaction 4483
+    T3c1:3c2:3c3:3c4:3c5        4483 K @ 1.13 L
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2012-04-10 'transaction 4484
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7        4484 L @ 4484 M
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8
+
+2012-04-11 'transaction 4485
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9              4485 M
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca         -4485 M
+
+2012-04-12 'transaction 4486
+    T3cb        4486 N @ 1.16 O
+    T3cb:3cc
+
+2012-04-13 'transaction 4487
+    T3cb:3cc:3cd        4487 O @ 4487 P
+    T3cb:3cc:3cd:3ce
+
+2012-04-14 'transaction 4488
+    T3cb:3cc:3cd:3ce:3cf              4488 P
+    T3cb:3cc:3cd:3ce:3cf:3d0         -4488 P
+
+2012-04-15 'transaction 4489
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        4489 Q @ 1.19 R
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2012-04-16 'transaction 4490
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3        4490 R @ 4490 S
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4
+
+2012-04-17 'transaction 4491
+    T3d5              4491 S
+    T3d5:3d6         -4491 S
+
+2012-04-18 'transaction 4492
+    T3d5:3d6:3d7        4492 T @ 1.22 U
+    T3d5:3d6:3d7:3d8
+
+2012-04-19 'transaction 4493
+    T3d5:3d6:3d7:3d8:3d9        4493 U @ 4493 V
+    T3d5:3d6:3d7:3d8:3d9:3da
+
+2012-04-20 'transaction 4494
+    T3d5:3d6:3d7:3d8:3d9:3da:3db              4494 V
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc         -4494 V
+
+2012-04-21 'transaction 4495
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        4495 W @ 1.25 X
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2012-04-22 'transaction 4496
+    T3df        4496 X @ 4496 Y
+    T3df:3e0
+
+2012-04-23 'transaction 4497
+    T3df:3e0:3e1              4497 Y
+    T3df:3e0:3e1:3e2         -4497 Y
+
+2012-04-24 'transaction 4498
+    T3df:3e0:3e1:3e2:3e3        4498 Z @ 1.28 A
+    T3df:3e0:3e1:3e2:3e3:3e4
+
+2012-04-25 'transaction 4499
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5        4499 A @ 4499 B
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6
+
+2012-04-26 'transaction 4500
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7              4500 B
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8         -4500 B
+
+2012-04-27 'transaction 4501
+    T1      4501 C @ 0.71 D
+    T1:2
+
+2012-04-28 'transaction 4502
+    T1:2:3      4502 D @ 4502 E
+    T1:2:3:4
+
+2012-04-29 'transaction 4503
+    T1:2:3:4:5            4503 E
+    T1:2:3:4:5:6         -4503 E
+
+2012-04-30 'transaction 4504
+    T1:2:3:4:5:6:7      4504 F @ 0.74 G
+    T1:2:3:4:5:6:7:8
+

@@ -1,0 +1,120 @@
+2014-09-01 'transaction 5358
+    T2c7:2c8:2c9:2ca:2cb              5358 B
+    T2c7:2c8:2c9:2ca:2cb:2cc         -5358 B
+
+2014-09-02 'transaction 5359
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd        5359 C @ 0.89 D
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce
+
+2014-09-03 'transaction 5360
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf        5360 D @ 5360 E
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0
+
+2014-09-04 'transaction 5361
+    T2d1              5361 E
+    T2d1:2d2         -5361 E
+
+2014-09-05 'transaction 5362
+    T2d1:2d2:2d3        5362 F @ 0.92 G
+    T2d1:2d2:2d3:2d4
+
+2014-09-06 'transaction 5363
+    T2d1:2d2:2d3:2d4:2d5        5363 G @ 5363 H
+    T2d1:2d2:2d3:2d4:2d5:2d6
+
+2014-09-07 'transaction 5364
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7              5364 H
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8         -5364 H
+
+2014-09-08 'transaction 5365
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9        5365 I @ 0.95 J
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9:2da
+
+2014-09-09 'transaction 5366
+    T2db        5366 J @ 5366 K
+    T2db:2dc
+
+2014-09-10 'transaction 5367
+    T2db:2dc:2dd              5367 K
+    T2db:2dc:2dd:2de         -5367 K
+
+2014-09-11 'transaction 5368
+    T2db:2dc:2dd:2de:2df        5368 L @ 0.98 M
+    T2db:2dc:2dd:2de:2df:2e0
+
+2014-09-12 'transaction 5369
+    T2db:2dc:2dd:2de:2df:2e0:2e1        5369 M @ 5369 N
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2
+
+2014-09-13 'transaction 5370
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3              5370 N
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3:2e4         -5370 N
+
+2014-09-14 'transaction 5371
+    T2e5        5371 O @ 1.01 P
+    T2e5:2e6
+
+2014-09-15 'transaction 5372
+    T2e5:2e6:2e7        5372 P @ 5372 Q
+    T2e5:2e6:2e7:2e8
+
+2014-09-16 'transaction 5373
+    T2e5:2e6:2e7:2e8:2e9              5373 Q
+    T2e5:2e6:2e7:2e8:2e9:2ea         -5373 Q
+
+2014-09-17 'transaction 5374
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb        5374 R @ 1.04 S
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec
+
+2014-09-18 'transaction 5375
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed        5375 S @ 5375 T
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed:2ee
+
+2014-09-19 'transaction 5376
+    T2ef              5376 T
+    T2ef:2f0         -5376 T
+
+2014-09-20 'transaction 5377
+    T2ef:2f0:2f1        5377 U @ 1.07 V
+    T2ef:2f0:2f1:2f2
+
+2014-09-21 'transaction 5378
+    T2ef:2f0:2f1:2f2:2f3        5378 V @ 5378 W
+    T2ef:2f0:2f1:2f2:2f3:2f4
+
+2014-09-22 'transaction 5379
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5              5379 W
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6         -5379 W
+
+2014-09-23 'transaction 5380
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6:2f7        5380 X @ 1.1 Y
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6:2f7:2f8
+
+2014-09-24 'transaction 5381
+    T2f9        5381 Y @ 5381 Z
+    T2f9:2fa
+
+2014-09-25 'transaction 5382
+    T2f9:2fa:2fb              5382 Z
+    T2f9:2fa:2fb:2fc         -5382 Z
+
+2014-09-26 'transaction 5383
+    T2f9:2fa:2fb:2fc:2fd        5383 A @ 1.13 B
+    T2f9:2fa:2fb:2fc:2fd:2fe
+
+2014-09-27 'transaction 5384
+    T2f9:2fa:2fb:2fc:2fd:2fe:2ff        5384 B @ 5384 C
+    T2f9:2fa:2fb:2fc:2fd:2fe:2ff:300
+
+2014-09-28 'transaction 5385
+    T2f9:2fa:2fb:2fc:2fd:2fe:2ff:300:301              5385 C
+    T2f9:2fa:2fb:2fc:2fd:2fe:2ff:300:301:302         -5385 C
+
+2014-09-29 'transaction 5386
+    T303        5386 D @ 1.16 E
+    T303:304
+
+2014-09-30 'transaction 5387
+    T303:304:305        5387 E @ 5387 F
+    T303:304:305:306
+

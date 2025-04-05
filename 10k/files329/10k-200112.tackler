@@ -1,0 +1,124 @@
+2001-12-01 'transaction 701
+    T191        701 Y @ 701 Z
+    T191:192
+
+2001-12-02 'transaction 702
+    T191:192:193               702 Z
+    T191:192:193:194          -702 Z
+
+2001-12-03 'transaction 703
+    T191:192:193:194:195        703 A @ 1.13 B
+    T191:192:193:194:195:196
+
+2001-12-04 'transaction 704
+    T191:192:193:194:195:196:197        704 B @ 704 C
+    T191:192:193:194:195:196:197:198
+
+2001-12-05 'transaction 705
+    T191:192:193:194:195:196:197:198:199               705 C
+    T191:192:193:194:195:196:197:198:199:19a          -705 C
+
+2001-12-06 'transaction 706
+    T19b        706 D @ 1.16 E
+    T19b:19c
+
+2001-12-07 'transaction 707
+    T19b:19c:19d        707 E @ 707 F
+    T19b:19c:19d:19e
+
+2001-12-08 'transaction 708
+    T19b:19c:19d:19e:19f               708 F
+    T19b:19c:19d:19e:19f:1a0          -708 F
+
+2001-12-09 'transaction 709
+    T19b:19c:19d:19e:19f:1a0:1a1        709 G @ 1.19 H
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2
+
+2001-12-10 'transaction 710
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3        710 H @ 710 I
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3:1a4
+
+2001-12-11 'transaction 711
+    T1a5               711 I
+    T1a5:1a6          -711 I
+
+2001-12-12 'transaction 712
+    T1a5:1a6:1a7        712 J @ 1.22 K
+    T1a5:1a6:1a7:1a8
+
+2001-12-13 'transaction 713
+    T1a5:1a6:1a7:1a8:1a9        713 K @ 713 L
+    T1a5:1a6:1a7:1a8:1a9:1aa
+
+2001-12-14 'transaction 714
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab               714 L
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac          -714 L
+
+2001-12-15 'transaction 715
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad        715 M @ 1.25 N
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad:1ae
+
+2001-12-16 'transaction 716
+    T1af        716 N @ 716 O
+    T1af:1b0
+
+2001-12-17 'transaction 717
+    T1af:1b0:1b1               717 O
+    T1af:1b0:1b1:1b2          -717 O
+
+2001-12-18 'transaction 718
+    T1af:1b0:1b1:1b2:1b3        718 P @ 1.28 Q
+    T1af:1b0:1b1:1b2:1b3:1b4
+
+2001-12-19 'transaction 719
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5        719 Q @ 719 R
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6
+
+2001-12-20 'transaction 720
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7               720 R
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7:1b8          -720 R
+
+2001-12-21 'transaction 721
+    T1b9        721 S @ 0.71 T
+    T1b9:1ba
+
+2001-12-22 'transaction 722
+    T1b9:1ba:1bb        722 T @ 722 U
+    T1b9:1ba:1bb:1bc
+
+2001-12-23 'transaction 723
+    T1b9:1ba:1bb:1bc:1bd               723 U
+    T1b9:1ba:1bb:1bc:1bd:1be          -723 U
+
+2001-12-24 'transaction 724
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf        724 V @ 0.74 W
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0
+
+2001-12-25 'transaction 725
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1        725 W @ 725 X
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1:1c2
+
+2001-12-26 'transaction 726
+    T1c3               726 X
+    T1c3:1c4          -726 X
+
+2001-12-27 'transaction 727
+    T1c3:1c4:1c5        727 Y @ 0.77 Z
+    T1c3:1c4:1c5:1c6
+
+2001-12-28 'transaction 728
+    T1c3:1c4:1c5:1c6:1c7        728 Z @ 728 A
+    T1c3:1c4:1c5:1c6:1c7:1c8
+
+2001-12-29 'transaction 729
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9               729 A
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca          -729 A
+
+2001-12-30 'transaction 730
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb        730 B @ 0.8 C
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc
+
+2001-12-31 'transaction 731
+    T1cd        731 C @ 731 D
+    T1cd:1ce
+

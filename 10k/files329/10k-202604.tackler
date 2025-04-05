@@ -1,0 +1,120 @@
+2026-04-01 'transaction 9588
+    ab:ac:ad:ae:af             9588 T
+    ab:ac:ad:ae:af:b0         -9588 T
+
+2026-04-02 'transaction 9589
+    ab:ac:ad:ae:af:b0:b1       9589 U @ 1.19 V
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2026-04-03 'transaction 9590
+    ab:ac:ad:ae:af:b0:b1:b2:b3       9590 V @ 9590 W
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2026-04-04 'transaction 9591
+    b5             9591 W
+    b5:b6         -9591 W
+
+2026-04-05 'transaction 9592
+    b5:b6:b7       9592 X @ 1.22 Y
+    b5:b6:b7:b8
+
+2026-04-06 'transaction 9593
+    b5:b6:b7:b8:b9       9593 Y @ 9593 Z
+    b5:b6:b7:b8:b9:ba
+
+2026-04-07 'transaction 9594
+    b5:b6:b7:b8:b9:ba:bb             9594 Z
+    b5:b6:b7:b8:b9:ba:bb:bc         -9594 Z
+
+2026-04-08 'transaction 9595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       9595 A @ 1.25 B
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2026-04-09 'transaction 9596
+    bf       9596 B @ 9596 C
+    bf:c0
+
+2026-04-10 'transaction 9597
+    bf:c0:c1             9597 C
+    bf:c0:c1:c2         -9597 C
+
+2026-04-11 'transaction 9598
+    bf:c0:c1:c2:c3       9598 D @ 1.28 E
+    bf:c0:c1:c2:c3:c4
+
+2026-04-12 'transaction 9599
+    bf:c0:c1:c2:c3:c4:c5       9599 E @ 9599 F
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2026-04-13 'transaction 9600
+    bf:c0:c1:c2:c3:c4:c5:c6:c7             9600 F
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8         -9600 F
+
+2026-04-14 'transaction 9601
+    c9       9601 G @ 0.71 H
+    c9:ca
+
+2026-04-15 'transaction 9602
+    c9:ca:cb       9602 H @ 9602 I
+    c9:ca:cb:cc
+
+2026-04-16 'transaction 9603
+    c9:ca:cb:cc:cd             9603 I
+    c9:ca:cb:cc:cd:ce         -9603 I
+
+2026-04-17 'transaction 9604
+    c9:ca:cb:cc:cd:ce:cf       9604 J @ 0.74 K
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2026-04-18 'transaction 9605
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       9605 K @ 9605 L
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2026-04-19 'transaction 9606
+    d3             9606 L
+    d3:d4         -9606 L
+
+2026-04-20 'transaction 9607
+    d3:d4:d5       9607 M @ 0.77 N
+    d3:d4:d5:d6
+
+2026-04-21 'transaction 9608
+    d3:d4:d5:d6:d7       9608 N @ 9608 O
+    d3:d4:d5:d6:d7:d8
+
+2026-04-22 'transaction 9609
+    d3:d4:d5:d6:d7:d8:d9             9609 O
+    d3:d4:d5:d6:d7:d8:d9:da         -9609 O
+
+2026-04-23 'transaction 9610
+    d3:d4:d5:d6:d7:d8:d9:da:db       9610 P @ 0.8 Q
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2026-04-24 'transaction 9611
+    dd       9611 Q @ 9611 R
+    dd:de
+
+2026-04-25 'transaction 9612
+    dd:de:df             9612 R
+    dd:de:df:e0         -9612 R
+
+2026-04-26 'transaction 9613
+    dd:de:df:e0:e1       9613 S @ 0.83 T
+    dd:de:df:e0:e1:e2
+
+2026-04-27 'transaction 9614
+    dd:de:df:e0:e1:e2:e3       9614 T @ 9614 U
+    dd:de:df:e0:e1:e2:e3:e4
+
+2026-04-28 'transaction 9615
+    dd:de:df:e0:e1:e2:e3:e4:e5             9615 U
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6         -9615 U
+
+2026-04-29 'transaction 9616
+    e7       9616 V @ 0.86 W
+    e7:e8
+
+2026-04-30 'transaction 9617
+    e7:e8:e9       9617 W @ 9617 X
+    e7:e8:e9:ea
+

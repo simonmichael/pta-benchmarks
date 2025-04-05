@@ -1,0 +1,124 @@
+2010-03-01 'transaction 3713
+    T1a5:1a6:1a7:1a8:1a9        3713 U @ 3713 V
+    T1a5:1a6:1a7:1a8:1a9:1aa
+
+2010-03-02 'transaction 3714
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab              3714 V
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac         -3714 V
+
+2010-03-03 'transaction 3715
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad        3715 W @ 1.25 X
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad:1ae
+
+2010-03-04 'transaction 3716
+    T1af        3716 X @ 3716 Y
+    T1af:1b0
+
+2010-03-05 'transaction 3717
+    T1af:1b0:1b1              3717 Y
+    T1af:1b0:1b1:1b2         -3717 Y
+
+2010-03-06 'transaction 3718
+    T1af:1b0:1b1:1b2:1b3        3718 Z @ 1.28 A
+    T1af:1b0:1b1:1b2:1b3:1b4
+
+2010-03-07 'transaction 3719
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5        3719 A @ 3719 B
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6
+
+2010-03-08 'transaction 3720
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7              3720 B
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7:1b8         -3720 B
+
+2010-03-09 'transaction 3721
+    T1b9        3721 C @ 0.71 D
+    T1b9:1ba
+
+2010-03-10 'transaction 3722
+    T1b9:1ba:1bb        3722 D @ 3722 E
+    T1b9:1ba:1bb:1bc
+
+2010-03-11 'transaction 3723
+    T1b9:1ba:1bb:1bc:1bd              3723 E
+    T1b9:1ba:1bb:1bc:1bd:1be         -3723 E
+
+2010-03-12 'transaction 3724
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf        3724 F @ 0.74 G
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0
+
+2010-03-13 'transaction 3725
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1        3725 G @ 3725 H
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1:1c2
+
+2010-03-14 'transaction 3726
+    T1c3              3726 H
+    T1c3:1c4         -3726 H
+
+2010-03-15 'transaction 3727
+    T1c3:1c4:1c5        3727 I @ 0.77 J
+    T1c3:1c4:1c5:1c6
+
+2010-03-16 'transaction 3728
+    T1c3:1c4:1c5:1c6:1c7        3728 J @ 3728 K
+    T1c3:1c4:1c5:1c6:1c7:1c8
+
+2010-03-17 'transaction 3729
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9              3729 K
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca         -3729 K
+
+2010-03-18 'transaction 3730
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb        3730 L @ 0.8 M
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc
+
+2010-03-19 'transaction 3731
+    T1cd        3731 M @ 3731 N
+    T1cd:1ce
+
+2010-03-20 'transaction 3732
+    T1cd:1ce:1cf              3732 N
+    T1cd:1ce:1cf:1d0         -3732 N
+
+2010-03-21 'transaction 3733
+    T1cd:1ce:1cf:1d0:1d1        3733 O @ 0.83 P
+    T1cd:1ce:1cf:1d0:1d1:1d2
+
+2010-03-22 'transaction 3734
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3        3734 P @ 3734 Q
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4
+
+2010-03-23 'transaction 3735
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5              3735 Q
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5:1d6         -3735 Q
+
+2010-03-24 'transaction 3736
+    T1d7        3736 R @ 0.86 S
+    T1d7:1d8
+
+2010-03-25 'transaction 3737
+    T1d7:1d8:1d9        3737 S @ 3737 T
+    T1d7:1d8:1d9:1da
+
+2010-03-26 'transaction 3738
+    T1d7:1d8:1d9:1da:1db              3738 T
+    T1d7:1d8:1d9:1da:1db:1dc         -3738 T
+
+2010-03-27 'transaction 3739
+    T1d7:1d8:1d9:1da:1db:1dc:1dd        3739 U @ 0.89 V
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de
+
+2010-03-28 'transaction 3740
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df        3740 V @ 3740 W
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0
+
+2010-03-29 'transaction 3741
+    T1e1              3741 W
+    T1e1:1e2         -3741 W
+
+2010-03-30 'transaction 3742
+    T1e1:1e2:1e3        3742 X @ 0.92 Y
+    T1e1:1e2:1e3:1e4
+
+2010-03-31 'transaction 3743
+    T1e1:1e2:1e3:1e4:1e5        3743 Y @ 3743 Z
+    T1e1:1e2:1e3:1e4:1e5:1e6
+

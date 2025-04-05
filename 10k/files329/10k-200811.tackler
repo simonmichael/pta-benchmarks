@@ -1,0 +1,120 @@
+2008-11-01 'transaction 3228
+    T1c3:1c4:1c5:1c6:1c7              3228 D
+    T1c3:1c4:1c5:1c6:1c7:1c8         -3228 D
+
+2008-11-02 'transaction 3229
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9        3229 E @ 1.19 F
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca
+
+2008-11-03 'transaction 3230
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb        3230 F @ 3230 G
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc
+
+2008-11-04 'transaction 3231
+    T1cd              3231 G
+    T1cd:1ce         -3231 G
+
+2008-11-05 'transaction 3232
+    T1cd:1ce:1cf        3232 H @ 1.22 I
+    T1cd:1ce:1cf:1d0
+
+2008-11-06 'transaction 3233
+    T1cd:1ce:1cf:1d0:1d1        3233 I @ 3233 J
+    T1cd:1ce:1cf:1d0:1d1:1d2
+
+2008-11-07 'transaction 3234
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3              3234 J
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4         -3234 J
+
+2008-11-08 'transaction 3235
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5        3235 K @ 1.25 L
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5:1d6
+
+2008-11-09 'transaction 3236
+    T1d7        3236 L @ 3236 M
+    T1d7:1d8
+
+2008-11-10 'transaction 3237
+    T1d7:1d8:1d9              3237 M
+    T1d7:1d8:1d9:1da         -3237 M
+
+2008-11-11 'transaction 3238
+    T1d7:1d8:1d9:1da:1db        3238 N @ 1.28 O
+    T1d7:1d8:1d9:1da:1db:1dc
+
+2008-11-12 'transaction 3239
+    T1d7:1d8:1d9:1da:1db:1dc:1dd        3239 O @ 3239 P
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de
+
+2008-11-13 'transaction 3240
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df              3240 P
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0         -3240 P
+
+2008-11-14 'transaction 3241
+    T1e1        3241 Q @ 0.71 R
+    T1e1:1e2
+
+2008-11-15 'transaction 3242
+    T1e1:1e2:1e3        3242 R @ 3242 S
+    T1e1:1e2:1e3:1e4
+
+2008-11-16 'transaction 3243
+    T1e1:1e2:1e3:1e4:1e5              3243 S
+    T1e1:1e2:1e3:1e4:1e5:1e6         -3243 S
+
+2008-11-17 'transaction 3244
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7        3244 T @ 0.74 U
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8
+
+2008-11-18 'transaction 3245
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9        3245 U @ 3245 V
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9:1ea
+
+2008-11-19 'transaction 3246
+    T1eb              3246 V
+    T1eb:1ec         -3246 V
+
+2008-11-20 'transaction 3247
+    T1eb:1ec:1ed        3247 W @ 0.77 X
+    T1eb:1ec:1ed:1ee
+
+2008-11-21 'transaction 3248
+    T1eb:1ec:1ed:1ee:1ef        3248 X @ 3248 Y
+    T1eb:1ec:1ed:1ee:1ef:1f0
+
+2008-11-22 'transaction 3249
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1              3249 Y
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2         -3249 Y
+
+2008-11-23 'transaction 3250
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3        3250 Z @ 0.8 A
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3:1f4
+
+2008-11-24 'transaction 3251
+    T1f5        3251 A @ 3251 B
+    T1f5:1f6
+
+2008-11-25 'transaction 3252
+    T1f5:1f6:1f7              3252 B
+    T1f5:1f6:1f7:1f8         -3252 B
+
+2008-11-26 'transaction 3253
+    T1f5:1f6:1f7:1f8:1f9        3253 C @ 0.83 D
+    T1f5:1f6:1f7:1f8:1f9:1fa
+
+2008-11-27 'transaction 3254
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb        3254 D @ 3254 E
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc
+
+2008-11-28 'transaction 3255
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd              3255 E
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd:1fe         -3255 E
+
+2008-11-29 'transaction 3256
+    T1ff        3256 F @ 0.86 G
+    T1ff:200
+
+2008-11-30 'transaction 3257
+    T1ff:200:201        3257 G @ 3257 H
+    T1ff:200:201:202
+

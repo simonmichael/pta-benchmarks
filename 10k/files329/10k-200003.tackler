@@ -1,0 +1,124 @@
+2000-03-01 'transaction 61
+    T79       61 I @ 0.71 J
+    T79:7a
+
+2000-03-02 'transaction 62
+    T79:7a:7b        62 J @ 62 K
+    T79:7a:7b:7c
+
+2000-03-03 'transaction 63
+    T79:7a:7b:7c:7d               63 K
+    T79:7a:7b:7c:7d:7e           -63 K
+
+2000-03-04 'transaction 64
+    T79:7a:7b:7c:7d:7e:7f       64 L @ 0.74 M
+    T79:7a:7b:7c:7d:7e:7f:80
+
+2000-03-05 'transaction 65
+    T79:7a:7b:7c:7d:7e:7f:80:81        65 M @ 65 N
+    T79:7a:7b:7c:7d:7e:7f:80:81:82
+
+2000-03-06 'transaction 66
+    T83               66 N
+    T83:84           -66 N
+
+2000-03-07 'transaction 67
+    T83:84:85       67 O @ 0.77 P
+    T83:84:85:86
+
+2000-03-08 'transaction 68
+    T83:84:85:86:87        68 P @ 68 Q
+    T83:84:85:86:87:88
+
+2000-03-09 'transaction 69
+    T83:84:85:86:87:88:89               69 Q
+    T83:84:85:86:87:88:89:8a           -69 Q
+
+2000-03-10 'transaction 70
+    T83:84:85:86:87:88:89:8a:8b       70 R @ 0.8 S
+    T83:84:85:86:87:88:89:8a:8b:8c
+
+2000-03-11 'transaction 71
+    T8d        71 S @ 71 T
+    T8d:8e
+
+2000-03-12 'transaction 72
+    T8d:8e:8f               72 T
+    T8d:8e:8f:90           -72 T
+
+2000-03-13 'transaction 73
+    T8d:8e:8f:90:91       73 U @ 0.83 V
+    T8d:8e:8f:90:91:92
+
+2000-03-14 'transaction 74
+    T8d:8e:8f:90:91:92:93        74 V @ 74 W
+    T8d:8e:8f:90:91:92:93:94
+
+2000-03-15 'transaction 75
+    T8d:8e:8f:90:91:92:93:94:95               75 W
+    T8d:8e:8f:90:91:92:93:94:95:96           -75 W
+
+2000-03-16 'transaction 76
+    T97       76 X @ 0.86 Y
+    T97:98
+
+2000-03-17 'transaction 77
+    T97:98:99        77 Y @ 77 Z
+    T97:98:99:9a
+
+2000-03-18 'transaction 78
+    T97:98:99:9a:9b               78 Z
+    T97:98:99:9a:9b:9c           -78 Z
+
+2000-03-19 'transaction 79
+    T97:98:99:9a:9b:9c:9d       79 A @ 0.89 B
+    T97:98:99:9a:9b:9c:9d:9e
+
+2000-03-20 'transaction 80
+    T97:98:99:9a:9b:9c:9d:9e:9f        80 B @ 80 C
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0
+
+2000-03-21 'transaction 81
+    a1               81 C
+    a1:a2           -81 C
+
+2000-03-22 'transaction 82
+    a1:a2:a3       82 D @ 0.92 E
+    a1:a2:a3:a4
+
+2000-03-23 'transaction 83
+    a1:a2:a3:a4:a5        83 E @ 83 F
+    a1:a2:a3:a4:a5:a6
+
+2000-03-24 'transaction 84
+    a1:a2:a3:a4:a5:a6:a7               84 F
+    a1:a2:a3:a4:a5:a6:a7:a8           -84 F
+
+2000-03-25 'transaction 85
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       85 G @ 0.95 H
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2000-03-26 'transaction 86
+    ab        86 H @ 86 I
+    ab:ac
+
+2000-03-27 'transaction 87
+    ab:ac:ad               87 I
+    ab:ac:ad:ae           -87 I
+
+2000-03-28 'transaction 88
+    ab:ac:ad:ae:af       88 J @ 0.98 K
+    ab:ac:ad:ae:af:b0
+
+2000-03-29 'transaction 89
+    ab:ac:ad:ae:af:b0:b1        89 K @ 89 L
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2000-03-30 'transaction 90
+    ab:ac:ad:ae:af:b0:b1:b2:b3               90 L
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4           -90 L
+
+2000-03-31 'transaction 91
+    b5       91 M @ 1.01 N
+    b5:b6
+

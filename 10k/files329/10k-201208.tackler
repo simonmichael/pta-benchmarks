@@ -1,0 +1,124 @@
+2012-08-01 'transaction 4597
+    bf:c0:c1       4597 U @ 1.07 V
+    bf:c0:c1:c2
+
+2012-08-02 'transaction 4598
+    bf:c0:c1:c2:c3       4598 V @ 4598 W
+    bf:c0:c1:c2:c3:c4
+
+2012-08-03 'transaction 4599
+    bf:c0:c1:c2:c3:c4:c5             4599 W
+    bf:c0:c1:c2:c3:c4:c5:c6         -4599 W
+
+2012-08-04 'transaction 4600
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       4600 X @ 1.1 Y
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2012-08-05 'transaction 4601
+    c9       4601 Y @ 4601 Z
+    c9:ca
+
+2012-08-06 'transaction 4602
+    c9:ca:cb             4602 Z
+    c9:ca:cb:cc         -4602 Z
+
+2012-08-07 'transaction 4603
+    c9:ca:cb:cc:cd       4603 A @ 1.13 B
+    c9:ca:cb:cc:cd:ce
+
+2012-08-08 'transaction 4604
+    c9:ca:cb:cc:cd:ce:cf       4604 B @ 4604 C
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2012-08-09 'transaction 4605
+    c9:ca:cb:cc:cd:ce:cf:d0:d1             4605 C
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2         -4605 C
+
+2012-08-10 'transaction 4606
+    d3       4606 D @ 1.16 E
+    d3:d4
+
+2012-08-11 'transaction 4607
+    d3:d4:d5       4607 E @ 4607 F
+    d3:d4:d5:d6
+
+2012-08-12 'transaction 4608
+    d3:d4:d5:d6:d7             4608 F
+    d3:d4:d5:d6:d7:d8         -4608 F
+
+2012-08-13 'transaction 4609
+    d3:d4:d5:d6:d7:d8:d9       4609 G @ 1.19 H
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2012-08-14 'transaction 4610
+    d3:d4:d5:d6:d7:d8:d9:da:db       4610 H @ 4610 I
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2012-08-15 'transaction 4611
+    dd             4611 I
+    dd:de         -4611 I
+
+2012-08-16 'transaction 4612
+    dd:de:df       4612 J @ 1.22 K
+    dd:de:df:e0
+
+2012-08-17 'transaction 4613
+    dd:de:df:e0:e1       4613 K @ 4613 L
+    dd:de:df:e0:e1:e2
+
+2012-08-18 'transaction 4614
+    dd:de:df:e0:e1:e2:e3             4614 L
+    dd:de:df:e0:e1:e2:e3:e4         -4614 L
+
+2012-08-19 'transaction 4615
+    dd:de:df:e0:e1:e2:e3:e4:e5       4615 M @ 1.25 N
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2012-08-20 'transaction 4616
+    e7       4616 N @ 4616 O
+    e7:e8
+
+2012-08-21 'transaction 4617
+    e7:e8:e9             4617 O
+    e7:e8:e9:ea         -4617 O
+
+2012-08-22 'transaction 4618
+    e7:e8:e9:ea:eb       4618 P @ 1.28 Q
+    e7:e8:e9:ea:eb:ec
+
+2012-08-23 'transaction 4619
+    e7:e8:e9:ea:eb:ec:ed       4619 Q @ 4619 R
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2012-08-24 'transaction 4620
+    e7:e8:e9:ea:eb:ec:ed:ee:ef             4620 R
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0         -4620 R
+
+2012-08-25 'transaction 4621
+    f1       4621 S @ 0.71 T
+    f1:f2
+
+2012-08-26 'transaction 4622
+    f1:f2:f3       4622 T @ 4622 U
+    f1:f2:f3:f4
+
+2012-08-27 'transaction 4623
+    f1:f2:f3:f4:f5             4623 U
+    f1:f2:f3:f4:f5:f6         -4623 U
+
+2012-08-28 'transaction 4624
+    f1:f2:f3:f4:f5:f6:f7       4624 V @ 0.74 W
+    f1:f2:f3:f4:f5:f6:f7:f8
+
+2012-08-29 'transaction 4625
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       4625 W @ 4625 X
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2012-08-30 'transaction 4626
+    fb             4626 X
+    fb:fc         -4626 X
+
+2012-08-31 'transaction 4627
+    fb:fc:fd       4627 Y @ 0.77 Z
+    fb:fc:fd:fe
+

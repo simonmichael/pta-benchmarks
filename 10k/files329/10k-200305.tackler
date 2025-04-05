@@ -1,0 +1,124 @@
+2003-05-01 'transaction 1217
+    T1af:1b0:1b1        1217 U @ 1217 V
+    T1af:1b0:1b1:1b2
+
+2003-05-02 'transaction 1218
+    T1af:1b0:1b1:1b2:1b3              1218 V
+    T1af:1b0:1b1:1b2:1b3:1b4         -1218 V
+
+2003-05-03 'transaction 1219
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5        1219 W @ 0.89 X
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6
+
+2003-05-04 'transaction 1220
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7        1220 X @ 1220 Y
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7:1b8
+
+2003-05-05 'transaction 1221
+    T1b9              1221 Y
+    T1b9:1ba         -1221 Y
+
+2003-05-06 'transaction 1222
+    T1b9:1ba:1bb        1222 Z @ 0.92 A
+    T1b9:1ba:1bb:1bc
+
+2003-05-07 'transaction 1223
+    T1b9:1ba:1bb:1bc:1bd        1223 A @ 1223 B
+    T1b9:1ba:1bb:1bc:1bd:1be
+
+2003-05-08 'transaction 1224
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf              1224 B
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0         -1224 B
+
+2003-05-09 'transaction 1225
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1        1225 C @ 0.95 D
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1:1c2
+
+2003-05-10 'transaction 1226
+    T1c3        1226 D @ 1226 E
+    T1c3:1c4
+
+2003-05-11 'transaction 1227
+    T1c3:1c4:1c5              1227 E
+    T1c3:1c4:1c5:1c6         -1227 E
+
+2003-05-12 'transaction 1228
+    T1c3:1c4:1c5:1c6:1c7        1228 F @ 0.98 G
+    T1c3:1c4:1c5:1c6:1c7:1c8
+
+2003-05-13 'transaction 1229
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9        1229 G @ 1229 H
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca
+
+2003-05-14 'transaction 1230
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb              1230 H
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc         -1230 H
+
+2003-05-15 'transaction 1231
+    T1cd        1231 I @ 1.01 J
+    T1cd:1ce
+
+2003-05-16 'transaction 1232
+    T1cd:1ce:1cf        1232 J @ 1232 K
+    T1cd:1ce:1cf:1d0
+
+2003-05-17 'transaction 1233
+    T1cd:1ce:1cf:1d0:1d1              1233 K
+    T1cd:1ce:1cf:1d0:1d1:1d2         -1233 K
+
+2003-05-18 'transaction 1234
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3        1234 L @ 1.04 M
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4
+
+2003-05-19 'transaction 1235
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5        1235 M @ 1235 N
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4:1d5:1d6
+
+2003-05-20 'transaction 1236
+    T1d7              1236 N
+    T1d7:1d8         -1236 N
+
+2003-05-21 'transaction 1237
+    T1d7:1d8:1d9        1237 O @ 1.07 P
+    T1d7:1d8:1d9:1da
+
+2003-05-22 'transaction 1238
+    T1d7:1d8:1d9:1da:1db        1238 P @ 1238 Q
+    T1d7:1d8:1d9:1da:1db:1dc
+
+2003-05-23 'transaction 1239
+    T1d7:1d8:1d9:1da:1db:1dc:1dd              1239 Q
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de         -1239 Q
+
+2003-05-24 'transaction 1240
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df        1240 R @ 1.1 S
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0
+
+2003-05-25 'transaction 1241
+    T1e1        1241 S @ 1241 T
+    T1e1:1e2
+
+2003-05-26 'transaction 1242
+    T1e1:1e2:1e3              1242 T
+    T1e1:1e2:1e3:1e4         -1242 T
+
+2003-05-27 'transaction 1243
+    T1e1:1e2:1e3:1e4:1e5        1243 U @ 1.13 V
+    T1e1:1e2:1e3:1e4:1e5:1e6
+
+2003-05-28 'transaction 1244
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7        1244 V @ 1244 W
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8
+
+2003-05-29 'transaction 1245
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9              1245 W
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9:1ea         -1245 W
+
+2003-05-30 'transaction 1246
+    T1eb        1246 X @ 1.16 Y
+    T1eb:1ec
+
+2003-05-31 'transaction 1247
+    T1eb:1ec:1ed        1247 Y @ 1247 Z
+    T1eb:1ec:1ed:1ee
+

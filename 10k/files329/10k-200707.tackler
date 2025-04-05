@@ -1,0 +1,124 @@
+2007-07-01 'transaction 2739
+    T1d7:1d8:1d9:1da:1db:1dc:1dd              2739 I
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de         -2739 I
+
+2007-07-02 'transaction 2740
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df        2740 J @ 1.1 K
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0
+
+2007-07-03 'transaction 2741
+    T1e1        2741 K @ 2741 L
+    T1e1:1e2
+
+2007-07-04 'transaction 2742
+    T1e1:1e2:1e3              2742 L
+    T1e1:1e2:1e3:1e4         -2742 L
+
+2007-07-05 'transaction 2743
+    T1e1:1e2:1e3:1e4:1e5        2743 M @ 1.13 N
+    T1e1:1e2:1e3:1e4:1e5:1e6
+
+2007-07-06 'transaction 2744
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7        2744 N @ 2744 O
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8
+
+2007-07-07 'transaction 2745
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9              2745 O
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9:1ea         -2745 O
+
+2007-07-08 'transaction 2746
+    T1eb        2746 P @ 1.16 Q
+    T1eb:1ec
+
+2007-07-09 'transaction 2747
+    T1eb:1ec:1ed        2747 Q @ 2747 R
+    T1eb:1ec:1ed:1ee
+
+2007-07-10 'transaction 2748
+    T1eb:1ec:1ed:1ee:1ef              2748 R
+    T1eb:1ec:1ed:1ee:1ef:1f0         -2748 R
+
+2007-07-11 'transaction 2749
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1        2749 S @ 1.19 T
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2
+
+2007-07-12 'transaction 2750
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3        2750 T @ 2750 U
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3:1f4
+
+2007-07-13 'transaction 2751
+    T1f5              2751 U
+    T1f5:1f6         -2751 U
+
+2007-07-14 'transaction 2752
+    T1f5:1f6:1f7        2752 V @ 1.22 W
+    T1f5:1f6:1f7:1f8
+
+2007-07-15 'transaction 2753
+    T1f5:1f6:1f7:1f8:1f9        2753 W @ 2753 X
+    T1f5:1f6:1f7:1f8:1f9:1fa
+
+2007-07-16 'transaction 2754
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb              2754 X
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc         -2754 X
+
+2007-07-17 'transaction 2755
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd        2755 Y @ 1.25 Z
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd:1fe
+
+2007-07-18 'transaction 2756
+    T1ff        2756 Z @ 2756 A
+    T1ff:200
+
+2007-07-19 'transaction 2757
+    T1ff:200:201              2757 A
+    T1ff:200:201:202         -2757 A
+
+2007-07-20 'transaction 2758
+    T1ff:200:201:202:203        2758 B @ 1.28 C
+    T1ff:200:201:202:203:204
+
+2007-07-21 'transaction 2759
+    T1ff:200:201:202:203:204:205        2759 C @ 2759 D
+    T1ff:200:201:202:203:204:205:206
+
+2007-07-22 'transaction 2760
+    T1ff:200:201:202:203:204:205:206:207              2760 D
+    T1ff:200:201:202:203:204:205:206:207:208         -2760 D
+
+2007-07-23 'transaction 2761
+    T209        2761 E @ 0.71 F
+    T209:20a
+
+2007-07-24 'transaction 2762
+    T209:20a:20b        2762 F @ 2762 G
+    T209:20a:20b:20c
+
+2007-07-25 'transaction 2763
+    T209:20a:20b:20c:20d              2763 G
+    T209:20a:20b:20c:20d:20e         -2763 G
+
+2007-07-26 'transaction 2764
+    T209:20a:20b:20c:20d:20e:20f        2764 H @ 0.74 I
+    T209:20a:20b:20c:20d:20e:20f:210
+
+2007-07-27 'transaction 2765
+    T209:20a:20b:20c:20d:20e:20f:210:211        2765 I @ 2765 J
+    T209:20a:20b:20c:20d:20e:20f:210:211:212
+
+2007-07-28 'transaction 2766
+    T213              2766 J
+    T213:214         -2766 J
+
+2007-07-29 'transaction 2767
+    T213:214:215        2767 K @ 0.77 L
+    T213:214:215:216
+
+2007-07-30 'transaction 2768
+    T213:214:215:216:217        2768 L @ 2768 M
+    T213:214:215:216:217:218
+
+2007-07-31 'transaction 2769
+    T213:214:215:216:217:218:219              2769 M
+    T213:214:215:216:217:218:219:21a         -2769 M
+

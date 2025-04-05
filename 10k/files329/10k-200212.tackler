@@ -1,0 +1,124 @@
+2002-12-01 'transaction 1066
+    T83       1066 Z @ 1.16 A
+    T83:84
+
+2002-12-02 'transaction 1067
+    T83:84:85       1067 A @ 1067 B
+    T83:84:85:86
+
+2002-12-03 'transaction 1068
+    T83:84:85:86:87             1068 B
+    T83:84:85:86:87:88         -1068 B
+
+2002-12-04 'transaction 1069
+    T83:84:85:86:87:88:89       1069 C @ 1.19 D
+    T83:84:85:86:87:88:89:8a
+
+2002-12-05 'transaction 1070
+    T83:84:85:86:87:88:89:8a:8b       1070 D @ 1070 E
+    T83:84:85:86:87:88:89:8a:8b:8c
+
+2002-12-06 'transaction 1071
+    T8d             1071 E
+    T8d:8e         -1071 E
+
+2002-12-07 'transaction 1072
+    T8d:8e:8f       1072 F @ 1.22 G
+    T8d:8e:8f:90
+
+2002-12-08 'transaction 1073
+    T8d:8e:8f:90:91       1073 G @ 1073 H
+    T8d:8e:8f:90:91:92
+
+2002-12-09 'transaction 1074
+    T8d:8e:8f:90:91:92:93             1074 H
+    T8d:8e:8f:90:91:92:93:94         -1074 H
+
+2002-12-10 'transaction 1075
+    T8d:8e:8f:90:91:92:93:94:95       1075 I @ 1.25 J
+    T8d:8e:8f:90:91:92:93:94:95:96
+
+2002-12-11 'transaction 1076
+    T97       1076 J @ 1076 K
+    T97:98
+
+2002-12-12 'transaction 1077
+    T97:98:99             1077 K
+    T97:98:99:9a         -1077 K
+
+2002-12-13 'transaction 1078
+    T97:98:99:9a:9b       1078 L @ 1.28 M
+    T97:98:99:9a:9b:9c
+
+2002-12-14 'transaction 1079
+    T97:98:99:9a:9b:9c:9d       1079 M @ 1079 N
+    T97:98:99:9a:9b:9c:9d:9e
+
+2002-12-15 'transaction 1080
+    T97:98:99:9a:9b:9c:9d:9e:9f             1080 N
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0         -1080 N
+
+2002-12-16 'transaction 1081
+    a1       1081 O @ 0.71 P
+    a1:a2
+
+2002-12-17 'transaction 1082
+    a1:a2:a3       1082 P @ 1082 Q
+    a1:a2:a3:a4
+
+2002-12-18 'transaction 1083
+    a1:a2:a3:a4:a5             1083 Q
+    a1:a2:a3:a4:a5:a6         -1083 Q
+
+2002-12-19 'transaction 1084
+    a1:a2:a3:a4:a5:a6:a7       1084 R @ 0.74 S
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2002-12-20 'transaction 1085
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       1085 S @ 1085 T
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2002-12-21 'transaction 1086
+    ab             1086 T
+    ab:ac         -1086 T
+
+2002-12-22 'transaction 1087
+    ab:ac:ad       1087 U @ 0.77 V
+    ab:ac:ad:ae
+
+2002-12-23 'transaction 1088
+    ab:ac:ad:ae:af       1088 V @ 1088 W
+    ab:ac:ad:ae:af:b0
+
+2002-12-24 'transaction 1089
+    ab:ac:ad:ae:af:b0:b1             1089 W
+    ab:ac:ad:ae:af:b0:b1:b2         -1089 W
+
+2002-12-25 'transaction 1090
+    ab:ac:ad:ae:af:b0:b1:b2:b3       1090 X @ 0.8 Y
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2002-12-26 'transaction 1091
+    b5       1091 Y @ 1091 Z
+    b5:b6
+
+2002-12-27 'transaction 1092
+    b5:b6:b7             1092 Z
+    b5:b6:b7:b8         -1092 Z
+
+2002-12-28 'transaction 1093
+    b5:b6:b7:b8:b9       1093 A @ 0.83 B
+    b5:b6:b7:b8:b9:ba
+
+2002-12-29 'transaction 1094
+    b5:b6:b7:b8:b9:ba:bb       1094 B @ 1094 C
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2002-12-30 'transaction 1095
+    b5:b6:b7:b8:b9:ba:bb:bc:bd             1095 C
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be         -1095 C
+
+2002-12-31 'transaction 1096
+    bf       1096 D @ 0.86 E
+    bf:c0
+

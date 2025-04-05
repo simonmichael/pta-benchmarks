@@ -1,0 +1,112 @@
+2021-02-01 'transaction 7703
+    T191:192:193:194:195        7703 G @ 7703 H
+    T191:192:193:194:195:196
+
+2021-02-02 'transaction 7704
+    T191:192:193:194:195:196:197              7704 H
+    T191:192:193:194:195:196:197:198         -7704 H
+
+2021-02-03 'transaction 7705
+    T191:192:193:194:195:196:197:198:199        7705 I @ 0.95 J
+    T191:192:193:194:195:196:197:198:199:19a
+
+2021-02-04 'transaction 7706
+    T19b        7706 J @ 7706 K
+    T19b:19c
+
+2021-02-05 'transaction 7707
+    T19b:19c:19d              7707 K
+    T19b:19c:19d:19e         -7707 K
+
+2021-02-06 'transaction 7708
+    T19b:19c:19d:19e:19f        7708 L @ 0.98 M
+    T19b:19c:19d:19e:19f:1a0
+
+2021-02-07 'transaction 7709
+    T19b:19c:19d:19e:19f:1a0:1a1        7709 M @ 7709 N
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2
+
+2021-02-08 'transaction 7710
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3              7710 N
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3:1a4         -7710 N
+
+2021-02-09 'transaction 7711
+    T1a5        7711 O @ 1.01 P
+    T1a5:1a6
+
+2021-02-10 'transaction 7712
+    T1a5:1a6:1a7        7712 P @ 7712 Q
+    T1a5:1a6:1a7:1a8
+
+2021-02-11 'transaction 7713
+    T1a5:1a6:1a7:1a8:1a9              7713 Q
+    T1a5:1a6:1a7:1a8:1a9:1aa         -7713 Q
+
+2021-02-12 'transaction 7714
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab        7714 R @ 1.04 S
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac
+
+2021-02-13 'transaction 7715
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad        7715 S @ 7715 T
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad:1ae
+
+2021-02-14 'transaction 7716
+    T1af              7716 T
+    T1af:1b0         -7716 T
+
+2021-02-15 'transaction 7717
+    T1af:1b0:1b1        7717 U @ 1.07 V
+    T1af:1b0:1b1:1b2
+
+2021-02-16 'transaction 7718
+    T1af:1b0:1b1:1b2:1b3        7718 V @ 7718 W
+    T1af:1b0:1b1:1b2:1b3:1b4
+
+2021-02-17 'transaction 7719
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5              7719 W
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6         -7719 W
+
+2021-02-18 'transaction 7720
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7        7720 X @ 1.1 Y
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7:1b8
+
+2021-02-19 'transaction 7721
+    T1b9        7721 Y @ 7721 Z
+    T1b9:1ba
+
+2021-02-20 'transaction 7722
+    T1b9:1ba:1bb              7722 Z
+    T1b9:1ba:1bb:1bc         -7722 Z
+
+2021-02-21 'transaction 7723
+    T1b9:1ba:1bb:1bc:1bd        7723 A @ 1.13 B
+    T1b9:1ba:1bb:1bc:1bd:1be
+
+2021-02-22 'transaction 7724
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf        7724 B @ 7724 C
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0
+
+2021-02-23 'transaction 7725
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1              7725 C
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1:1c2         -7725 C
+
+2021-02-24 'transaction 7726
+    T1c3        7726 D @ 1.16 E
+    T1c3:1c4
+
+2021-02-25 'transaction 7727
+    T1c3:1c4:1c5        7727 E @ 7727 F
+    T1c3:1c4:1c5:1c6
+
+2021-02-26 'transaction 7728
+    T1c3:1c4:1c5:1c6:1c7              7728 F
+    T1c3:1c4:1c5:1c6:1c7:1c8         -7728 F
+
+2021-02-27 'transaction 7729
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9        7729 G @ 1.19 H
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca
+
+2021-02-28 'transaction 7730
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb        7730 H @ 7730 I
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc
+

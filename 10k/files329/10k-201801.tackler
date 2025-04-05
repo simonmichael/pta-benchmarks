@@ -1,0 +1,124 @@
+2018-01-01 'transaction 6576
+    T97             6576 X
+    T97:98         -6576 X
+
+2018-01-02 'transaction 6577
+    T97:98:99       6577 Y @ 1.07 Z
+    T97:98:99:9a
+
+2018-01-03 'transaction 6578
+    T97:98:99:9a:9b       6578 Z @ 6578 A
+    T97:98:99:9a:9b:9c
+
+2018-01-04 'transaction 6579
+    T97:98:99:9a:9b:9c:9d             6579 A
+    T97:98:99:9a:9b:9c:9d:9e         -6579 A
+
+2018-01-05 'transaction 6580
+    T97:98:99:9a:9b:9c:9d:9e:9f       6580 B @ 1.1 C
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0
+
+2018-01-06 'transaction 6581
+    a1       6581 C @ 6581 D
+    a1:a2
+
+2018-01-07 'transaction 6582
+    a1:a2:a3             6582 D
+    a1:a2:a3:a4         -6582 D
+
+2018-01-08 'transaction 6583
+    a1:a2:a3:a4:a5       6583 E @ 1.13 F
+    a1:a2:a3:a4:a5:a6
+
+2018-01-09 'transaction 6584
+    a1:a2:a3:a4:a5:a6:a7       6584 F @ 6584 G
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2018-01-10 'transaction 6585
+    a1:a2:a3:a4:a5:a6:a7:a8:a9             6585 G
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa         -6585 G
+
+2018-01-11 'transaction 6586
+    ab       6586 H @ 1.16 I
+    ab:ac
+
+2018-01-12 'transaction 6587
+    ab:ac:ad       6587 I @ 6587 J
+    ab:ac:ad:ae
+
+2018-01-13 'transaction 6588
+    ab:ac:ad:ae:af             6588 J
+    ab:ac:ad:ae:af:b0         -6588 J
+
+2018-01-14 'transaction 6589
+    ab:ac:ad:ae:af:b0:b1       6589 K @ 1.19 L
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2018-01-15 'transaction 6590
+    ab:ac:ad:ae:af:b0:b1:b2:b3       6590 L @ 6590 M
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2018-01-16 'transaction 6591
+    b5             6591 M
+    b5:b6         -6591 M
+
+2018-01-17 'transaction 6592
+    b5:b6:b7       6592 N @ 1.22 O
+    b5:b6:b7:b8
+
+2018-01-18 'transaction 6593
+    b5:b6:b7:b8:b9       6593 O @ 6593 P
+    b5:b6:b7:b8:b9:ba
+
+2018-01-19 'transaction 6594
+    b5:b6:b7:b8:b9:ba:bb             6594 P
+    b5:b6:b7:b8:b9:ba:bb:bc         -6594 P
+
+2018-01-20 'transaction 6595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       6595 Q @ 1.25 R
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2018-01-21 'transaction 6596
+    bf       6596 R @ 6596 S
+    bf:c0
+
+2018-01-22 'transaction 6597
+    bf:c0:c1             6597 S
+    bf:c0:c1:c2         -6597 S
+
+2018-01-23 'transaction 6598
+    bf:c0:c1:c2:c3       6598 T @ 1.28 U
+    bf:c0:c1:c2:c3:c4
+
+2018-01-24 'transaction 6599
+    bf:c0:c1:c2:c3:c4:c5       6599 U @ 6599 V
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2018-01-25 'transaction 6600
+    bf:c0:c1:c2:c3:c4:c5:c6:c7             6600 V
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8         -6600 V
+
+2018-01-26 'transaction 6601
+    c9       6601 W @ 0.71 X
+    c9:ca
+
+2018-01-27 'transaction 6602
+    c9:ca:cb       6602 X @ 6602 Y
+    c9:ca:cb:cc
+
+2018-01-28 'transaction 6603
+    c9:ca:cb:cc:cd             6603 Y
+    c9:ca:cb:cc:cd:ce         -6603 Y
+
+2018-01-29 'transaction 6604
+    c9:ca:cb:cc:cd:ce:cf       6604 Z @ 0.74 A
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2018-01-30 'transaction 6605
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       6605 A @ 6605 B
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2018-01-31 'transaction 6606
+    d3             6606 B
+    d3:d4         -6606 B
+

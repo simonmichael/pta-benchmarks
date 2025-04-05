@@ -1,0 +1,112 @@
+2018-02-01 'transaction 6607
+    d3:d4:d5       6607 C @ 0.77 D
+    d3:d4:d5:d6
+
+2018-02-02 'transaction 6608
+    d3:d4:d5:d6:d7       6608 D @ 6608 E
+    d3:d4:d5:d6:d7:d8
+
+2018-02-03 'transaction 6609
+    d3:d4:d5:d6:d7:d8:d9             6609 E
+    d3:d4:d5:d6:d7:d8:d9:da         -6609 E
+
+2018-02-04 'transaction 6610
+    d3:d4:d5:d6:d7:d8:d9:da:db       6610 F @ 0.8 G
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2018-02-05 'transaction 6611
+    dd       6611 G @ 6611 H
+    dd:de
+
+2018-02-06 'transaction 6612
+    dd:de:df             6612 H
+    dd:de:df:e0         -6612 H
+
+2018-02-07 'transaction 6613
+    dd:de:df:e0:e1       6613 I @ 0.83 J
+    dd:de:df:e0:e1:e2
+
+2018-02-08 'transaction 6614
+    dd:de:df:e0:e1:e2:e3       6614 J @ 6614 K
+    dd:de:df:e0:e1:e2:e3:e4
+
+2018-02-09 'transaction 6615
+    dd:de:df:e0:e1:e2:e3:e4:e5             6615 K
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6         -6615 K
+
+2018-02-10 'transaction 6616
+    e7       6616 L @ 0.86 M
+    e7:e8
+
+2018-02-11 'transaction 6617
+    e7:e8:e9       6617 M @ 6617 N
+    e7:e8:e9:ea
+
+2018-02-12 'transaction 6618
+    e7:e8:e9:ea:eb             6618 N
+    e7:e8:e9:ea:eb:ec         -6618 N
+
+2018-02-13 'transaction 6619
+    e7:e8:e9:ea:eb:ec:ed       6619 O @ 0.89 P
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2018-02-14 'transaction 6620
+    e7:e8:e9:ea:eb:ec:ed:ee:ef       6620 P @ 6620 Q
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0
+
+2018-02-15 'transaction 6621
+    f1             6621 Q
+    f1:f2         -6621 Q
+
+2018-02-16 'transaction 6622
+    f1:f2:f3       6622 R @ 0.92 S
+    f1:f2:f3:f4
+
+2018-02-17 'transaction 6623
+    f1:f2:f3:f4:f5       6623 S @ 6623 T
+    f1:f2:f3:f4:f5:f6
+
+2018-02-18 'transaction 6624
+    f1:f2:f3:f4:f5:f6:f7             6624 T
+    f1:f2:f3:f4:f5:f6:f7:f8         -6624 T
+
+2018-02-19 'transaction 6625
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       6625 U @ 0.95 V
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2018-02-20 'transaction 6626
+    fb       6626 V @ 6626 W
+    fb:fc
+
+2018-02-21 'transaction 6627
+    fb:fc:fd             6627 W
+    fb:fc:fd:fe         -6627 W
+
+2018-02-22 'transaction 6628
+    fb:fc:fd:fe:ff        6628 X @ 0.98 Y
+    fb:fc:fd:fe:ff:100
+
+2018-02-23 'transaction 6629
+    fb:fc:fd:fe:ff:100:101        6629 Y @ 6629 Z
+    fb:fc:fd:fe:ff:100:101:102
+
+2018-02-24 'transaction 6630
+    fb:fc:fd:fe:ff:100:101:102:103              6630 Z
+    fb:fc:fd:fe:ff:100:101:102:103:104         -6630 Z
+
+2018-02-25 'transaction 6631
+    T105        6631 A @ 1.01 B
+    T105:106
+
+2018-02-26 'transaction 6632
+    T105:106:107        6632 B @ 6632 C
+    T105:106:107:108
+
+2018-02-27 'transaction 6633
+    T105:106:107:108:109              6633 C
+    T105:106:107:108:109:10a         -6633 C
+
+2018-02-28 'transaction 6634
+    T105:106:107:108:109:10a:10b        6634 D @ 1.04 E
+    T105:106:107:108:109:10a:10b:10c
+

@@ -1,0 +1,23 @@
+[kernel]
+strict = false
+audit = { mode = false, hash = "SHA-256" }
+timestamp = { default-time = 00:00:00, timezone = { name = "UTC" } }
+input = { storage = "fs", fs = { path = ".", dir = "files329", suffix = "tackler" } }
+
+[transaction]
+accounts    = { path = "none" }
+commodities = { path = "none" }
+tags        = { path = "none" }
+
+[report]
+report-timezone = "UTC"
+scale = { min = 2, max = 2 }
+accounts = [ ".*" ]
+targets  = [ "balance" ]
+balance  = { title = "Balance Report" }
+balance-group = { title = "Balance Group Report", group-by = "month" }
+register      = { title = "Register Report", accounts = [ ".*" ]}
+
+[export]
+targets = [ ]
+equity = { accounts = [ "Assets:.*", ], equity-account = "Equity:Balance" }

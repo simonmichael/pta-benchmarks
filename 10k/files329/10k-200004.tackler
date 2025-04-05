@@ -1,0 +1,120 @@
+2000-04-01 'transaction 92
+    b5:b6:b7        92 N @ 92 O
+    b5:b6:b7:b8
+
+2000-04-02 'transaction 93
+    b5:b6:b7:b8:b9               93 O
+    b5:b6:b7:b8:b9:ba           -93 O
+
+2000-04-03 'transaction 94
+    b5:b6:b7:b8:b9:ba:bb       94 P @ 1.04 Q
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2000-04-04 'transaction 95
+    b5:b6:b7:b8:b9:ba:bb:bc:bd        95 Q @ 95 R
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2000-04-05 'transaction 96
+    bf               96 R
+    bf:c0           -96 R
+
+2000-04-06 'transaction 97
+    bf:c0:c1       97 S @ 1.07 T
+    bf:c0:c1:c2
+
+2000-04-07 'transaction 98
+    bf:c0:c1:c2:c3        98 T @ 98 U
+    bf:c0:c1:c2:c3:c4
+
+2000-04-08 'transaction 99
+    bf:c0:c1:c2:c3:c4:c5               99 U
+    bf:c0:c1:c2:c3:c4:c5:c6           -99 U
+
+2000-04-09 'transaction 100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       100 V @ 1.1 W
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2000-04-10 'transaction 101
+    c9       101 W @ 101 X
+    c9:ca
+
+2000-04-11 'transaction 102
+    c9:ca:cb              102 X
+    c9:ca:cb:cc          -102 X
+
+2000-04-12 'transaction 103
+    c9:ca:cb:cc:cd       103 Y @ 1.13 Z
+    c9:ca:cb:cc:cd:ce
+
+2000-04-13 'transaction 104
+    c9:ca:cb:cc:cd:ce:cf       104 Z @ 104 A
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2000-04-14 'transaction 105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1              105 A
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2          -105 A
+
+2000-04-15 'transaction 106
+    d3       106 B @ 1.16 C
+    d3:d4
+
+2000-04-16 'transaction 107
+    d3:d4:d5       107 C @ 107 D
+    d3:d4:d5:d6
+
+2000-04-17 'transaction 108
+    d3:d4:d5:d6:d7              108 D
+    d3:d4:d5:d6:d7:d8          -108 D
+
+2000-04-18 'transaction 109
+    d3:d4:d5:d6:d7:d8:d9       109 E @ 1.19 F
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2000-04-19 'transaction 110
+    d3:d4:d5:d6:d7:d8:d9:da:db       110 F @ 110 G
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2000-04-20 'transaction 111
+    dd              111 G
+    dd:de          -111 G
+
+2000-04-21 'transaction 112
+    dd:de:df       112 H @ 1.22 I
+    dd:de:df:e0
+
+2000-04-22 'transaction 113
+    dd:de:df:e0:e1       113 I @ 113 J
+    dd:de:df:e0:e1:e2
+
+2000-04-23 'transaction 114
+    dd:de:df:e0:e1:e2:e3              114 J
+    dd:de:df:e0:e1:e2:e3:e4          -114 J
+
+2000-04-24 'transaction 115
+    dd:de:df:e0:e1:e2:e3:e4:e5       115 K @ 1.25 L
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2000-04-25 'transaction 116
+    e7       116 L @ 116 M
+    e7:e8
+
+2000-04-26 'transaction 117
+    e7:e8:e9              117 M
+    e7:e8:e9:ea          -117 M
+
+2000-04-27 'transaction 118
+    e7:e8:e9:ea:eb       118 N @ 1.28 O
+    e7:e8:e9:ea:eb:ec
+
+2000-04-28 'transaction 119
+    e7:e8:e9:ea:eb:ec:ed       119 O @ 119 P
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2000-04-29 'transaction 120
+    e7:e8:e9:ea:eb:ec:ed:ee:ef              120 P
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0          -120 P
+
+2000-04-30 'transaction 121
+    f1       121 Q @ 0.71 R
+    f1:f2
+

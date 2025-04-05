@@ -1,0 +1,120 @@
+2019-06-01 'transaction 7092
+    b5:b6:b7             7092 T
+    b5:b6:b7:b8         -7092 T
+
+2019-06-02 'transaction 7093
+    b5:b6:b7:b8:b9       7093 U @ 0.83 V
+    b5:b6:b7:b8:b9:ba
+
+2019-06-03 'transaction 7094
+    b5:b6:b7:b8:b9:ba:bb       7094 V @ 7094 W
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2019-06-04 'transaction 7095
+    b5:b6:b7:b8:b9:ba:bb:bc:bd             7095 W
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be         -7095 W
+
+2019-06-05 'transaction 7096
+    bf       7096 X @ 0.86 Y
+    bf:c0
+
+2019-06-06 'transaction 7097
+    bf:c0:c1       7097 Y @ 7097 Z
+    bf:c0:c1:c2
+
+2019-06-07 'transaction 7098
+    bf:c0:c1:c2:c3             7098 Z
+    bf:c0:c1:c2:c3:c4         -7098 Z
+
+2019-06-08 'transaction 7099
+    bf:c0:c1:c2:c3:c4:c5       7099 A @ 0.89 B
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2019-06-09 'transaction 7100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       7100 B @ 7100 C
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2019-06-10 'transaction 7101
+    c9             7101 C
+    c9:ca         -7101 C
+
+2019-06-11 'transaction 7102
+    c9:ca:cb       7102 D @ 0.92 E
+    c9:ca:cb:cc
+
+2019-06-12 'transaction 7103
+    c9:ca:cb:cc:cd       7103 E @ 7103 F
+    c9:ca:cb:cc:cd:ce
+
+2019-06-13 'transaction 7104
+    c9:ca:cb:cc:cd:ce:cf             7104 F
+    c9:ca:cb:cc:cd:ce:cf:d0         -7104 F
+
+2019-06-14 'transaction 7105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       7105 G @ 0.95 H
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2019-06-15 'transaction 7106
+    d3       7106 H @ 7106 I
+    d3:d4
+
+2019-06-16 'transaction 7107
+    d3:d4:d5             7107 I
+    d3:d4:d5:d6         -7107 I
+
+2019-06-17 'transaction 7108
+    d3:d4:d5:d6:d7       7108 J @ 0.98 K
+    d3:d4:d5:d6:d7:d8
+
+2019-06-18 'transaction 7109
+    d3:d4:d5:d6:d7:d8:d9       7109 K @ 7109 L
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2019-06-19 'transaction 7110
+    d3:d4:d5:d6:d7:d8:d9:da:db             7110 L
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc         -7110 L
+
+2019-06-20 'transaction 7111
+    dd       7111 M @ 1.01 N
+    dd:de
+
+2019-06-21 'transaction 7112
+    dd:de:df       7112 N @ 7112 O
+    dd:de:df:e0
+
+2019-06-22 'transaction 7113
+    dd:de:df:e0:e1             7113 O
+    dd:de:df:e0:e1:e2         -7113 O
+
+2019-06-23 'transaction 7114
+    dd:de:df:e0:e1:e2:e3       7114 P @ 1.04 Q
+    dd:de:df:e0:e1:e2:e3:e4
+
+2019-06-24 'transaction 7115
+    dd:de:df:e0:e1:e2:e3:e4:e5       7115 Q @ 7115 R
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2019-06-25 'transaction 7116
+    e7             7116 R
+    e7:e8         -7116 R
+
+2019-06-26 'transaction 7117
+    e7:e8:e9       7117 S @ 1.07 T
+    e7:e8:e9:ea
+
+2019-06-27 'transaction 7118
+    e7:e8:e9:ea:eb       7118 T @ 7118 U
+    e7:e8:e9:ea:eb:ec
+
+2019-06-28 'transaction 7119
+    e7:e8:e9:ea:eb:ec:ed             7119 U
+    e7:e8:e9:ea:eb:ec:ed:ee         -7119 U
+
+2019-06-29 'transaction 7120
+    e7:e8:e9:ea:eb:ec:ed:ee:ef       7120 V @ 1.1 W
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0
+
+2019-06-30 'transaction 7121
+    f1       7121 W @ 7121 X
+    f1:f2
+

@@ -1,0 +1,124 @@
+2018-10-01 'transaction 6849
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9              6849 K
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba         -6849 K
+
+2018-10-02 'transaction 6850
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb        6850 L @ 0.8 M
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb:2bc
+
+2018-10-03 'transaction 6851
+    T2bd        6851 M @ 6851 N
+    T2bd:2be
+
+2018-10-04 'transaction 6852
+    T2bd:2be:2bf              6852 N
+    T2bd:2be:2bf:2c0         -6852 N
+
+2018-10-05 'transaction 6853
+    T2bd:2be:2bf:2c0:2c1        6853 O @ 0.83 P
+    T2bd:2be:2bf:2c0:2c1:2c2
+
+2018-10-06 'transaction 6854
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3        6854 P @ 6854 Q
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4
+
+2018-10-07 'transaction 6855
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5              6855 Q
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6         -6855 Q
+
+2018-10-08 'transaction 6856
+    T2c7        6856 R @ 0.86 S
+    T2c7:2c8
+
+2018-10-09 'transaction 6857
+    T2c7:2c8:2c9        6857 S @ 6857 T
+    T2c7:2c8:2c9:2ca
+
+2018-10-10 'transaction 6858
+    T2c7:2c8:2c9:2ca:2cb              6858 T
+    T2c7:2c8:2c9:2ca:2cb:2cc         -6858 T
+
+2018-10-11 'transaction 6859
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd        6859 U @ 0.89 V
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce
+
+2018-10-12 'transaction 6860
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf        6860 V @ 6860 W
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0
+
+2018-10-13 'transaction 6861
+    T2d1              6861 W
+    T2d1:2d2         -6861 W
+
+2018-10-14 'transaction 6862
+    T2d1:2d2:2d3        6862 X @ 0.92 Y
+    T2d1:2d2:2d3:2d4
+
+2018-10-15 'transaction 6863
+    T2d1:2d2:2d3:2d4:2d5        6863 Y @ 6863 Z
+    T2d1:2d2:2d3:2d4:2d5:2d6
+
+2018-10-16 'transaction 6864
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7              6864 Z
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8         -6864 Z
+
+2018-10-17 'transaction 6865
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9        6865 A @ 0.95 B
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9:2da
+
+2018-10-18 'transaction 6866
+    T2db        6866 B @ 6866 C
+    T2db:2dc
+
+2018-10-19 'transaction 6867
+    T2db:2dc:2dd              6867 C
+    T2db:2dc:2dd:2de         -6867 C
+
+2018-10-20 'transaction 6868
+    T2db:2dc:2dd:2de:2df        6868 D @ 0.98 E
+    T2db:2dc:2dd:2de:2df:2e0
+
+2018-10-21 'transaction 6869
+    T2db:2dc:2dd:2de:2df:2e0:2e1        6869 E @ 6869 F
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2
+
+2018-10-22 'transaction 6870
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3              6870 F
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2:2e3:2e4         -6870 F
+
+2018-10-23 'transaction 6871
+    T2e5        6871 G @ 1.01 H
+    T2e5:2e6
+
+2018-10-24 'transaction 6872
+    T2e5:2e6:2e7        6872 H @ 6872 I
+    T2e5:2e6:2e7:2e8
+
+2018-10-25 'transaction 6873
+    T2e5:2e6:2e7:2e8:2e9              6873 I
+    T2e5:2e6:2e7:2e8:2e9:2ea         -6873 I
+
+2018-10-26 'transaction 6874
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb        6874 J @ 1.04 K
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec
+
+2018-10-27 'transaction 6875
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed        6875 K @ 6875 L
+    T2e5:2e6:2e7:2e8:2e9:2ea:2eb:2ec:2ed:2ee
+
+2018-10-28 'transaction 6876
+    T2ef              6876 L
+    T2ef:2f0         -6876 L
+
+2018-10-29 'transaction 6877
+    T2ef:2f0:2f1        6877 M @ 1.07 N
+    T2ef:2f0:2f1:2f2
+
+2018-10-30 'transaction 6878
+    T2ef:2f0:2f1:2f2:2f3        6878 N @ 6878 O
+    T2ef:2f0:2f1:2f2:2f3:2f4
+
+2018-10-31 'transaction 6879
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5              6879 O
+    T2ef:2f0:2f1:2f2:2f3:2f4:2f5:2f6         -6879 O
+

@@ -1,0 +1,124 @@
+2013-12-01 'transaction 5084
+    a1:a2:a3:a4:a5:a6:a7       5084 N @ 5084 O
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2013-12-02 'transaction 5085
+    a1:a2:a3:a4:a5:a6:a7:a8:a9             5085 O
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa         -5085 O
+
+2013-12-03 'transaction 5086
+    ab       5086 P @ 1.16 Q
+    ab:ac
+
+2013-12-04 'transaction 5087
+    ab:ac:ad       5087 Q @ 5087 R
+    ab:ac:ad:ae
+
+2013-12-05 'transaction 5088
+    ab:ac:ad:ae:af             5088 R
+    ab:ac:ad:ae:af:b0         -5088 R
+
+2013-12-06 'transaction 5089
+    ab:ac:ad:ae:af:b0:b1       5089 S @ 1.19 T
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2013-12-07 'transaction 5090
+    ab:ac:ad:ae:af:b0:b1:b2:b3       5090 T @ 5090 U
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2013-12-08 'transaction 5091
+    b5             5091 U
+    b5:b6         -5091 U
+
+2013-12-09 'transaction 5092
+    b5:b6:b7       5092 V @ 1.22 W
+    b5:b6:b7:b8
+
+2013-12-10 'transaction 5093
+    b5:b6:b7:b8:b9       5093 W @ 5093 X
+    b5:b6:b7:b8:b9:ba
+
+2013-12-11 'transaction 5094
+    b5:b6:b7:b8:b9:ba:bb             5094 X
+    b5:b6:b7:b8:b9:ba:bb:bc         -5094 X
+
+2013-12-12 'transaction 5095
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       5095 Y @ 1.25 Z
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2013-12-13 'transaction 5096
+    bf       5096 Z @ 5096 A
+    bf:c0
+
+2013-12-14 'transaction 5097
+    bf:c0:c1             5097 A
+    bf:c0:c1:c2         -5097 A
+
+2013-12-15 'transaction 5098
+    bf:c0:c1:c2:c3       5098 B @ 1.28 C
+    bf:c0:c1:c2:c3:c4
+
+2013-12-16 'transaction 5099
+    bf:c0:c1:c2:c3:c4:c5       5099 C @ 5099 D
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2013-12-17 'transaction 5100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7             5100 D
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8         -5100 D
+
+2013-12-18 'transaction 5101
+    c9       5101 E @ 0.71 F
+    c9:ca
+
+2013-12-19 'transaction 5102
+    c9:ca:cb       5102 F @ 5102 G
+    c9:ca:cb:cc
+
+2013-12-20 'transaction 5103
+    c9:ca:cb:cc:cd             5103 G
+    c9:ca:cb:cc:cd:ce         -5103 G
+
+2013-12-21 'transaction 5104
+    c9:ca:cb:cc:cd:ce:cf       5104 H @ 0.74 I
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2013-12-22 'transaction 5105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       5105 I @ 5105 J
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2013-12-23 'transaction 5106
+    d3             5106 J
+    d3:d4         -5106 J
+
+2013-12-24 'transaction 5107
+    d3:d4:d5       5107 K @ 0.77 L
+    d3:d4:d5:d6
+
+2013-12-25 'transaction 5108
+    d3:d4:d5:d6:d7       5108 L @ 5108 M
+    d3:d4:d5:d6:d7:d8
+
+2013-12-26 'transaction 5109
+    d3:d4:d5:d6:d7:d8:d9             5109 M
+    d3:d4:d5:d6:d7:d8:d9:da         -5109 M
+
+2013-12-27 'transaction 5110
+    d3:d4:d5:d6:d7:d8:d9:da:db       5110 N @ 0.8 O
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2013-12-28 'transaction 5111
+    dd       5111 O @ 5111 P
+    dd:de
+
+2013-12-29 'transaction 5112
+    dd:de:df             5112 P
+    dd:de:df:e0         -5112 P
+
+2013-12-30 'transaction 5113
+    dd:de:df:e0:e1       5113 Q @ 0.83 R
+    dd:de:df:e0:e1:e2
+
+2013-12-31 'transaction 5114
+    dd:de:df:e0:e1:e2:e3       5114 R @ 5114 S
+    dd:de:df:e0:e1:e2:e3:e4
+

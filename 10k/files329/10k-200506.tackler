@@ -1,0 +1,120 @@
+2005-06-01 'transaction 1979
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        1979 C @ 1979 D
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2005-06-02 'transaction 1980
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf              1980 D
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0         -1980 D
+
+2005-06-03 'transaction 1981
+    T3c1        1981 E @ 0.71 F
+    T3c1:3c2
+
+2005-06-04 'transaction 1982
+    T3c1:3c2:3c3        1982 F @ 1982 G
+    T3c1:3c2:3c3:3c4
+
+2005-06-05 'transaction 1983
+    T3c1:3c2:3c3:3c4:3c5              1983 G
+    T3c1:3c2:3c3:3c4:3c5:3c6         -1983 G
+
+2005-06-06 'transaction 1984
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7        1984 H @ 0.74 I
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8
+
+2005-06-07 'transaction 1985
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        1985 I @ 1985 J
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2005-06-08 'transaction 1986
+    T3cb              1986 J
+    T3cb:3cc         -1986 J
+
+2005-06-09 'transaction 1987
+    T3cb:3cc:3cd        1987 K @ 0.77 L
+    T3cb:3cc:3cd:3ce
+
+2005-06-10 'transaction 1988
+    T3cb:3cc:3cd:3ce:3cf        1988 L @ 1988 M
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2005-06-11 'transaction 1989
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1              1989 M
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2         -1989 M
+
+2005-06-12 'transaction 1990
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3        1990 N @ 0.8 O
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4
+
+2005-06-13 'transaction 1991
+    T3d5        1991 O @ 1991 P
+    T3d5:3d6
+
+2005-06-14 'transaction 1992
+    T3d5:3d6:3d7              1992 P
+    T3d5:3d6:3d7:3d8         -1992 P
+
+2005-06-15 'transaction 1993
+    T3d5:3d6:3d7:3d8:3d9        1993 Q @ 0.83 R
+    T3d5:3d6:3d7:3d8:3d9:3da
+
+2005-06-16 'transaction 1994
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        1994 R @ 1994 S
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2005-06-17 'transaction 1995
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd              1995 S
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de         -1995 S
+
+2005-06-18 'transaction 1996
+    T3df        1996 T @ 0.86 U
+    T3df:3e0
+
+2005-06-19 'transaction 1997
+    T3df:3e0:3e1        1997 U @ 1997 V
+    T3df:3e0:3e1:3e2
+
+2005-06-20 'transaction 1998
+    T3df:3e0:3e1:3e2:3e3              1998 V
+    T3df:3e0:3e1:3e2:3e3:3e4         -1998 V
+
+2005-06-21 'transaction 1999
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5        1999 W @ 0.89 X
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6
+
+2005-06-22 'transaction 2000
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7        2000 X @ 2000 Y
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8
+
+2005-06-23 'transaction 2001
+    T1            2001 Y
+    T1:2         -2001 Y
+
+2005-06-24 'transaction 2002
+    T1:2:3      2002 Z @ 0.92 A
+    T1:2:3:4
+
+2005-06-25 'transaction 2003
+    T1:2:3:4:5      2003 A @ 2003 B
+    T1:2:3:4:5:6
+
+2005-06-26 'transaction 2004
+    T1:2:3:4:5:6:7            2004 B
+    T1:2:3:4:5:6:7:8         -2004 B
+
+2005-06-27 'transaction 2005
+    T1:2:3:4:5:6:7:8:9      2005 C @ 0.95 D
+    T1:2:3:4:5:6:7:8:9:a
+
+2005-06-28 'transaction 2006
+    b      2006 D @ 2006 E
+    b:c
+
+2005-06-29 'transaction 2007
+    b:c:d            2007 E
+    b:c:d:e         -2007 E
+
+2005-06-30 'transaction 2008
+    b:c:d:e:f       2008 F @ 0.98 G
+    b:c:d:e:f:10
+

@@ -1,0 +1,120 @@
+2015-04-01 'transaction 5570
+    T83:84:85:86:87:88:89:8a:8b       5570 F @ 5570 G
+    T83:84:85:86:87:88:89:8a:8b:8c
+
+2015-04-02 'transaction 5571
+    T8d             5571 G
+    T8d:8e         -5571 G
+
+2015-04-03 'transaction 5572
+    T8d:8e:8f       5572 H @ 1.22 I
+    T8d:8e:8f:90
+
+2015-04-04 'transaction 5573
+    T8d:8e:8f:90:91       5573 I @ 5573 J
+    T8d:8e:8f:90:91:92
+
+2015-04-05 'transaction 5574
+    T8d:8e:8f:90:91:92:93             5574 J
+    T8d:8e:8f:90:91:92:93:94         -5574 J
+
+2015-04-06 'transaction 5575
+    T8d:8e:8f:90:91:92:93:94:95       5575 K @ 1.25 L
+    T8d:8e:8f:90:91:92:93:94:95:96
+
+2015-04-07 'transaction 5576
+    T97       5576 L @ 5576 M
+    T97:98
+
+2015-04-08 'transaction 5577
+    T97:98:99             5577 M
+    T97:98:99:9a         -5577 M
+
+2015-04-09 'transaction 5578
+    T97:98:99:9a:9b       5578 N @ 1.28 O
+    T97:98:99:9a:9b:9c
+
+2015-04-10 'transaction 5579
+    T97:98:99:9a:9b:9c:9d       5579 O @ 5579 P
+    T97:98:99:9a:9b:9c:9d:9e
+
+2015-04-11 'transaction 5580
+    T97:98:99:9a:9b:9c:9d:9e:9f             5580 P
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0         -5580 P
+
+2015-04-12 'transaction 5581
+    a1       5581 Q @ 0.71 R
+    a1:a2
+
+2015-04-13 'transaction 5582
+    a1:a2:a3       5582 R @ 5582 S
+    a1:a2:a3:a4
+
+2015-04-14 'transaction 5583
+    a1:a2:a3:a4:a5             5583 S
+    a1:a2:a3:a4:a5:a6         -5583 S
+
+2015-04-15 'transaction 5584
+    a1:a2:a3:a4:a5:a6:a7       5584 T @ 0.74 U
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2015-04-16 'transaction 5585
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       5585 U @ 5585 V
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2015-04-17 'transaction 5586
+    ab             5586 V
+    ab:ac         -5586 V
+
+2015-04-18 'transaction 5587
+    ab:ac:ad       5587 W @ 0.77 X
+    ab:ac:ad:ae
+
+2015-04-19 'transaction 5588
+    ab:ac:ad:ae:af       5588 X @ 5588 Y
+    ab:ac:ad:ae:af:b0
+
+2015-04-20 'transaction 5589
+    ab:ac:ad:ae:af:b0:b1             5589 Y
+    ab:ac:ad:ae:af:b0:b1:b2         -5589 Y
+
+2015-04-21 'transaction 5590
+    ab:ac:ad:ae:af:b0:b1:b2:b3       5590 Z @ 0.8 A
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2015-04-22 'transaction 5591
+    b5       5591 A @ 5591 B
+    b5:b6
+
+2015-04-23 'transaction 5592
+    b5:b6:b7             5592 B
+    b5:b6:b7:b8         -5592 B
+
+2015-04-24 'transaction 5593
+    b5:b6:b7:b8:b9       5593 C @ 0.83 D
+    b5:b6:b7:b8:b9:ba
+
+2015-04-25 'transaction 5594
+    b5:b6:b7:b8:b9:ba:bb       5594 D @ 5594 E
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2015-04-26 'transaction 5595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd             5595 E
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be         -5595 E
+
+2015-04-27 'transaction 5596
+    bf       5596 F @ 0.86 G
+    bf:c0
+
+2015-04-28 'transaction 5597
+    bf:c0:c1       5597 G @ 5597 H
+    bf:c0:c1:c2
+
+2015-04-29 'transaction 5598
+    bf:c0:c1:c2:c3             5598 H
+    bf:c0:c1:c2:c3:c4         -5598 H
+
+2015-04-30 'transaction 5599
+    bf:c0:c1:c2:c3:c4:c5       5599 I @ 0.89 J
+    bf:c0:c1:c2:c3:c4:c5:c6
+

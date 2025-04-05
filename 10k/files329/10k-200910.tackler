@@ -1,0 +1,124 @@
+2009-10-01 'transaction 3562
+    T79:7a:7b       3562 Z @ 0.92 A
+    T79:7a:7b:7c
+
+2009-10-02 'transaction 3563
+    T79:7a:7b:7c:7d       3563 A @ 3563 B
+    T79:7a:7b:7c:7d:7e
+
+2009-10-03 'transaction 3564
+    T79:7a:7b:7c:7d:7e:7f             3564 B
+    T79:7a:7b:7c:7d:7e:7f:80         -3564 B
+
+2009-10-04 'transaction 3565
+    T79:7a:7b:7c:7d:7e:7f:80:81       3565 C @ 0.95 D
+    T79:7a:7b:7c:7d:7e:7f:80:81:82
+
+2009-10-05 'transaction 3566
+    T83       3566 D @ 3566 E
+    T83:84
+
+2009-10-06 'transaction 3567
+    T83:84:85             3567 E
+    T83:84:85:86         -3567 E
+
+2009-10-07 'transaction 3568
+    T83:84:85:86:87       3568 F @ 0.98 G
+    T83:84:85:86:87:88
+
+2009-10-08 'transaction 3569
+    T83:84:85:86:87:88:89       3569 G @ 3569 H
+    T83:84:85:86:87:88:89:8a
+
+2009-10-09 'transaction 3570
+    T83:84:85:86:87:88:89:8a:8b             3570 H
+    T83:84:85:86:87:88:89:8a:8b:8c         -3570 H
+
+2009-10-10 'transaction 3571
+    T8d       3571 I @ 1.01 J
+    T8d:8e
+
+2009-10-11 'transaction 3572
+    T8d:8e:8f       3572 J @ 3572 K
+    T8d:8e:8f:90
+
+2009-10-12 'transaction 3573
+    T8d:8e:8f:90:91             3573 K
+    T8d:8e:8f:90:91:92         -3573 K
+
+2009-10-13 'transaction 3574
+    T8d:8e:8f:90:91:92:93       3574 L @ 1.04 M
+    T8d:8e:8f:90:91:92:93:94
+
+2009-10-14 'transaction 3575
+    T8d:8e:8f:90:91:92:93:94:95       3575 M @ 3575 N
+    T8d:8e:8f:90:91:92:93:94:95:96
+
+2009-10-15 'transaction 3576
+    T97             3576 N
+    T97:98         -3576 N
+
+2009-10-16 'transaction 3577
+    T97:98:99       3577 O @ 1.07 P
+    T97:98:99:9a
+
+2009-10-17 'transaction 3578
+    T97:98:99:9a:9b       3578 P @ 3578 Q
+    T97:98:99:9a:9b:9c
+
+2009-10-18 'transaction 3579
+    T97:98:99:9a:9b:9c:9d             3579 Q
+    T97:98:99:9a:9b:9c:9d:9e         -3579 Q
+
+2009-10-19 'transaction 3580
+    T97:98:99:9a:9b:9c:9d:9e:9f       3580 R @ 1.1 S
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0
+
+2009-10-20 'transaction 3581
+    a1       3581 S @ 3581 T
+    a1:a2
+
+2009-10-21 'transaction 3582
+    a1:a2:a3             3582 T
+    a1:a2:a3:a4         -3582 T
+
+2009-10-22 'transaction 3583
+    a1:a2:a3:a4:a5       3583 U @ 1.13 V
+    a1:a2:a3:a4:a5:a6
+
+2009-10-23 'transaction 3584
+    a1:a2:a3:a4:a5:a6:a7       3584 V @ 3584 W
+    a1:a2:a3:a4:a5:a6:a7:a8
+
+2009-10-24 'transaction 3585
+    a1:a2:a3:a4:a5:a6:a7:a8:a9             3585 W
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa         -3585 W
+
+2009-10-25 'transaction 3586
+    ab       3586 X @ 1.16 Y
+    ab:ac
+
+2009-10-26 'transaction 3587
+    ab:ac:ad       3587 Y @ 3587 Z
+    ab:ac:ad:ae
+
+2009-10-27 'transaction 3588
+    ab:ac:ad:ae:af             3588 Z
+    ab:ac:ad:ae:af:b0         -3588 Z
+
+2009-10-28 'transaction 3589
+    ab:ac:ad:ae:af:b0:b1       3589 A @ 1.19 B
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2009-10-29 'transaction 3590
+    ab:ac:ad:ae:af:b0:b1:b2:b3       3590 B @ 3590 C
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2009-10-30 'transaction 3591
+    b5             3591 C
+    b5:b6         -3591 C
+
+2009-10-31 'transaction 3592
+    b5:b6:b7       3592 D @ 1.22 E
+    b5:b6:b7:b8
+

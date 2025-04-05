@@ -1,0 +1,124 @@
+2023-12-01 'transaction 8736
+    T1d7              8736 Z
+    T1d7:1d8         -8736 Z
+
+2023-12-02 'transaction 8737
+    T1d7:1d8:1d9        8737 A @ 1.07 B
+    T1d7:1d8:1d9:1da
+
+2023-12-03 'transaction 8738
+    T1d7:1d8:1d9:1da:1db        8738 B @ 8738 C
+    T1d7:1d8:1d9:1da:1db:1dc
+
+2023-12-04 'transaction 8739
+    T1d7:1d8:1d9:1da:1db:1dc:1dd              8739 C
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de         -8739 C
+
+2023-12-05 'transaction 8740
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df        8740 D @ 1.1 E
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0
+
+2023-12-06 'transaction 8741
+    T1e1        8741 E @ 8741 F
+    T1e1:1e2
+
+2023-12-07 'transaction 8742
+    T1e1:1e2:1e3              8742 F
+    T1e1:1e2:1e3:1e4         -8742 F
+
+2023-12-08 'transaction 8743
+    T1e1:1e2:1e3:1e4:1e5        8743 G @ 1.13 H
+    T1e1:1e2:1e3:1e4:1e5:1e6
+
+2023-12-09 'transaction 8744
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7        8744 H @ 8744 I
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8
+
+2023-12-10 'transaction 8745
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9              8745 I
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9:1ea         -8745 I
+
+2023-12-11 'transaction 8746
+    T1eb        8746 J @ 1.16 K
+    T1eb:1ec
+
+2023-12-12 'transaction 8747
+    T1eb:1ec:1ed        8747 K @ 8747 L
+    T1eb:1ec:1ed:1ee
+
+2023-12-13 'transaction 8748
+    T1eb:1ec:1ed:1ee:1ef              8748 L
+    T1eb:1ec:1ed:1ee:1ef:1f0         -8748 L
+
+2023-12-14 'transaction 8749
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1        8749 M @ 1.19 N
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2
+
+2023-12-15 'transaction 8750
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3        8750 N @ 8750 O
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3:1f4
+
+2023-12-16 'transaction 8751
+    T1f5              8751 O
+    T1f5:1f6         -8751 O
+
+2023-12-17 'transaction 8752
+    T1f5:1f6:1f7        8752 P @ 1.22 Q
+    T1f5:1f6:1f7:1f8
+
+2023-12-18 'transaction 8753
+    T1f5:1f6:1f7:1f8:1f9        8753 Q @ 8753 R
+    T1f5:1f6:1f7:1f8:1f9:1fa
+
+2023-12-19 'transaction 8754
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb              8754 R
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc         -8754 R
+
+2023-12-20 'transaction 8755
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd        8755 S @ 1.25 T
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd:1fe
+
+2023-12-21 'transaction 8756
+    T1ff        8756 T @ 8756 U
+    T1ff:200
+
+2023-12-22 'transaction 8757
+    T1ff:200:201              8757 U
+    T1ff:200:201:202         -8757 U
+
+2023-12-23 'transaction 8758
+    T1ff:200:201:202:203        8758 V @ 1.28 W
+    T1ff:200:201:202:203:204
+
+2023-12-24 'transaction 8759
+    T1ff:200:201:202:203:204:205        8759 W @ 8759 X
+    T1ff:200:201:202:203:204:205:206
+
+2023-12-25 'transaction 8760
+    T1ff:200:201:202:203:204:205:206:207              8760 X
+    T1ff:200:201:202:203:204:205:206:207:208         -8760 X
+
+2023-12-26 'transaction 8761
+    T209        8761 Y @ 0.71 Z
+    T209:20a
+
+2023-12-27 'transaction 8762
+    T209:20a:20b        8762 Z @ 8762 A
+    T209:20a:20b:20c
+
+2023-12-28 'transaction 8763
+    T209:20a:20b:20c:20d              8763 A
+    T209:20a:20b:20c:20d:20e         -8763 A
+
+2023-12-29 'transaction 8764
+    T209:20a:20b:20c:20d:20e:20f        8764 B @ 0.74 C
+    T209:20a:20b:20c:20d:20e:20f:210
+
+2023-12-30 'transaction 8765
+    T209:20a:20b:20c:20d:20e:20f:210:211        8765 C @ 8765 D
+    T209:20a:20b:20c:20d:20e:20f:210:211:212
+
+2023-12-31 'transaction 8766
+    T213              8766 D
+    T213:214         -8766 D
+

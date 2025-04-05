@@ -1,0 +1,124 @@
+2005-10-01 'transaction 2101
+    c9       2101 U @ 0.71 V
+    c9:ca
+
+2005-10-02 'transaction 2102
+    c9:ca:cb       2102 V @ 2102 W
+    c9:ca:cb:cc
+
+2005-10-03 'transaction 2103
+    c9:ca:cb:cc:cd             2103 W
+    c9:ca:cb:cc:cd:ce         -2103 W
+
+2005-10-04 'transaction 2104
+    c9:ca:cb:cc:cd:ce:cf       2104 X @ 0.74 Y
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2005-10-05 'transaction 2105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       2105 Y @ 2105 Z
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2005-10-06 'transaction 2106
+    d3             2106 Z
+    d3:d4         -2106 Z
+
+2005-10-07 'transaction 2107
+    d3:d4:d5       2107 A @ 0.77 B
+    d3:d4:d5:d6
+
+2005-10-08 'transaction 2108
+    d3:d4:d5:d6:d7       2108 B @ 2108 C
+    d3:d4:d5:d6:d7:d8
+
+2005-10-09 'transaction 2109
+    d3:d4:d5:d6:d7:d8:d9             2109 C
+    d3:d4:d5:d6:d7:d8:d9:da         -2109 C
+
+2005-10-10 'transaction 2110
+    d3:d4:d5:d6:d7:d8:d9:da:db       2110 D @ 0.8 E
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2005-10-11 'transaction 2111
+    dd       2111 E @ 2111 F
+    dd:de
+
+2005-10-12 'transaction 2112
+    dd:de:df             2112 F
+    dd:de:df:e0         -2112 F
+
+2005-10-13 'transaction 2113
+    dd:de:df:e0:e1       2113 G @ 0.83 H
+    dd:de:df:e0:e1:e2
+
+2005-10-14 'transaction 2114
+    dd:de:df:e0:e1:e2:e3       2114 H @ 2114 I
+    dd:de:df:e0:e1:e2:e3:e4
+
+2005-10-15 'transaction 2115
+    dd:de:df:e0:e1:e2:e3:e4:e5             2115 I
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6         -2115 I
+
+2005-10-16 'transaction 2116
+    e7       2116 J @ 0.86 K
+    e7:e8
+
+2005-10-17 'transaction 2117
+    e7:e8:e9       2117 K @ 2117 L
+    e7:e8:e9:ea
+
+2005-10-18 'transaction 2118
+    e7:e8:e9:ea:eb             2118 L
+    e7:e8:e9:ea:eb:ec         -2118 L
+
+2005-10-19 'transaction 2119
+    e7:e8:e9:ea:eb:ec:ed       2119 M @ 0.89 N
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2005-10-20 'transaction 2120
+    e7:e8:e9:ea:eb:ec:ed:ee:ef       2120 N @ 2120 O
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0
+
+2005-10-21 'transaction 2121
+    f1             2121 O
+    f1:f2         -2121 O
+
+2005-10-22 'transaction 2122
+    f1:f2:f3       2122 P @ 0.92 Q
+    f1:f2:f3:f4
+
+2005-10-23 'transaction 2123
+    f1:f2:f3:f4:f5       2123 Q @ 2123 R
+    f1:f2:f3:f4:f5:f6
+
+2005-10-24 'transaction 2124
+    f1:f2:f3:f4:f5:f6:f7             2124 R
+    f1:f2:f3:f4:f5:f6:f7:f8         -2124 R
+
+2005-10-25 'transaction 2125
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       2125 S @ 0.95 T
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2005-10-26 'transaction 2126
+    fb       2126 T @ 2126 U
+    fb:fc
+
+2005-10-27 'transaction 2127
+    fb:fc:fd             2127 U
+    fb:fc:fd:fe         -2127 U
+
+2005-10-28 'transaction 2128
+    fb:fc:fd:fe:ff        2128 V @ 0.98 W
+    fb:fc:fd:fe:ff:100
+
+2005-10-29 'transaction 2129
+    fb:fc:fd:fe:ff:100:101        2129 W @ 2129 X
+    fb:fc:fd:fe:ff:100:101:102
+
+2005-10-30 'transaction 2130
+    fb:fc:fd:fe:ff:100:101:102:103              2130 X
+    fb:fc:fd:fe:ff:100:101:102:103:104         -2130 X
+
+2005-10-31 'transaction 2131
+    T105        2131 Y @ 1.01 Z
+    T105:106
+

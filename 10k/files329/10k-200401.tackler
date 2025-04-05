@@ -1,0 +1,124 @@
+2004-01-01 'transaction 1462
+    T399:39a:39b        1462 F @ 0.92 G
+    T399:39a:39b:39c
+
+2004-01-02 'transaction 1463
+    T399:39a:39b:39c:39d        1463 G @ 1463 H
+    T399:39a:39b:39c:39d:39e
+
+2004-01-03 'transaction 1464
+    T399:39a:39b:39c:39d:39e:39f              1464 H
+    T399:39a:39b:39c:39d:39e:39f:3a0         -1464 H
+
+2004-01-04 'transaction 1465
+    T399:39a:39b:39c:39d:39e:39f:3a0:3a1        1465 I @ 0.95 J
+    T399:39a:39b:39c:39d:39e:39f:3a0:3a1:3a2
+
+2004-01-05 'transaction 1466
+    T3a3        1466 J @ 1466 K
+    T3a3:3a4
+
+2004-01-06 'transaction 1467
+    T3a3:3a4:3a5              1467 K
+    T3a3:3a4:3a5:3a6         -1467 K
+
+2004-01-07 'transaction 1468
+    T3a3:3a4:3a5:3a6:3a7        1468 L @ 0.98 M
+    T3a3:3a4:3a5:3a6:3a7:3a8
+
+2004-01-08 'transaction 1469
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9        1469 M @ 1469 N
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa
+
+2004-01-09 'transaction 1470
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab              1470 N
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab:3ac         -1470 N
+
+2004-01-10 'transaction 1471
+    T3ad        1471 O @ 1.01 P
+    T3ad:3ae
+
+2004-01-11 'transaction 1472
+    T3ad:3ae:3af        1472 P @ 1472 Q
+    T3ad:3ae:3af:3b0
+
+2004-01-12 'transaction 1473
+    T3ad:3ae:3af:3b0:3b1              1473 Q
+    T3ad:3ae:3af:3b0:3b1:3b2         -1473 Q
+
+2004-01-13 'transaction 1474
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3        1474 R @ 1.04 S
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4
+
+2004-01-14 'transaction 1475
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5        1475 S @ 1475 T
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6
+
+2004-01-15 'transaction 1476
+    T3b7              1476 T
+    T3b7:3b8         -1476 T
+
+2004-01-16 'transaction 1477
+    T3b7:3b8:3b9        1477 U @ 1.07 V
+    T3b7:3b8:3b9:3ba
+
+2004-01-17 'transaction 1478
+    T3b7:3b8:3b9:3ba:3bb        1478 V @ 1478 W
+    T3b7:3b8:3b9:3ba:3bb:3bc
+
+2004-01-18 'transaction 1479
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd              1479 W
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be         -1479 W
+
+2004-01-19 'transaction 1480
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf        1480 X @ 1.1 Y
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0
+
+2004-01-20 'transaction 1481
+    T3c1        1481 Y @ 1481 Z
+    T3c1:3c2
+
+2004-01-21 'transaction 1482
+    T3c1:3c2:3c3              1482 Z
+    T3c1:3c2:3c3:3c4         -1482 Z
+
+2004-01-22 'transaction 1483
+    T3c1:3c2:3c3:3c4:3c5        1483 A @ 1.13 B
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2004-01-23 'transaction 1484
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7        1484 B @ 1484 C
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8
+
+2004-01-24 'transaction 1485
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9              1485 C
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca         -1485 C
+
+2004-01-25 'transaction 1486
+    T3cb        1486 D @ 1.16 E
+    T3cb:3cc
+
+2004-01-26 'transaction 1487
+    T3cb:3cc:3cd        1487 E @ 1487 F
+    T3cb:3cc:3cd:3ce
+
+2004-01-27 'transaction 1488
+    T3cb:3cc:3cd:3ce:3cf              1488 F
+    T3cb:3cc:3cd:3ce:3cf:3d0         -1488 F
+
+2004-01-28 'transaction 1489
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        1489 G @ 1.19 H
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2004-01-29 'transaction 1490
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3        1490 H @ 1490 I
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4
+
+2004-01-30 'transaction 1491
+    T3d5              1491 I
+    T3d5:3d6         -1491 I
+
+2004-01-31 'transaction 1492
+    T3d5:3d6:3d7        1492 J @ 1.22 K
+    T3d5:3d6:3d7:3d8
+

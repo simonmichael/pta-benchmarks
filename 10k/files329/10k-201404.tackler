@@ -1,0 +1,120 @@
+2014-04-01 'transaction 5205
+    T191:192:193:194:195:196:197:198:199              5205 E
+    T191:192:193:194:195:196:197:198:199:19a         -5205 E
+
+2014-04-02 'transaction 5206
+    T19b        5206 F @ 1.16 G
+    T19b:19c
+
+2014-04-03 'transaction 5207
+    T19b:19c:19d        5207 G @ 5207 H
+    T19b:19c:19d:19e
+
+2014-04-04 'transaction 5208
+    T19b:19c:19d:19e:19f              5208 H
+    T19b:19c:19d:19e:19f:1a0         -5208 H
+
+2014-04-05 'transaction 5209
+    T19b:19c:19d:19e:19f:1a0:1a1        5209 I @ 1.19 J
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2
+
+2014-04-06 'transaction 5210
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3        5210 J @ 5210 K
+    T19b:19c:19d:19e:19f:1a0:1a1:1a2:1a3:1a4
+
+2014-04-07 'transaction 5211
+    T1a5              5211 K
+    T1a5:1a6         -5211 K
+
+2014-04-08 'transaction 5212
+    T1a5:1a6:1a7        5212 L @ 1.22 M
+    T1a5:1a6:1a7:1a8
+
+2014-04-09 'transaction 5213
+    T1a5:1a6:1a7:1a8:1a9        5213 M @ 5213 N
+    T1a5:1a6:1a7:1a8:1a9:1aa
+
+2014-04-10 'transaction 5214
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab              5214 N
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac         -5214 N
+
+2014-04-11 'transaction 5215
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad        5215 O @ 1.25 P
+    T1a5:1a6:1a7:1a8:1a9:1aa:1ab:1ac:1ad:1ae
+
+2014-04-12 'transaction 5216
+    T1af        5216 P @ 5216 Q
+    T1af:1b0
+
+2014-04-13 'transaction 5217
+    T1af:1b0:1b1              5217 Q
+    T1af:1b0:1b1:1b2         -5217 Q
+
+2014-04-14 'transaction 5218
+    T1af:1b0:1b1:1b2:1b3        5218 R @ 1.28 S
+    T1af:1b0:1b1:1b2:1b3:1b4
+
+2014-04-15 'transaction 5219
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5        5219 S @ 5219 T
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6
+
+2014-04-16 'transaction 5220
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7              5220 T
+    T1af:1b0:1b1:1b2:1b3:1b4:1b5:1b6:1b7:1b8         -5220 T
+
+2014-04-17 'transaction 5221
+    T1b9        5221 U @ 0.71 V
+    T1b9:1ba
+
+2014-04-18 'transaction 5222
+    T1b9:1ba:1bb        5222 V @ 5222 W
+    T1b9:1ba:1bb:1bc
+
+2014-04-19 'transaction 5223
+    T1b9:1ba:1bb:1bc:1bd              5223 W
+    T1b9:1ba:1bb:1bc:1bd:1be         -5223 W
+
+2014-04-20 'transaction 5224
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf        5224 X @ 0.74 Y
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0
+
+2014-04-21 'transaction 5225
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1        5225 Y @ 5225 Z
+    T1b9:1ba:1bb:1bc:1bd:1be:1bf:1c0:1c1:1c2
+
+2014-04-22 'transaction 5226
+    T1c3              5226 Z
+    T1c3:1c4         -5226 Z
+
+2014-04-23 'transaction 5227
+    T1c3:1c4:1c5        5227 A @ 0.77 B
+    T1c3:1c4:1c5:1c6
+
+2014-04-24 'transaction 5228
+    T1c3:1c4:1c5:1c6:1c7        5228 B @ 5228 C
+    T1c3:1c4:1c5:1c6:1c7:1c8
+
+2014-04-25 'transaction 5229
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9              5229 C
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca         -5229 C
+
+2014-04-26 'transaction 5230
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb        5230 D @ 0.8 E
+    T1c3:1c4:1c5:1c6:1c7:1c8:1c9:1ca:1cb:1cc
+
+2014-04-27 'transaction 5231
+    T1cd        5231 E @ 5231 F
+    T1cd:1ce
+
+2014-04-28 'transaction 5232
+    T1cd:1ce:1cf              5232 F
+    T1cd:1ce:1cf:1d0         -5232 F
+
+2014-04-29 'transaction 5233
+    T1cd:1ce:1cf:1d0:1d1        5233 G @ 0.83 H
+    T1cd:1ce:1cf:1d0:1d1:1d2
+
+2014-04-30 'transaction 5234
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3        5234 H @ 5234 I
+    T1cd:1ce:1cf:1d0:1d1:1d2:1d3:1d4
+

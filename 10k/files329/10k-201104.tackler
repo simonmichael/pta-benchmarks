@@ -1,0 +1,120 @@
+2011-04-01 'transaction 4109
+    d3:d4:d5:d6:d7:d8:d9       4109 A @ 4109 B
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2011-04-02 'transaction 4110
+    d3:d4:d5:d6:d7:d8:d9:da:db             4110 B
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc         -4110 B
+
+2011-04-03 'transaction 4111
+    dd       4111 C @ 1.01 D
+    dd:de
+
+2011-04-04 'transaction 4112
+    dd:de:df       4112 D @ 4112 E
+    dd:de:df:e0
+
+2011-04-05 'transaction 4113
+    dd:de:df:e0:e1             4113 E
+    dd:de:df:e0:e1:e2         -4113 E
+
+2011-04-06 'transaction 4114
+    dd:de:df:e0:e1:e2:e3       4114 F @ 1.04 G
+    dd:de:df:e0:e1:e2:e3:e4
+
+2011-04-07 'transaction 4115
+    dd:de:df:e0:e1:e2:e3:e4:e5       4115 G @ 4115 H
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2011-04-08 'transaction 4116
+    e7             4116 H
+    e7:e8         -4116 H
+
+2011-04-09 'transaction 4117
+    e7:e8:e9       4117 I @ 1.07 J
+    e7:e8:e9:ea
+
+2011-04-10 'transaction 4118
+    e7:e8:e9:ea:eb       4118 J @ 4118 K
+    e7:e8:e9:ea:eb:ec
+
+2011-04-11 'transaction 4119
+    e7:e8:e9:ea:eb:ec:ed             4119 K
+    e7:e8:e9:ea:eb:ec:ed:ee         -4119 K
+
+2011-04-12 'transaction 4120
+    e7:e8:e9:ea:eb:ec:ed:ee:ef       4120 L @ 1.1 M
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0
+
+2011-04-13 'transaction 4121
+    f1       4121 M @ 4121 N
+    f1:f2
+
+2011-04-14 'transaction 4122
+    f1:f2:f3             4122 N
+    f1:f2:f3:f4         -4122 N
+
+2011-04-15 'transaction 4123
+    f1:f2:f3:f4:f5       4123 O @ 1.13 P
+    f1:f2:f3:f4:f5:f6
+
+2011-04-16 'transaction 4124
+    f1:f2:f3:f4:f5:f6:f7       4124 P @ 4124 Q
+    f1:f2:f3:f4:f5:f6:f7:f8
+
+2011-04-17 'transaction 4125
+    f1:f2:f3:f4:f5:f6:f7:f8:f9             4125 Q
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa         -4125 Q
+
+2011-04-18 'transaction 4126
+    fb       4126 R @ 1.16 S
+    fb:fc
+
+2011-04-19 'transaction 4127
+    fb:fc:fd       4127 S @ 4127 T
+    fb:fc:fd:fe
+
+2011-04-20 'transaction 4128
+    fb:fc:fd:fe:ff              4128 T
+    fb:fc:fd:fe:ff:100         -4128 T
+
+2011-04-21 'transaction 4129
+    fb:fc:fd:fe:ff:100:101        4129 U @ 1.19 V
+    fb:fc:fd:fe:ff:100:101:102
+
+2011-04-22 'transaction 4130
+    fb:fc:fd:fe:ff:100:101:102:103        4130 V @ 4130 W
+    fb:fc:fd:fe:ff:100:101:102:103:104
+
+2011-04-23 'transaction 4131
+    T105              4131 W
+    T105:106         -4131 W
+
+2011-04-24 'transaction 4132
+    T105:106:107        4132 X @ 1.22 Y
+    T105:106:107:108
+
+2011-04-25 'transaction 4133
+    T105:106:107:108:109        4133 Y @ 4133 Z
+    T105:106:107:108:109:10a
+
+2011-04-26 'transaction 4134
+    T105:106:107:108:109:10a:10b              4134 Z
+    T105:106:107:108:109:10a:10b:10c         -4134 Z
+
+2011-04-27 'transaction 4135
+    T105:106:107:108:109:10a:10b:10c:10d        4135 A @ 1.25 B
+    T105:106:107:108:109:10a:10b:10c:10d:10e
+
+2011-04-28 'transaction 4136
+    T10f        4136 B @ 4136 C
+    T10f:110
+
+2011-04-29 'transaction 4137
+    T10f:110:111              4137 C
+    T10f:110:111:112         -4137 C
+
+2011-04-30 'transaction 4138
+    T10f:110:111:112:113        4138 D @ 1.28 E
+    T10f:110:111:112:113:114
+

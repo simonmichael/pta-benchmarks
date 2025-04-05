@@ -1,0 +1,120 @@
+2020-11-01 'transaction 7611
+    dd             7611 S
+    dd:de         -7611 S
+
+2020-11-02 'transaction 7612
+    dd:de:df       7612 T @ 1.22 U
+    dd:de:df:e0
+
+2020-11-03 'transaction 7613
+    dd:de:df:e0:e1       7613 U @ 7613 V
+    dd:de:df:e0:e1:e2
+
+2020-11-04 'transaction 7614
+    dd:de:df:e0:e1:e2:e3             7614 V
+    dd:de:df:e0:e1:e2:e3:e4         -7614 V
+
+2020-11-05 'transaction 7615
+    dd:de:df:e0:e1:e2:e3:e4:e5       7615 W @ 1.25 X
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2020-11-06 'transaction 7616
+    e7       7616 X @ 7616 Y
+    e7:e8
+
+2020-11-07 'transaction 7617
+    e7:e8:e9             7617 Y
+    e7:e8:e9:ea         -7617 Y
+
+2020-11-08 'transaction 7618
+    e7:e8:e9:ea:eb       7618 Z @ 1.28 A
+    e7:e8:e9:ea:eb:ec
+
+2020-11-09 'transaction 7619
+    e7:e8:e9:ea:eb:ec:ed       7619 A @ 7619 B
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2020-11-10 'transaction 7620
+    e7:e8:e9:ea:eb:ec:ed:ee:ef             7620 B
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0         -7620 B
+
+2020-11-11 'transaction 7621
+    f1       7621 C @ 0.71 D
+    f1:f2
+
+2020-11-12 'transaction 7622
+    f1:f2:f3       7622 D @ 7622 E
+    f1:f2:f3:f4
+
+2020-11-13 'transaction 7623
+    f1:f2:f3:f4:f5             7623 E
+    f1:f2:f3:f4:f5:f6         -7623 E
+
+2020-11-14 'transaction 7624
+    f1:f2:f3:f4:f5:f6:f7       7624 F @ 0.74 G
+    f1:f2:f3:f4:f5:f6:f7:f8
+
+2020-11-15 'transaction 7625
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       7625 G @ 7625 H
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2020-11-16 'transaction 7626
+    fb             7626 H
+    fb:fc         -7626 H
+
+2020-11-17 'transaction 7627
+    fb:fc:fd       7627 I @ 0.77 J
+    fb:fc:fd:fe
+
+2020-11-18 'transaction 7628
+    fb:fc:fd:fe:ff        7628 J @ 7628 K
+    fb:fc:fd:fe:ff:100
+
+2020-11-19 'transaction 7629
+    fb:fc:fd:fe:ff:100:101              7629 K
+    fb:fc:fd:fe:ff:100:101:102         -7629 K
+
+2020-11-20 'transaction 7630
+    fb:fc:fd:fe:ff:100:101:102:103        7630 L @ 0.8 M
+    fb:fc:fd:fe:ff:100:101:102:103:104
+
+2020-11-21 'transaction 7631
+    T105        7631 M @ 7631 N
+    T105:106
+
+2020-11-22 'transaction 7632
+    T105:106:107              7632 N
+    T105:106:107:108         -7632 N
+
+2020-11-23 'transaction 7633
+    T105:106:107:108:109        7633 O @ 0.83 P
+    T105:106:107:108:109:10a
+
+2020-11-24 'transaction 7634
+    T105:106:107:108:109:10a:10b        7634 P @ 7634 Q
+    T105:106:107:108:109:10a:10b:10c
+
+2020-11-25 'transaction 7635
+    T105:106:107:108:109:10a:10b:10c:10d              7635 Q
+    T105:106:107:108:109:10a:10b:10c:10d:10e         -7635 Q
+
+2020-11-26 'transaction 7636
+    T10f        7636 R @ 0.86 S
+    T10f:110
+
+2020-11-27 'transaction 7637
+    T10f:110:111        7637 S @ 7637 T
+    T10f:110:111:112
+
+2020-11-28 'transaction 7638
+    T10f:110:111:112:113              7638 T
+    T10f:110:111:112:113:114         -7638 T
+
+2020-11-29 'transaction 7639
+    T10f:110:111:112:113:114:115        7639 U @ 0.89 V
+    T10f:110:111:112:113:114:115:116
+
+2020-11-30 'transaction 7640
+    T10f:110:111:112:113:114:115:116:117        7640 V @ 7640 W
+    T10f:110:111:112:113:114:115:116:117:118
+

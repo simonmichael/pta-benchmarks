@@ -1,0 +1,120 @@
+2004-06-01 'transaction 1614
+    dd:de:df:e0:e1:e2:e3             1614 B
+    dd:de:df:e0:e1:e2:e3:e4         -1614 B
+
+2004-06-02 'transaction 1615
+    dd:de:df:e0:e1:e2:e3:e4:e5       1615 C @ 1.25 D
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2004-06-03 'transaction 1616
+    e7       1616 D @ 1616 E
+    e7:e8
+
+2004-06-04 'transaction 1617
+    e7:e8:e9             1617 E
+    e7:e8:e9:ea         -1617 E
+
+2004-06-05 'transaction 1618
+    e7:e8:e9:ea:eb       1618 F @ 1.28 G
+    e7:e8:e9:ea:eb:ec
+
+2004-06-06 'transaction 1619
+    e7:e8:e9:ea:eb:ec:ed       1619 G @ 1619 H
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2004-06-07 'transaction 1620
+    e7:e8:e9:ea:eb:ec:ed:ee:ef             1620 H
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0         -1620 H
+
+2004-06-08 'transaction 1621
+    f1       1621 I @ 0.71 J
+    f1:f2
+
+2004-06-09 'transaction 1622
+    f1:f2:f3       1622 J @ 1622 K
+    f1:f2:f3:f4
+
+2004-06-10 'transaction 1623
+    f1:f2:f3:f4:f5             1623 K
+    f1:f2:f3:f4:f5:f6         -1623 K
+
+2004-06-11 'transaction 1624
+    f1:f2:f3:f4:f5:f6:f7       1624 L @ 0.74 M
+    f1:f2:f3:f4:f5:f6:f7:f8
+
+2004-06-12 'transaction 1625
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       1625 M @ 1625 N
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2004-06-13 'transaction 1626
+    fb             1626 N
+    fb:fc         -1626 N
+
+2004-06-14 'transaction 1627
+    fb:fc:fd       1627 O @ 0.77 P
+    fb:fc:fd:fe
+
+2004-06-15 'transaction 1628
+    fb:fc:fd:fe:ff        1628 P @ 1628 Q
+    fb:fc:fd:fe:ff:100
+
+2004-06-16 'transaction 1629
+    fb:fc:fd:fe:ff:100:101              1629 Q
+    fb:fc:fd:fe:ff:100:101:102         -1629 Q
+
+2004-06-17 'transaction 1630
+    fb:fc:fd:fe:ff:100:101:102:103        1630 R @ 0.8 S
+    fb:fc:fd:fe:ff:100:101:102:103:104
+
+2004-06-18 'transaction 1631
+    T105        1631 S @ 1631 T
+    T105:106
+
+2004-06-19 'transaction 1632
+    T105:106:107              1632 T
+    T105:106:107:108         -1632 T
+
+2004-06-20 'transaction 1633
+    T105:106:107:108:109        1633 U @ 0.83 V
+    T105:106:107:108:109:10a
+
+2004-06-21 'transaction 1634
+    T105:106:107:108:109:10a:10b        1634 V @ 1634 W
+    T105:106:107:108:109:10a:10b:10c
+
+2004-06-22 'transaction 1635
+    T105:106:107:108:109:10a:10b:10c:10d              1635 W
+    T105:106:107:108:109:10a:10b:10c:10d:10e         -1635 W
+
+2004-06-23 'transaction 1636
+    T10f        1636 X @ 0.86 Y
+    T10f:110
+
+2004-06-24 'transaction 1637
+    T10f:110:111        1637 Y @ 1637 Z
+    T10f:110:111:112
+
+2004-06-25 'transaction 1638
+    T10f:110:111:112:113              1638 Z
+    T10f:110:111:112:113:114         -1638 Z
+
+2004-06-26 'transaction 1639
+    T10f:110:111:112:113:114:115        1639 A @ 0.89 B
+    T10f:110:111:112:113:114:115:116
+
+2004-06-27 'transaction 1640
+    T10f:110:111:112:113:114:115:116:117        1640 B @ 1640 C
+    T10f:110:111:112:113:114:115:116:117:118
+
+2004-06-28 'transaction 1641
+    T119              1641 C
+    T119:11a         -1641 C
+
+2004-06-29 'transaction 1642
+    T119:11a:11b        1642 D @ 0.92 E
+    T119:11a:11b:11c
+
+2004-06-30 'transaction 1643
+    T119:11a:11b:11c:11d        1643 E @ 1643 F
+    T119:11a:11b:11c:11d:11e
+

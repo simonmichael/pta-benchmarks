@@ -1,0 +1,124 @@
+2022-03-01 'transaction 8096
+    bf       8096 J @ 8096 K
+    bf:c0
+
+2022-03-02 'transaction 8097
+    bf:c0:c1             8097 K
+    bf:c0:c1:c2         -8097 K
+
+2022-03-03 'transaction 8098
+    bf:c0:c1:c2:c3       8098 L @ 1.28 M
+    bf:c0:c1:c2:c3:c4
+
+2022-03-04 'transaction 8099
+    bf:c0:c1:c2:c3:c4:c5       8099 M @ 8099 N
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2022-03-05 'transaction 8100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7             8100 N
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8         -8100 N
+
+2022-03-06 'transaction 8101
+    c9       8101 O @ 0.71 P
+    c9:ca
+
+2022-03-07 'transaction 8102
+    c9:ca:cb       8102 P @ 8102 Q
+    c9:ca:cb:cc
+
+2022-03-08 'transaction 8103
+    c9:ca:cb:cc:cd             8103 Q
+    c9:ca:cb:cc:cd:ce         -8103 Q
+
+2022-03-09 'transaction 8104
+    c9:ca:cb:cc:cd:ce:cf       8104 R @ 0.74 S
+    c9:ca:cb:cc:cd:ce:cf:d0
+
+2022-03-10 'transaction 8105
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       8105 S @ 8105 T
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2022-03-11 'transaction 8106
+    d3             8106 T
+    d3:d4         -8106 T
+
+2022-03-12 'transaction 8107
+    d3:d4:d5       8107 U @ 0.77 V
+    d3:d4:d5:d6
+
+2022-03-13 'transaction 8108
+    d3:d4:d5:d6:d7       8108 V @ 8108 W
+    d3:d4:d5:d6:d7:d8
+
+2022-03-14 'transaction 8109
+    d3:d4:d5:d6:d7:d8:d9             8109 W
+    d3:d4:d5:d6:d7:d8:d9:da         -8109 W
+
+2022-03-15 'transaction 8110
+    d3:d4:d5:d6:d7:d8:d9:da:db       8110 X @ 0.8 Y
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc
+
+2022-03-16 'transaction 8111
+    dd       8111 Y @ 8111 Z
+    dd:de
+
+2022-03-17 'transaction 8112
+    dd:de:df             8112 Z
+    dd:de:df:e0         -8112 Z
+
+2022-03-18 'transaction 8113
+    dd:de:df:e0:e1       8113 A @ 0.83 B
+    dd:de:df:e0:e1:e2
+
+2022-03-19 'transaction 8114
+    dd:de:df:e0:e1:e2:e3       8114 B @ 8114 C
+    dd:de:df:e0:e1:e2:e3:e4
+
+2022-03-20 'transaction 8115
+    dd:de:df:e0:e1:e2:e3:e4:e5             8115 C
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6         -8115 C
+
+2022-03-21 'transaction 8116
+    e7       8116 D @ 0.86 E
+    e7:e8
+
+2022-03-22 'transaction 8117
+    e7:e8:e9       8117 E @ 8117 F
+    e7:e8:e9:ea
+
+2022-03-23 'transaction 8118
+    e7:e8:e9:ea:eb             8118 F
+    e7:e8:e9:ea:eb:ec         -8118 F
+
+2022-03-24 'transaction 8119
+    e7:e8:e9:ea:eb:ec:ed       8119 G @ 0.89 H
+    e7:e8:e9:ea:eb:ec:ed:ee
+
+2022-03-25 'transaction 8120
+    e7:e8:e9:ea:eb:ec:ed:ee:ef       8120 H @ 8120 I
+    e7:e8:e9:ea:eb:ec:ed:ee:ef:f0
+
+2022-03-26 'transaction 8121
+    f1             8121 I
+    f1:f2         -8121 I
+
+2022-03-27 'transaction 8122
+    f1:f2:f3       8122 J @ 0.92 K
+    f1:f2:f3:f4
+
+2022-03-28 'transaction 8123
+    f1:f2:f3:f4:f5       8123 K @ 8123 L
+    f1:f2:f3:f4:f5:f6
+
+2022-03-29 'transaction 8124
+    f1:f2:f3:f4:f5:f6:f7             8124 L
+    f1:f2:f3:f4:f5:f6:f7:f8         -8124 L
+
+2022-03-30 'transaction 8125
+    f1:f2:f3:f4:f5:f6:f7:f8:f9       8125 M @ 0.95 N
+    f1:f2:f3:f4:f5:f6:f7:f8:f9:fa
+
+2022-03-31 'transaction 8126
+    fb       8126 N @ 8126 O
+    fb:fc
+

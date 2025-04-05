@@ -1,0 +1,120 @@
+2024-11-01 'transaction 9072
+    T8d:8e:8f             9072 X
+    T8d:8e:8f:90         -9072 X
+
+2024-11-02 'transaction 9073
+    T8d:8e:8f:90:91       9073 Y @ 0.83 Z
+    T8d:8e:8f:90:91:92
+
+2024-11-03 'transaction 9074
+    T8d:8e:8f:90:91:92:93       9074 Z @ 9074 A
+    T8d:8e:8f:90:91:92:93:94
+
+2024-11-04 'transaction 9075
+    T8d:8e:8f:90:91:92:93:94:95             9075 A
+    T8d:8e:8f:90:91:92:93:94:95:96         -9075 A
+
+2024-11-05 'transaction 9076
+    T97       9076 B @ 0.86 C
+    T97:98
+
+2024-11-06 'transaction 9077
+    T97:98:99       9077 C @ 9077 D
+    T97:98:99:9a
+
+2024-11-07 'transaction 9078
+    T97:98:99:9a:9b             9078 D
+    T97:98:99:9a:9b:9c         -9078 D
+
+2024-11-08 'transaction 9079
+    T97:98:99:9a:9b:9c:9d       9079 E @ 0.89 F
+    T97:98:99:9a:9b:9c:9d:9e
+
+2024-11-09 'transaction 9080
+    T97:98:99:9a:9b:9c:9d:9e:9f       9080 F @ 9080 G
+    T97:98:99:9a:9b:9c:9d:9e:9f:a0
+
+2024-11-10 'transaction 9081
+    a1             9081 G
+    a1:a2         -9081 G
+
+2024-11-11 'transaction 9082
+    a1:a2:a3       9082 H @ 0.92 I
+    a1:a2:a3:a4
+
+2024-11-12 'transaction 9083
+    a1:a2:a3:a4:a5       9083 I @ 9083 J
+    a1:a2:a3:a4:a5:a6
+
+2024-11-13 'transaction 9084
+    a1:a2:a3:a4:a5:a6:a7             9084 J
+    a1:a2:a3:a4:a5:a6:a7:a8         -9084 J
+
+2024-11-14 'transaction 9085
+    a1:a2:a3:a4:a5:a6:a7:a8:a9       9085 K @ 0.95 L
+    a1:a2:a3:a4:a5:a6:a7:a8:a9:aa
+
+2024-11-15 'transaction 9086
+    ab       9086 L @ 9086 M
+    ab:ac
+
+2024-11-16 'transaction 9087
+    ab:ac:ad             9087 M
+    ab:ac:ad:ae         -9087 M
+
+2024-11-17 'transaction 9088
+    ab:ac:ad:ae:af       9088 N @ 0.98 O
+    ab:ac:ad:ae:af:b0
+
+2024-11-18 'transaction 9089
+    ab:ac:ad:ae:af:b0:b1       9089 O @ 9089 P
+    ab:ac:ad:ae:af:b0:b1:b2
+
+2024-11-19 'transaction 9090
+    ab:ac:ad:ae:af:b0:b1:b2:b3             9090 P
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4         -9090 P
+
+2024-11-20 'transaction 9091
+    b5       9091 Q @ 1.01 R
+    b5:b6
+
+2024-11-21 'transaction 9092
+    b5:b6:b7       9092 R @ 9092 S
+    b5:b6:b7:b8
+
+2024-11-22 'transaction 9093
+    b5:b6:b7:b8:b9             9093 S
+    b5:b6:b7:b8:b9:ba         -9093 S
+
+2024-11-23 'transaction 9094
+    b5:b6:b7:b8:b9:ba:bb       9094 T @ 1.04 U
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2024-11-24 'transaction 9095
+    b5:b6:b7:b8:b9:ba:bb:bc:bd       9095 U @ 9095 V
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be
+
+2024-11-25 'transaction 9096
+    bf             9096 V
+    bf:c0         -9096 V
+
+2024-11-26 'transaction 9097
+    bf:c0:c1       9097 W @ 1.07 X
+    bf:c0:c1:c2
+
+2024-11-27 'transaction 9098
+    bf:c0:c1:c2:c3       9098 X @ 9098 Y
+    bf:c0:c1:c2:c3:c4
+
+2024-11-28 'transaction 9099
+    bf:c0:c1:c2:c3:c4:c5             9099 Y
+    bf:c0:c1:c2:c3:c4:c5:c6         -9099 Y
+
+2024-11-29 'transaction 9100
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       9100 Z @ 1.1 A
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2024-11-30 'transaction 9101
+    c9       9101 A @ 9101 B
+    c9:ca
+

@@ -1,0 +1,120 @@
+2003-09-01 'transaction 1340
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7        1340 N @ 1340 O
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7:2a8
+
+2003-09-02 'transaction 1341
+    T2a9              1341 O
+    T2a9:2aa         -1341 O
+
+2003-09-03 'transaction 1342
+    T2a9:2aa:2ab        1342 P @ 0.92 Q
+    T2a9:2aa:2ab:2ac
+
+2003-09-04 'transaction 1343
+    T2a9:2aa:2ab:2ac:2ad        1343 Q @ 1343 R
+    T2a9:2aa:2ab:2ac:2ad:2ae
+
+2003-09-05 'transaction 1344
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af              1344 R
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0         -1344 R
+
+2003-09-06 'transaction 1345
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1        1345 S @ 0.95 T
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1:2b2
+
+2003-09-07 'transaction 1346
+    T2b3        1346 T @ 1346 U
+    T2b3:2b4
+
+2003-09-08 'transaction 1347
+    T2b3:2b4:2b5              1347 U
+    T2b3:2b4:2b5:2b6         -1347 U
+
+2003-09-09 'transaction 1348
+    T2b3:2b4:2b5:2b6:2b7        1348 V @ 0.98 W
+    T2b3:2b4:2b5:2b6:2b7:2b8
+
+2003-09-10 'transaction 1349
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9        1349 W @ 1349 X
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba
+
+2003-09-11 'transaction 1350
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb              1350 X
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb:2bc         -1350 X
+
+2003-09-12 'transaction 1351
+    T2bd        1351 Y @ 1.01 Z
+    T2bd:2be
+
+2003-09-13 'transaction 1352
+    T2bd:2be:2bf        1352 Z @ 1352 A
+    T2bd:2be:2bf:2c0
+
+2003-09-14 'transaction 1353
+    T2bd:2be:2bf:2c0:2c1              1353 A
+    T2bd:2be:2bf:2c0:2c1:2c2         -1353 A
+
+2003-09-15 'transaction 1354
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3        1354 B @ 1.04 C
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4
+
+2003-09-16 'transaction 1355
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5        1355 C @ 1355 D
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6
+
+2003-09-17 'transaction 1356
+    T2c7              1356 D
+    T2c7:2c8         -1356 D
+
+2003-09-18 'transaction 1357
+    T2c7:2c8:2c9        1357 E @ 1.07 F
+    T2c7:2c8:2c9:2ca
+
+2003-09-19 'transaction 1358
+    T2c7:2c8:2c9:2ca:2cb        1358 F @ 1358 G
+    T2c7:2c8:2c9:2ca:2cb:2cc
+
+2003-09-20 'transaction 1359
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd              1359 G
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce         -1359 G
+
+2003-09-21 'transaction 1360
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf        1360 H @ 1.1 I
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0
+
+2003-09-22 'transaction 1361
+    T2d1        1361 I @ 1361 J
+    T2d1:2d2
+
+2003-09-23 'transaction 1362
+    T2d1:2d2:2d3              1362 J
+    T2d1:2d2:2d3:2d4         -1362 J
+
+2003-09-24 'transaction 1363
+    T2d1:2d2:2d3:2d4:2d5        1363 K @ 1.13 L
+    T2d1:2d2:2d3:2d4:2d5:2d6
+
+2003-09-25 'transaction 1364
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7        1364 L @ 1364 M
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8
+
+2003-09-26 'transaction 1365
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9              1365 M
+    T2d1:2d2:2d3:2d4:2d5:2d6:2d7:2d8:2d9:2da         -1365 M
+
+2003-09-27 'transaction 1366
+    T2db        1366 N @ 1.16 O
+    T2db:2dc
+
+2003-09-28 'transaction 1367
+    T2db:2dc:2dd        1367 O @ 1367 P
+    T2db:2dc:2dd:2de
+
+2003-09-29 'transaction 1368
+    T2db:2dc:2dd:2de:2df              1368 P
+    T2db:2dc:2dd:2de:2df:2e0         -1368 P
+
+2003-09-30 'transaction 1369
+    T2db:2dc:2dd:2de:2df:2e0:2e1        1369 Q @ 1.19 R
+    T2db:2dc:2dd:2de:2df:2e0:2e1:2e2
+

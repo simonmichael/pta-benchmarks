@@ -1,0 +1,112 @@
+2007-02-01 'transaction 2589
+    ab:ac:ad:ae:af:b0:b1             2589 O
+    ab:ac:ad:ae:af:b0:b1:b2         -2589 O
+
+2007-02-02 'transaction 2590
+    ab:ac:ad:ae:af:b0:b1:b2:b3       2590 P @ 0.8 Q
+    ab:ac:ad:ae:af:b0:b1:b2:b3:b4
+
+2007-02-03 'transaction 2591
+    b5       2591 Q @ 2591 R
+    b5:b6
+
+2007-02-04 'transaction 2592
+    b5:b6:b7             2592 R
+    b5:b6:b7:b8         -2592 R
+
+2007-02-05 'transaction 2593
+    b5:b6:b7:b8:b9       2593 S @ 0.83 T
+    b5:b6:b7:b8:b9:ba
+
+2007-02-06 'transaction 2594
+    b5:b6:b7:b8:b9:ba:bb       2594 T @ 2594 U
+    b5:b6:b7:b8:b9:ba:bb:bc
+
+2007-02-07 'transaction 2595
+    b5:b6:b7:b8:b9:ba:bb:bc:bd             2595 U
+    b5:b6:b7:b8:b9:ba:bb:bc:bd:be         -2595 U
+
+2007-02-08 'transaction 2596
+    bf       2596 V @ 0.86 W
+    bf:c0
+
+2007-02-09 'transaction 2597
+    bf:c0:c1       2597 W @ 2597 X
+    bf:c0:c1:c2
+
+2007-02-10 'transaction 2598
+    bf:c0:c1:c2:c3             2598 X
+    bf:c0:c1:c2:c3:c4         -2598 X
+
+2007-02-11 'transaction 2599
+    bf:c0:c1:c2:c3:c4:c5       2599 Y @ 0.89 Z
+    bf:c0:c1:c2:c3:c4:c5:c6
+
+2007-02-12 'transaction 2600
+    bf:c0:c1:c2:c3:c4:c5:c6:c7       2600 Z @ 2600 A
+    bf:c0:c1:c2:c3:c4:c5:c6:c7:c8
+
+2007-02-13 'transaction 2601
+    c9             2601 A
+    c9:ca         -2601 A
+
+2007-02-14 'transaction 2602
+    c9:ca:cb       2602 B @ 0.92 C
+    c9:ca:cb:cc
+
+2007-02-15 'transaction 2603
+    c9:ca:cb:cc:cd       2603 C @ 2603 D
+    c9:ca:cb:cc:cd:ce
+
+2007-02-16 'transaction 2604
+    c9:ca:cb:cc:cd:ce:cf             2604 D
+    c9:ca:cb:cc:cd:ce:cf:d0         -2604 D
+
+2007-02-17 'transaction 2605
+    c9:ca:cb:cc:cd:ce:cf:d0:d1       2605 E @ 0.95 F
+    c9:ca:cb:cc:cd:ce:cf:d0:d1:d2
+
+2007-02-18 'transaction 2606
+    d3       2606 F @ 2606 G
+    d3:d4
+
+2007-02-19 'transaction 2607
+    d3:d4:d5             2607 G
+    d3:d4:d5:d6         -2607 G
+
+2007-02-20 'transaction 2608
+    d3:d4:d5:d6:d7       2608 H @ 0.98 I
+    d3:d4:d5:d6:d7:d8
+
+2007-02-21 'transaction 2609
+    d3:d4:d5:d6:d7:d8:d9       2609 I @ 2609 J
+    d3:d4:d5:d6:d7:d8:d9:da
+
+2007-02-22 'transaction 2610
+    d3:d4:d5:d6:d7:d8:d9:da:db             2610 J
+    d3:d4:d5:d6:d7:d8:d9:da:db:dc         -2610 J
+
+2007-02-23 'transaction 2611
+    dd       2611 K @ 1.01 L
+    dd:de
+
+2007-02-24 'transaction 2612
+    dd:de:df       2612 L @ 2612 M
+    dd:de:df:e0
+
+2007-02-25 'transaction 2613
+    dd:de:df:e0:e1             2613 M
+    dd:de:df:e0:e1:e2         -2613 M
+
+2007-02-26 'transaction 2614
+    dd:de:df:e0:e1:e2:e3       2614 N @ 1.04 O
+    dd:de:df:e0:e1:e2:e3:e4
+
+2007-02-27 'transaction 2615
+    dd:de:df:e0:e1:e2:e3:e4:e5       2615 O @ 2615 P
+    dd:de:df:e0:e1:e2:e3:e4:e5:e6
+
+2007-02-28 'transaction 2616
+    e7             2616 P
+    e7:e8         -2616 P
+

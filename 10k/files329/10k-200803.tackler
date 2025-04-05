@@ -1,0 +1,124 @@
+2008-03-01 'transaction 2983
+    T3c1:3c2:3c3:3c4:3c5        2983 S @ 1.13 T
+    T3c1:3c2:3c3:3c4:3c5:3c6
+
+2008-03-02 'transaction 2984
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7        2984 T @ 2984 U
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8
+
+2008-03-03 'transaction 2985
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9              2985 U
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca         -2985 U
+
+2008-03-04 'transaction 2986
+    T3cb        2986 V @ 1.16 W
+    T3cb:3cc
+
+2008-03-05 'transaction 2987
+    T3cb:3cc:3cd        2987 W @ 2987 X
+    T3cb:3cc:3cd:3ce
+
+2008-03-06 'transaction 2988
+    T3cb:3cc:3cd:3ce:3cf              2988 X
+    T3cb:3cc:3cd:3ce:3cf:3d0         -2988 X
+
+2008-03-07 'transaction 2989
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1        2989 Y @ 1.19 Z
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2
+
+2008-03-08 'transaction 2990
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3        2990 Z @ 2990 A
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4
+
+2008-03-09 'transaction 2991
+    T3d5              2991 A
+    T3d5:3d6         -2991 A
+
+2008-03-10 'transaction 2992
+    T3d5:3d6:3d7        2992 B @ 1.22 C
+    T3d5:3d6:3d7:3d8
+
+2008-03-11 'transaction 2993
+    T3d5:3d6:3d7:3d8:3d9        2993 C @ 2993 D
+    T3d5:3d6:3d7:3d8:3d9:3da
+
+2008-03-12 'transaction 2994
+    T3d5:3d6:3d7:3d8:3d9:3da:3db              2994 D
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc         -2994 D
+
+2008-03-13 'transaction 2995
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd        2995 E @ 1.25 F
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de
+
+2008-03-14 'transaction 2996
+    T3df        2996 F @ 2996 G
+    T3df:3e0
+
+2008-03-15 'transaction 2997
+    T3df:3e0:3e1              2997 G
+    T3df:3e0:3e1:3e2         -2997 G
+
+2008-03-16 'transaction 2998
+    T3df:3e0:3e1:3e2:3e3        2998 H @ 1.28 I
+    T3df:3e0:3e1:3e2:3e3:3e4
+
+2008-03-17 'transaction 2999
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5        2999 I @ 2999 J
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6
+
+2008-03-18 'transaction 3000
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7              3000 J
+    T3df:3e0:3e1:3e2:3e3:3e4:3e5:3e6:3e7:3e8         -3000 J
+
+2008-03-19 'transaction 3001
+    T1      3001 K @ 0.71 L
+    T1:2
+
+2008-03-20 'transaction 3002
+    T1:2:3      3002 L @ 3002 M
+    T1:2:3:4
+
+2008-03-21 'transaction 3003
+    T1:2:3:4:5            3003 M
+    T1:2:3:4:5:6         -3003 M
+
+2008-03-22 'transaction 3004
+    T1:2:3:4:5:6:7      3004 N @ 0.74 O
+    T1:2:3:4:5:6:7:8
+
+2008-03-23 'transaction 3005
+    T1:2:3:4:5:6:7:8:9      3005 O @ 3005 P
+    T1:2:3:4:5:6:7:8:9:a
+
+2008-03-24 'transaction 3006
+    b            3006 P
+    b:c         -3006 P
+
+2008-03-25 'transaction 3007
+    b:c:d      3007 Q @ 0.77 R
+    b:c:d:e
+
+2008-03-26 'transaction 3008
+    b:c:d:e:f       3008 R @ 3008 S
+    b:c:d:e:f:10
+
+2008-03-27 'transaction 3009
+    b:c:d:e:f:10:11             3009 S
+    b:c:d:e:f:10:11:12         -3009 S
+
+2008-03-28 'transaction 3010
+    b:c:d:e:f:10:11:12:13       3010 T @ 0.8 U
+    b:c:d:e:f:10:11:12:13:14
+
+2008-03-29 'transaction 3011
+    T15       3011 U @ 3011 V
+    T15:16
+
+2008-03-30 'transaction 3012
+    T15:16:17             3012 V
+    T15:16:17:18         -3012 V
+
+2008-03-31 'transaction 3013
+    T15:16:17:18:19       3013 W @ 0.83 X
+    T15:16:17:18:19:1a
+

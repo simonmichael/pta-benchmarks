@@ -1,0 +1,124 @@
+2007-10-01 'transaction 2831
+    T295        2831 W @ 2831 X
+    T295:296
+
+2007-10-02 'transaction 2832
+    T295:296:297              2832 X
+    T295:296:297:298         -2832 X
+
+2007-10-03 'transaction 2833
+    T295:296:297:298:299        2833 Y @ 0.83 Z
+    T295:296:297:298:299:29a
+
+2007-10-04 'transaction 2834
+    T295:296:297:298:299:29a:29b        2834 Z @ 2834 A
+    T295:296:297:298:299:29a:29b:29c
+
+2007-10-05 'transaction 2835
+    T295:296:297:298:299:29a:29b:29c:29d              2835 A
+    T295:296:297:298:299:29a:29b:29c:29d:29e         -2835 A
+
+2007-10-06 'transaction 2836
+    T29f        2836 B @ 0.86 C
+    T29f:2a0
+
+2007-10-07 'transaction 2837
+    T29f:2a0:2a1        2837 C @ 2837 D
+    T29f:2a0:2a1:2a2
+
+2007-10-08 'transaction 2838
+    T29f:2a0:2a1:2a2:2a3              2838 D
+    T29f:2a0:2a1:2a2:2a3:2a4         -2838 D
+
+2007-10-09 'transaction 2839
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5        2839 E @ 0.89 F
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6
+
+2007-10-10 'transaction 2840
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7        2840 F @ 2840 G
+    T29f:2a0:2a1:2a2:2a3:2a4:2a5:2a6:2a7:2a8
+
+2007-10-11 'transaction 2841
+    T2a9              2841 G
+    T2a9:2aa         -2841 G
+
+2007-10-12 'transaction 2842
+    T2a9:2aa:2ab        2842 H @ 0.92 I
+    T2a9:2aa:2ab:2ac
+
+2007-10-13 'transaction 2843
+    T2a9:2aa:2ab:2ac:2ad        2843 I @ 2843 J
+    T2a9:2aa:2ab:2ac:2ad:2ae
+
+2007-10-14 'transaction 2844
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af              2844 J
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0         -2844 J
+
+2007-10-15 'transaction 2845
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1        2845 K @ 0.95 L
+    T2a9:2aa:2ab:2ac:2ad:2ae:2af:2b0:2b1:2b2
+
+2007-10-16 'transaction 2846
+    T2b3        2846 L @ 2846 M
+    T2b3:2b4
+
+2007-10-17 'transaction 2847
+    T2b3:2b4:2b5              2847 M
+    T2b3:2b4:2b5:2b6         -2847 M
+
+2007-10-18 'transaction 2848
+    T2b3:2b4:2b5:2b6:2b7        2848 N @ 0.98 O
+    T2b3:2b4:2b5:2b6:2b7:2b8
+
+2007-10-19 'transaction 2849
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9        2849 O @ 2849 P
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba
+
+2007-10-20 'transaction 2850
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb              2850 P
+    T2b3:2b4:2b5:2b6:2b7:2b8:2b9:2ba:2bb:2bc         -2850 P
+
+2007-10-21 'transaction 2851
+    T2bd        2851 Q @ 1.01 R
+    T2bd:2be
+
+2007-10-22 'transaction 2852
+    T2bd:2be:2bf        2852 R @ 2852 S
+    T2bd:2be:2bf:2c0
+
+2007-10-23 'transaction 2853
+    T2bd:2be:2bf:2c0:2c1              2853 S
+    T2bd:2be:2bf:2c0:2c1:2c2         -2853 S
+
+2007-10-24 'transaction 2854
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3        2854 T @ 1.04 U
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4
+
+2007-10-25 'transaction 2855
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5        2855 U @ 2855 V
+    T2bd:2be:2bf:2c0:2c1:2c2:2c3:2c4:2c5:2c6
+
+2007-10-26 'transaction 2856
+    T2c7              2856 V
+    T2c7:2c8         -2856 V
+
+2007-10-27 'transaction 2857
+    T2c7:2c8:2c9        2857 W @ 1.07 X
+    T2c7:2c8:2c9:2ca
+
+2007-10-28 'transaction 2858
+    T2c7:2c8:2c9:2ca:2cb        2858 X @ 2858 Y
+    T2c7:2c8:2c9:2ca:2cb:2cc
+
+2007-10-29 'transaction 2859
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd              2859 Y
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce         -2859 Y
+
+2007-10-30 'transaction 2860
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf        2860 Z @ 1.1 A
+    T2c7:2c8:2c9:2ca:2cb:2cc:2cd:2ce:2cf:2d0
+
+2007-10-31 'transaction 2861
+    T2d1        2861 A @ 2861 B
+    T2d1:2d2
+

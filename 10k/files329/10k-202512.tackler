@@ -1,0 +1,124 @@
+2025-12-01 'transaction 9467
+    T3a3:3a4:3a5        9467 C @ 9467 D
+    T3a3:3a4:3a5:3a6
+
+2025-12-02 'transaction 9468
+    T3a3:3a4:3a5:3a6:3a7              9468 D
+    T3a3:3a4:3a5:3a6:3a7:3a8         -9468 D
+
+2025-12-03 'transaction 9469
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9        9469 E @ 1.19 F
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa
+
+2025-12-04 'transaction 9470
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab        9470 F @ 9470 G
+    T3a3:3a4:3a5:3a6:3a7:3a8:3a9:3aa:3ab:3ac
+
+2025-12-05 'transaction 9471
+    T3ad              9471 G
+    T3ad:3ae         -9471 G
+
+2025-12-06 'transaction 9472
+    T3ad:3ae:3af        9472 H @ 1.22 I
+    T3ad:3ae:3af:3b0
+
+2025-12-07 'transaction 9473
+    T3ad:3ae:3af:3b0:3b1        9473 I @ 9473 J
+    T3ad:3ae:3af:3b0:3b1:3b2
+
+2025-12-08 'transaction 9474
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3              9474 J
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4         -9474 J
+
+2025-12-09 'transaction 9475
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5        9475 K @ 1.25 L
+    T3ad:3ae:3af:3b0:3b1:3b2:3b3:3b4:3b5:3b6
+
+2025-12-10 'transaction 9476
+    T3b7        9476 L @ 9476 M
+    T3b7:3b8
+
+2025-12-11 'transaction 9477
+    T3b7:3b8:3b9              9477 M
+    T3b7:3b8:3b9:3ba         -9477 M
+
+2025-12-12 'transaction 9478
+    T3b7:3b8:3b9:3ba:3bb        9478 N @ 1.28 O
+    T3b7:3b8:3b9:3ba:3bb:3bc
+
+2025-12-13 'transaction 9479
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd        9479 O @ 9479 P
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be
+
+2025-12-14 'transaction 9480
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf              9480 P
+    T3b7:3b8:3b9:3ba:3bb:3bc:3bd:3be:3bf:3c0         -9480 P
+
+2025-12-15 'transaction 9481
+    T3c1        9481 Q @ 0.71 R
+    T3c1:3c2
+
+2025-12-16 'transaction 9482
+    T3c1:3c2:3c3        9482 R @ 9482 S
+    T3c1:3c2:3c3:3c4
+
+2025-12-17 'transaction 9483
+    T3c1:3c2:3c3:3c4:3c5              9483 S
+    T3c1:3c2:3c3:3c4:3c5:3c6         -9483 S
+
+2025-12-18 'transaction 9484
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7        9484 T @ 0.74 U
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8
+
+2025-12-19 'transaction 9485
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9        9485 U @ 9485 V
+    T3c1:3c2:3c3:3c4:3c5:3c6:3c7:3c8:3c9:3ca
+
+2025-12-20 'transaction 9486
+    T3cb              9486 V
+    T3cb:3cc         -9486 V
+
+2025-12-21 'transaction 9487
+    T3cb:3cc:3cd        9487 W @ 0.77 X
+    T3cb:3cc:3cd:3ce
+
+2025-12-22 'transaction 9488
+    T3cb:3cc:3cd:3ce:3cf        9488 X @ 9488 Y
+    T3cb:3cc:3cd:3ce:3cf:3d0
+
+2025-12-23 'transaction 9489
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1              9489 Y
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2         -9489 Y
+
+2025-12-24 'transaction 9490
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3        9490 Z @ 0.8 A
+    T3cb:3cc:3cd:3ce:3cf:3d0:3d1:3d2:3d3:3d4
+
+2025-12-25 'transaction 9491
+    T3d5        9491 A @ 9491 B
+    T3d5:3d6
+
+2025-12-26 'transaction 9492
+    T3d5:3d6:3d7              9492 B
+    T3d5:3d6:3d7:3d8         -9492 B
+
+2025-12-27 'transaction 9493
+    T3d5:3d6:3d7:3d8:3d9        9493 C @ 0.83 D
+    T3d5:3d6:3d7:3d8:3d9:3da
+
+2025-12-28 'transaction 9494
+    T3d5:3d6:3d7:3d8:3d9:3da:3db        9494 D @ 9494 E
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc
+
+2025-12-29 'transaction 9495
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd              9495 E
+    T3d5:3d6:3d7:3d8:3d9:3da:3db:3dc:3dd:3de         -9495 E
+
+2025-12-30 'transaction 9496
+    T3df        9496 F @ 0.86 G
+    T3df:3e0
+
+2025-12-31 'transaction 9497
+    T3df:3e0:3e1        9497 G @ 9497 H
+    T3df:3e0:3e1:3e2
+

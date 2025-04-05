@@ -1,0 +1,124 @@
+2004-10-01 'transaction 1736
+    T1d7        1736 T @ 1736 U
+    T1d7:1d8
+
+2004-10-02 'transaction 1737
+    T1d7:1d8:1d9              1737 U
+    T1d7:1d8:1d9:1da         -1737 U
+
+2004-10-03 'transaction 1738
+    T1d7:1d8:1d9:1da:1db        1738 V @ 1.28 W
+    T1d7:1d8:1d9:1da:1db:1dc
+
+2004-10-04 'transaction 1739
+    T1d7:1d8:1d9:1da:1db:1dc:1dd        1739 W @ 1739 X
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de
+
+2004-10-05 'transaction 1740
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df              1740 X
+    T1d7:1d8:1d9:1da:1db:1dc:1dd:1de:1df:1e0         -1740 X
+
+2004-10-06 'transaction 1741
+    T1e1        1741 Y @ 0.71 Z
+    T1e1:1e2
+
+2004-10-07 'transaction 1742
+    T1e1:1e2:1e3        1742 Z @ 1742 A
+    T1e1:1e2:1e3:1e4
+
+2004-10-08 'transaction 1743
+    T1e1:1e2:1e3:1e4:1e5              1743 A
+    T1e1:1e2:1e3:1e4:1e5:1e6         -1743 A
+
+2004-10-09 'transaction 1744
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7        1744 B @ 0.74 C
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8
+
+2004-10-10 'transaction 1745
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9        1745 C @ 1745 D
+    T1e1:1e2:1e3:1e4:1e5:1e6:1e7:1e8:1e9:1ea
+
+2004-10-11 'transaction 1746
+    T1eb              1746 D
+    T1eb:1ec         -1746 D
+
+2004-10-12 'transaction 1747
+    T1eb:1ec:1ed        1747 E @ 0.77 F
+    T1eb:1ec:1ed:1ee
+
+2004-10-13 'transaction 1748
+    T1eb:1ec:1ed:1ee:1ef        1748 F @ 1748 G
+    T1eb:1ec:1ed:1ee:1ef:1f0
+
+2004-10-14 'transaction 1749
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1              1749 G
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2         -1749 G
+
+2004-10-15 'transaction 1750
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3        1750 H @ 0.8 I
+    T1eb:1ec:1ed:1ee:1ef:1f0:1f1:1f2:1f3:1f4
+
+2004-10-16 'transaction 1751
+    T1f5        1751 I @ 1751 J
+    T1f5:1f6
+
+2004-10-17 'transaction 1752
+    T1f5:1f6:1f7              1752 J
+    T1f5:1f6:1f7:1f8         -1752 J
+
+2004-10-18 'transaction 1753
+    T1f5:1f6:1f7:1f8:1f9        1753 K @ 0.83 L
+    T1f5:1f6:1f7:1f8:1f9:1fa
+
+2004-10-19 'transaction 1754
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb        1754 L @ 1754 M
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc
+
+2004-10-20 'transaction 1755
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd              1755 M
+    T1f5:1f6:1f7:1f8:1f9:1fa:1fb:1fc:1fd:1fe         -1755 M
+
+2004-10-21 'transaction 1756
+    T1ff        1756 N @ 0.86 O
+    T1ff:200
+
+2004-10-22 'transaction 1757
+    T1ff:200:201        1757 O @ 1757 P
+    T1ff:200:201:202
+
+2004-10-23 'transaction 1758
+    T1ff:200:201:202:203              1758 P
+    T1ff:200:201:202:203:204         -1758 P
+
+2004-10-24 'transaction 1759
+    T1ff:200:201:202:203:204:205        1759 Q @ 0.89 R
+    T1ff:200:201:202:203:204:205:206
+
+2004-10-25 'transaction 1760
+    T1ff:200:201:202:203:204:205:206:207        1760 R @ 1760 S
+    T1ff:200:201:202:203:204:205:206:207:208
+
+2004-10-26 'transaction 1761
+    T209              1761 S
+    T209:20a         -1761 S
+
+2004-10-27 'transaction 1762
+    T209:20a:20b        1762 T @ 0.92 U
+    T209:20a:20b:20c
+
+2004-10-28 'transaction 1763
+    T209:20a:20b:20c:20d        1763 U @ 1763 V
+    T209:20a:20b:20c:20d:20e
+
+2004-10-29 'transaction 1764
+    T209:20a:20b:20c:20d:20e:20f              1764 V
+    T209:20a:20b:20c:20d:20e:20f:210         -1764 V
+
+2004-10-30 'transaction 1765
+    T209:20a:20b:20c:20d:20e:20f:210:211        1765 W @ 0.95 X
+    T209:20a:20b:20c:20d:20e:20f:210:211:212
+
+2004-10-31 'transaction 1766
+    T213        1766 X @ 1766 Y
+    T213:214
+
