@@ -1,30 +1,41 @@
+# just list all targets
+default:
+    @just --list
+
 qb := 'quickbench'
 #qb = 'quickbench -N2 -n2'
 
+# benchmarks with output
 bench:
     {{ qb }} \
     'ledger -f files1/10k.journal bal' \
     'hledger -f files1/10k.journal bal' \
-    'tackler --config tackler-10k-files1.toml' \
-    'tackler --config tackler-10k-files28.toml' \
-#    'tackler --config tackler-10k-files329.toml' \
+    'tackler --config tackler.toml --input.fs.dir files1 --input.fs.ext journal'
+    'tackler --config tackler.toml --input.fs.dir files28 --input.fs.ext journal'
 
 #time := 'time'
 time := 'gtime'
 
+# benchmarks with output to /dev/null
 bench2:
     {{ time }} ledger -f files1/10k.journal bal       >/dev/null; echo
     {{ time }} hledger -f files1/10k.journal bal      >/dev/null; echo
-    {{ time }} tackler --config tackler-10k-files1.toml   >/dev/null; echo
-    {{ time }} tackler --config tackler-10k-files28.toml  >/dev/null; echo
-#    {{ time }} tackler --config tackler-10k-files329.toml >/dev/null; echo
+    {{ time }} tackler --config tackler.toml --input.fs.dir files1 --input.fs.ext journal  >/dev/null; echo
+    {{ time }} tackler --config tackler.toml --input.fs.dir files28 --input.fs.ext journal  >/dev/null; echo
 
+# benchmarks with simple journal, with 10_000 txns, single file
+simple10k:
+    {{ time }} ledger -f simple10k/txns-1E4.journal bal       >/dev/null; echo
+    {{ time }} hledger -f simple10k/txns-1E4.journal bal      >/dev/null; echo
+    {{ time }} tackler --config tackler.toml --input.fs.dir simple10k --input.fs.ext journal  >/dev/null; echo
+
+# Generate outputs to files
 output:
     ledger  -f 10k.journal bal             > balances-ledger.txt
     hledger -f 10k.journal bal             > balances-hledger.txt
-    tackler --config tackler-10k-files1.toml   > balances-tackler1.txt
-    tackler --config tackler-10k-files28.toml  > balances-tackler28.txt
-#    tackler --config tackler-10k-files329.toml > balances-tackler329.txt
+    tackler --config tackler.toml --input.fs.dir simple10k --input.fs.ext journal --output.dir . --output.prefix balances-tackler1 >/dev/null; echo
+    tackler --config tackler.toml --input.fs.dir simple10k --input.fs.ext journal --output.dir . --output.prefix balances-tackler28 >/dev/null; echo
+
 
 files28:
     mkdir -p files28

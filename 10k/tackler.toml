@@ -1,8 +1,19 @@
+###
+### Tackler Generic configuration file
+###
+### Please provide correct journal with:
+###   --input.fs.dir 
+###   --input.fs.ext 
+### For example:
+###   tackler --config tackler.toml \
+###      --input.fs.dir simple10k \
+###      --input.fs.ext txn
+###
 [kernel]
 strict = false
 audit = { mode = false, hash = "SHA-256" }
 timestamp = { default-time = 00:00:00, timezone = { name = "UTC" } }
-input = { storage = "fs", fs = { path = ".", dir = "files329", suffix = "journal" } }
+input = { storage = "fs", fs = { path = ".", dir = "files1", suffix = "txn" } }
 
 [transaction]
 accounts    = { path = "none" }
@@ -12,11 +23,11 @@ tags        = { path = "none" }
 [report]
 report-timezone = "UTC"
 scale = { min = 2, max = 2 }
-accounts = [ ".*" ]
+accounts = [ ]
 targets  = [ "balance" ]
 balance  = { title = "Balance Report" }
 balance-group = { title = "Balance Group Report", group-by = "month" }
-register      = { title = "Register Report", accounts = [ ".*" ]}
+register      = { title = "Register Report", accounts = [  ]}
 
 [export]
 targets = [ ]
