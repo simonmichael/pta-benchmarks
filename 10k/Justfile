@@ -3,8 +3,8 @@ bench:
     'tackler --config 10k.files1.toml' \
     'tackler --config 10k.files28.toml' \
     'tackler --config 10k.files329.toml' \
-    'hledger -f 10ktxns-1kaccts.tackler bal' \
-    'ledger -f 10ktxns-1kaccts.tackler bal'
+    'hledger -f 10ktxns-1kaccts.journal bal' \
+    'ledger -f 10ktxns-1kaccts.journal bal'
 
 time := 'gtime'
 
@@ -12,20 +12,20 @@ bench2:
     {{ time }} tackler --config 10k.files1.toml       >/dev/null
     {{ time }} tackler --config 10k.files28.toml      >/dev/null
     {{ time }} tackler --config 10k.files329.toml     >/dev/null
-    {{ time }} hledger -f 10ktxns-1kaccts.tackler bal >/dev/null
-    {{ time }} ledger -f 10ktxns-1kaccts.tackler bal  >/dev/null
+    {{ time }} hledger -f 10ktxns-1kaccts.journal bal >/dev/null
+    {{ time }} ledger -f 10ktxns-1kaccts.journal bal  >/dev/null
 
 output:
     tackler --config 10k.files1.toml       > balances-tackler1.txt
     tackler --config 10k.files28.toml      > balances-tackler28.txt
     tackler --config 10k.files329.toml     > balances-tackler329.txt
-    hledger -f 10ktxns-1kaccts.tackler bal > balances-hledger.txt
-    ledger  -f 10ktxns-1kaccts.tackler bal > balances-ledger.txt
+    hledger -f 10ktxns-1kaccts.journal bal > balances-hledger.txt
+    ledger  -f 10ktxns-1kaccts.journal bal > balances-ledger.txt
 
 files28:
     mkdir -p files28
-    for y in `seq 2000 2027`; do hledger -f 10ktxns-1kaccts.tackler print date:$y >files28/10k-$y.tackler; done
+    for y in `seq 2000 2027`; do hledger -f files1/10k.journal print date:$y >files28/10k-$y.journal; done
 
 files336:
     mkdir -p files336
-    for y in `seq 2000 2027`; do for m in `seq 1 12`; do hledger -f 10ktxns-1kaccts.tackler print date:$y/$m >files336/10k-$y`printf "%02d" $m`.tackler; done; done
+    for y in `seq 2000 2027`; do for m in `seq 1 12`; do hledger -f files1/10k.journal print date:$y/$m >files336/10k-$y`printf "%02d" $m`.journal; done; done
