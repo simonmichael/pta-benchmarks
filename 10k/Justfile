@@ -53,12 +53,12 @@ simple-outputs:
     hledger -f simple-files1/10k-simple.journal bal >outputs/simple-balances-hledger.txt
     {{ tackler }} --input.fs.dir simple-files1      >outputs/simple-balances-tackler.txt
 
-# Regenerate the 28 per-year files from the main journal. (May need update.)
+# Regenerate the 28 yearly files from the main journal. (May need update.)
 _files28:
     mkdir -p files28
     for y in `seq 2000 2027`; do echo files28/10k-$y.journal; hledger -f files1/10k.journal print date:$y >files28/10k-$y.journal; done
 
-# Regenerate the 329 per-month files from the main journal. (May need update.)
-_files336:
-    mkdir -p files336
-    for y in `seq 2000 2027`; do for m in `seq 1 12`; do echo files336/10k-$y`printf "%02d" $m`.journal; hledger -f files1/10k.journal print date:$y/$m >files336/10k-$y`printf "%02d" $m`.journal; done; done
+# Regenerate the 329 monthly files (+ 7 empties) from the main journal. (May need update.)
+_files329:
+    mkdir -p files329
+    for y in `seq 2000 2027`; do for m in `seq 1 12`; do echo files329/10k-$y`printf "%02d" $m`.journal; hledger -f files1/10k.journal print date:$y/$m >files329/10k-$y`printf "%02d" $m`.journal; done; done
