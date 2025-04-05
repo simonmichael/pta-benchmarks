@@ -1,46 +1,48 @@
-# just list all targets
-default:
-    @just --list
+# List recipes.
+help:
+    @just -l -u
 
 qb := 'quickbench'
 #qb = 'quickbench -N2 -n2'
 
-# benchmarks with output
-bench:
-    {{ qb }} \
-    'ledger -f files1/10k.journal bal' \
-    'hledger -f files1/10k.journal bal' \
-    'tackler --config tackler.toml --input.fs.dir files1 --input.fs.ext journal'
-    'tackler --config tackler.toml --input.fs.dir files28 --input.fs.ext journal'
-
 #time := 'time'
 time := 'gtime'
 
-# benchmarks with output to /dev/null
+# Save the outputs benchmark commands would produce, for sanity checking.
+outputs:
+    mkdir -p outputs
+    ledger  -f files1/10k.journal bal >outputs/balances-ledger.txt
+    hledger -f files1/10k.journal bal >outputs/balances-hledger.txt
+    tackler --config tackler.toml --input.fs.dir files1  --input.fs.ext journal >outputs/balances-tackler-files1.txt
+    tackler --config tackler.toml --input.fs.dir files28 --input.fs.ext journal >outputs/balances-tackler-files28.txt
+
+# Run the benchmarks with quickbench.
+bench:
+    {{ qb }} \
+    'ledger  -f files1/10k.journal bal' \
+    'hledger -f files1/10k.journal bal' \
+    'tackler --config tackler.toml --input.fs.dir files1  --input.fs.ext journal' \
+    'tackler --config tackler.toml --input.fs.dir files28 --input.fs.ext journal'
+
+# Run the benchmarks with (g)time.
 bench2:
-    {{ time }} ledger -f files1/10k.journal bal       >/dev/null; echo
-    {{ time }} hledger -f files1/10k.journal bal      >/dev/null; echo
+    {{ time }} ledger  -f files1/10k.journal bal >/dev/null; echo
+    {{ time }} hledger -f files1/10k.journal bal >/dev/null; echo
     {{ time }} tackler --config tackler.toml --input.fs.dir files1 --input.fs.ext journal  >/dev/null; echo
     {{ time }} tackler --config tackler.toml --input.fs.dir files28 --input.fs.ext journal  >/dev/null; echo
 
-# benchmarks with simple journal, with 10_000 txns, single file
-simple10k:
-    {{ time }} ledger -f simple10k/txns-1E4.journal bal       >/dev/null; echo
-    {{ time }} hledger -f simple10k/txns-1E4.journal bal      >/dev/null; echo
-    {{ time }} tackler --config tackler.toml --input.fs.dir simple10k --input.fs.ext journal  >/dev/null; echo
+# Run benchmarks on a simpler journal, with (g)time.
+simple:
+    {{ time }} ledger  -f simple-files1/txns-1E4.journal bal >/dev/null; echo
+    {{ time }} hledger -f simple-files1/txns-1E4.journal bal >/dev/null; echo
+    {{ time }} tackler --config tackler.toml --input.fs.dir simple-files1 --input.fs.ext journal  >/dev/null; echo
 
-# Generate outputs to files
-output:
-    ledger  -f 10k.journal bal             > balances-ledger.txt
-    hledger -f 10k.journal bal             > balances-hledger.txt
-    tackler --config tackler.toml --input.fs.dir simple10k --input.fs.ext journal --output.dir . --output.prefix balances-tackler1 >/dev/null; echo
-    tackler --config tackler.toml --input.fs.dir simple10k --input.fs.ext journal --output.dir . --output.prefix balances-tackler28 >/dev/null; echo
-
-
-files28:
+# Regenerate the 28 per-year files from the main journal. (May need update.)
+_files28:
     mkdir -p files28
     for y in `seq 2000 2027`; do echo files28/10k-$y.journal; hledger -f files1/10k.journal print date:$y >files28/10k-$y.journal; done
 
-files336:
+# Regenerate the 329 per-month files from the main journal. (May need update.)
+_files336:
     mkdir -p files336
     for y in `seq 2000 2027`; do for m in `seq 1 12`; do echo files336/10k-$y`printf "%02d" $m`.journal; hledger -f files1/10k.journal print date:$y/$m >files336/10k-$y`printf "%02d" $m`.journal; done; done
