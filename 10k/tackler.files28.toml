@@ -2,7 +2,7 @@
 strict = false
 audit = { mode = false, hash = "SHA-256" }
 timestamp = { default-time = 00:00:00, timezone = { name = "UTC" } }
-input = { storage = "fs", fs = { path = ".", dir = "files28", suffix = "tackler" } }
+input = { storage = "fs", fs = { path = ".", dir = "files28", suffix = "journal" } }
 
 [transaction]
 accounts    = { path = "none" }

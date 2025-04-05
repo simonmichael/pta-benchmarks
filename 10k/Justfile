@@ -1,26 +1,30 @@
-bench:
-    quickbench -N2 \
-    'tackler --config 10k.files1.toml' \
-    'tackler --config 10k.files28.toml' \
-    'tackler --config 10k.files329.toml' \
-    'hledger -f 10ktxns-1kaccts.journal bal' \
-    'ledger -f 10ktxns-1kaccts.journal bal'
+qb := 'quickbench'
+#qb = 'quickbench -N2 -n2'
 
+bench:
+    {{ qb }} \
+    'ledger -f files1/10k.journal bal' \
+    'hledger -f files1/10k.journal bal' \
+    'tackler --config tackler.files1.toml' \
+    'tackler --config tackler.files28.toml' \
+#    'tackler --config tackler.files329.toml' \
+
+#time := 'time'
 time := 'gtime'
 
 bench2:
-    {{ time }} tackler --config 10k.files1.toml       >/dev/null
-    {{ time }} tackler --config 10k.files28.toml      >/dev/null
-    {{ time }} tackler --config 10k.files329.toml     >/dev/null
-    {{ time }} hledger -f 10ktxns-1kaccts.journal bal >/dev/null
-    {{ time }} ledger -f 10ktxns-1kaccts.journal bal  >/dev/null
+    {{ time }} ledger -f files1/10k.journal bal       >/dev/null; echo
+    {{ time }} hledger -f files1/10k.journal bal      >/dev/null; echo
+    {{ time }} tackler --config tackler.files1.toml   >/dev/null; echo
+    {{ time }} tackler --config tackler.files28.toml  >/dev/null; echo
+#    {{ time }} tackler --config tackler.files329.toml >/dev/null; echo
 
 output:
-    tackler --config 10k.files1.toml       > balances-tackler1.txt
-    tackler --config 10k.files28.toml      > balances-tackler28.txt
-    tackler --config 10k.files329.toml     > balances-tackler329.txt
-    hledger -f 10ktxns-1kaccts.journal bal > balances-hledger.txt
-    ledger  -f 10ktxns-1kaccts.journal bal > balances-ledger.txt
+    ledger  -f 10k.journal bal             > balances-ledger.txt
+    hledger -f 10k.journal bal             > balances-hledger.txt
+    tackler --config tackler.files1.toml   > balances-tackler1.txt
+    tackler --config tackler.files28.toml  > balances-tackler28.txt
+#    tackler --config tackler.files329.toml > balances-tackler329.txt
 
 files28:
     mkdir -p files28
