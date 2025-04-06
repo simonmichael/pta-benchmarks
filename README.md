@@ -2,6 +2,8 @@ Some rough benchmarks of plain text accounting apps,
 currently Ledger, hledger, Beancount, and Tackler.
 
 - 10k - balance report with 10 thousand transactions and 1 thousand accounts
+- 100k - balance report with 100 thousand transactions and 1 thousand accounts
+- 500k - balance report with 500 thousand transactions and 1 thousand accounts
 
 Tools that may be useful:
 
