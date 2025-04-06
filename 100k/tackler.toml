@@ -6,7 +6,7 @@
 ###   --input.fs.ext 
 ### For example:
 ###   tackler --config tackler.toml \
-###      --input.fs.dir simple10k \
+###      --input.fs.dir files1 \
 ###      --input.fs.ext journal
 ###
 [kernel]
