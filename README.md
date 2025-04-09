@@ -14,4 +14,4 @@ Tools that may be useful:
 - ledger     - https://ledger-cli.org
 - hledger    - https://hledger.org
 - beancount  - https://beancount.github.io
-- tackler    - https://tackler.e257.fi
+- tackler 25.04.2+    - https://tackler.e257.fi
