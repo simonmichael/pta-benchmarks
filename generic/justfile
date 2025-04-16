@@ -1,0 +1,72 @@
+# vim: tabstop=4 shiftwidth=4 softtabstop=4 smarttab expandtab autoindent
+#
+# SPDX-License-Identifier: MIT
+# SPDX-FileCopyrightText: 2025 35V LG84 <https://github.com/35vlg84>
+
+set positional-arguments
+
+alias gen  := generate
+alias help := default
+
+data_path := "bench_data"
+
+ptag := "pta-generator"
+tackler := 'tackler'
+ledger := 'ledger'
+hledger := 'hledger'
+bean-query := 'bean-query'
+
+#time_var := 'time -f "$tool: \tReal\t%e s;\tMem \t%M Kbytes;\tCPU\t%P"'
+time_var := 'gtime -f "$tool: \tReal\t%e s;\tMem \t%M Kbytes;\tCPU\t%P"'
+
+# List all targets and used data_path
+default:
+    @just --list --unsorted
+    @echo "Used {{{{data_path}} is: {{data_path}}"
+
+# Clean all data under '{{data_path}}/comm'
+clean-data:
+    rm -rf "{{data_path}}/comm"
+
+# Generate data set, SET_SIZE could be: 1e1, 1e2, ..., 1e6
+generate SET_SIZE:
+    @echo "### Generating test data for 'comm', size: {{SET_SIZE}}"
+    @{{ptag}} comm --path "{{data_path}}" --set-size {{SET_SIZE}} --shard-type single --flavor tackler > /dev/null
+    @{{ptag}} comm --path "{{data_path}}" --set-size {{SET_SIZE}} --shard-type single --flavor ledger > /dev/null
+    @{{ptag}} comm --path "{{data_path}}" --set-size {{SET_SIZE}} --shard-type single --flavor beancount > /dev/null
+    @echo "### Done"
+
+# Run benchmark with generated data, SET_SIZE could be: 1e1, 1e2, ..., 1e6
+bench SET_SIZE:
+    @if [[ ! -e "{{data_path}}/comm/set-{{SET_SIZE}}-single.toml" ]]; then echo "Please generate first data set: {{SET_SIZE}}"; exit 1; fi
+    @echo "###"
+    @echo "### Journal with Commodities, {{SET_SIZE}} txns"
+    @echo "###"
+    tool={{tackler}}; {{time_var}} \
+        {{tackler}} --config "{{data_path}}/comm/set-{{SET_SIZE}}-single.toml" > /dev/null
+    @echo
+
+    tool={{ledger}}; {{time_var}} \
+        {{ledger}}        -f "{{data_path}}/comm/set-{{SET_SIZE}}-single/txns/{{SET_SIZE}}.journal" bal >/dev/null
+    @echo
+
+    tool={{hledger}}; {{time_var}} \
+        {{hledger}}       -f "{{data_path}}/comm/set-{{SET_SIZE}}-single/txns/{{SET_SIZE}}.journal" bal >/dev/null
+    @echo
+
+    tool={{bean-query}}; {{time_var}} \
+        {{bean-query}}       "{{data_path}}/comm/set-{{SET_SIZE}}-single/txns/{{SET_SIZE}}.beancount"  'balances from year = 2024' >/dev/null
+    @echo
+
+# Report PTA tool versions
+version:
+    @{{ptag}} --version
+    @{{tackler}} --version
+    @{{ledger}} --version | head -n1
+    @{{hledger}} --version
+    @{{bean-query}} --version
+
+# Install PTA-Generator tool
+install:
+    cargo install --locked pta-generator
+
